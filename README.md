@@ -127,5 +127,5 @@ cd ZIQI-Eval/src
 ```
 ## 许可证
 
-ArcMMLU数据集采用
+ZIQI-Eval数据集采用
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
