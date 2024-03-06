@@ -30,12 +30,14 @@
 
 | 模型                                                                          | 作曲理论  | 世界民族音乐 | 流行音乐 | 西方音乐史 | 中国音乐史 | 中国传统音乐 | 音乐美学 | 音乐教育 | 音乐表演 | 女性音乐 | 平均分 |
 |-------------------------------------------------------------------------------|-------|---------|---------|-------|-------|-------|---------|---------|-------|-------|-------|
-| GPT4 (gpt-4-0613)                                                             | 
-| [Qwen-14B](https://github.com/QwenLM/Qwen)                                    | 
+| GPT4 (gpt-4)                                                                  |
+| ChatGPT (gpt-3.5-turbo)                                                       |
+| Claude-1.2-instant                                                            |
+| [Qwen-14B-base](https://github.com/QwenLM/Qwen)                               | 15.28 | 24.04 | 25.79 | 16.34 | 16.19 | 17.67 | 18.39 | 20.32 | 18.28 | 20.90 | 18.90 |
 | [Baichuan2-13B](https://github.com/baichuan-inc/Baichuan2)                    | 
 | [XVERSE-7B](https://github.com/xverse-ai/XVERSE-7B)                           | 
-| [Qwen-7B](https://github.com/QwenLM/Qwen)                                     | 
-| ChatGPT (gpt-3.5-turbo)                                                       | 
+| [Qwen-7B-base](https://github.com/QwenLM/Qwen)                                | 18.97 | 19.61 | 24.71 | 19.28 | 19.83 | 19.46 | 17.78 | 21.68 | 22.40 | 24.48 | 20.36 |
+|                                                                               | 
 | [InternLM-20B](https://github.com/InternLM/InternLM)                          | 
 | [Baichuan2-7B](https://github.com/baichuan-inc/Baichuan2)                     | 
 | [Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)                  | 
@@ -44,7 +46,7 @@
 | [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)                           | 
 | [educhat-base-002-13b](https://github.com/icalk-nlp/EduChat)                  | 
 | [Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)                    | 
-| [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)                             | 
+| [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)                           | 
 | [Ziya-LLaMA-13B-v1.1](https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1)   | 
 
 
