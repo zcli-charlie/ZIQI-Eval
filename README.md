@@ -35,19 +35,20 @@
 | Claude-1.2-instant                                                            |
 | [Qwen-14B-base](https://github.com/QwenLM/Qwen)                               | 15.28 | 24.04 | 25.79 | 16.34 | 16.19 | 17.67 | 18.39 | 20.32 | 18.28 | 20.90 | 18.90 |
 | [Baichuan2-13B](https://github.com/baichuan-inc/Baichuan2)                    | 
-| [XVERSE-7B](https://github.com/xverse-ai/XVERSE-7B)                           | 
+| [XVERSE-7B](https://github.com/xverse-ai/XVERSE-7B)                           | 12.79 | 12.35 | 16.81 | 19.06 | 17.40 | 16.35 | 12.92 | 15.83 | 16.22 | 13.73 | 15.75 |
 | [Qwen-7B-base](https://github.com/QwenLM/Qwen)                                | 18.97 | 19.61 | 24.71 | 19.28 | 19.83 | 19.46 | 17.78 | 21.68 | 22.40 | 24.48 | 20.36 |
 |                                                                               | 
 | [InternLM-20B](https://github.com/InternLM/InternLM)                          | 
 | [Baichuan2-7B](https://github.com/baichuan-inc/Baichuan2)                     | 
 | [Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)                  | 
-| [XVERSE-13B](https://github.com/xverse-ai/XVERSE-13B)                         | 
+| [XVERSE-13B](https://github.com/xverse-ai/XVERSE-13B)                         | 12.79 | 16.84 | 19.29 | 23.57 | 17.17 | 16.93 | 19.91 | 21.00 | 18.89 | 20.90 | 18.38 |
 | [InternLM-7B](https://github.com/InternLM/InternLM)                           | 
 | [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)                           | 
 | [educhat-base-002-13b](https://github.com/icalk-nlp/EduChat)                  | 
 | [Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)                    | 
 | [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)                           | 
-| [Ziya-LLaMA-13B-v1.1](https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1)   | 
+| [Ziya-LLaMA-13B-v1.1](https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1)   | 27.21 | 25.15 | 21.84 | 22.09 | 23.29 | 26.11 | 19.91 | 23.62 | 22.52 | 22.09 | 23.69 |
+| [ChatMusician-Base](https://github.com/hf-lin/ChatMusician)                   | 22.40 | 21.94 | 25.02 | 26.26 | 25.19 | 25.63 | 31.31 | 23.45 | 22.52 | 33.43 | 24.61 |
 
 
 ### Five-shot
