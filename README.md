@@ -53,19 +53,20 @@
 | 模型                                                                          | 作曲理论  | 世界民族音乐 | 流行音乐 | 西方音乐史 | 中国音乐史 | 中国传统音乐 | 音乐美学 | 音乐教育 | 音乐表演 | 女性音乐 | 平均分 |
 |-------------------------------------------------------------------------------|-------|---------|---------|-------|-------|-------|---------|---------|-------|-------|-------|
 | GPT4 (gpt-4-0613)                                                             | 
-| [Qwen-14B](https://github.com/QwenLM/Qwen)                                    | 
+| [Qwen-14B](https://github.com/QwenLM/Qwen)                                    | 13.13 | 16.34   | 15.34   | 17.79 | 24.73 | 19.25 | 17.02   | 14.65   | 14.04 | 15.82 | 17.68 |
 | [Baichuan2-13B](https://github.com/baichuan-inc/Baichuan2)                    | 6.44  | 6.87    | 12.39   | 7.79  | 9.80  | 6.59  | 6.69    | 7.87    | 8.23  | 5.37  | 8.01  |
 | [XVERSE-7B](https://github.com/xverse-ai/XVERSE-7B)                           | 16.39 | 3.77    | 8.91    | 15.19 | 2.77  | 16.67 | 17.02   | 7.03    | 14.16 | 6.57  | 10.14 |
-| [XVERSE-13B](https://github.com/xverse-ai/XVERSE-13B)                         | 
-| [Qwen-7B](https://github.com/QwenLM/Qwen)                                     | 
+| [XVERSE-13B](https://github.com/xverse-ai/XVERSE-13B)                         | 20.00 | 19.28   | 20.84  | 24.00   | 16.19  | 23.36    | 19.15 | 22.27 | 15.86 | 7.16  | 19.72|
+| [Qwen-7B](https://github.com/QwenLM/Qwen)                                     | 5.41  | 6.20    | 5.89   | 5.57    | 5.05   | 4.96     | 6.53  | 5.67  | 4.96  | 5.97  | 5.48 |
 | [Baichuan2-7B-Base](https://github.com/baichuan-inc/Baichuan2)                | 7.98  | 6.81    | 12.01   | 7.83  | 11.59 | 9.86  | 9.88    | 9.14    | 12.35 | 9.25  | 9.48  |
 | ChatGPT (gpt-3.5-turbo)                                                       | 
 | [Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)                  | 5.92  | 4.93    | 9.22    | 5.32  | 5.28  | 6.22  | 6.23    | 5.67    | 5.81  | 6.57  | 5.84  |
 | [InternLM-20B](https://github.com/InternLM/InternLM)                          | 3.35  | 12.63   | 10.07   | 6.64  | 4.41  | 9.34  | 5.47    | 4.91    | 19.25 | 16.42 | 8.06  |
-| [InternLM-7B](https://github.com/InternLM/InternLM)                           | 
-| [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)                           | 
+| [InternLM-7B](https://github.com/InternLM/InternLM)                           | 6.52  | 6.81     | 11.93  | 6.09    | 6.53   | 6.49     | 9.12  | 6.86  | 9.20  | 8.06  | 7.22|
+| [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)                           |       |           |        |         |         |           |       |       |       |       |       |
+| [educhat-base-002-13b](https://github.com/icalk-nlp/EduChat)                  | 0.00   | 0.00      | 0.00   | 0.00    | 0.00    | 0.00      | 0.00  | 0.00  | 0.00  | 0.00  | 0.00  |
 | [Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)                    | 7.21  | 4.99    | 8.37    | 4.64  | 5.09  | 4.43  | 6.23    | 6.18    | 6.30  | 6.87  | 5.60  |
-| [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)                             | 
+
 
 ## 数据示例
 
