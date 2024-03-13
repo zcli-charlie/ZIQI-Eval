@@ -11,7 +11,7 @@
 <p align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center">
 📄 <a href="https://arxiv.org/abs/xxx" target="_blank" style="margin-right: 15px; margin-left: 10px">论文</a> •
 🏆 <a href="#排行榜" target="_blank"  style="margin-left: 10px">排行榜</a> • 
-🤗 <a href="https://huggingface.co/datasets/myth/ZIQI-Eval" target="_blank" style="margin-left: 10px">数据集</a>
+🤗 <a href="https://huggingface.co/datasets/MYTH-Lab/ZIQI-Eval" target="_blank" style="margin-left: 10px">数据集</a>
 </p>
 
 
