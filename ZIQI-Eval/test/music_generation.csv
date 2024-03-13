@@ -1,0 +1,2670 @@
+id,question,A,B,C,D,answer,subtheme
+0,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:6
+M:3/4
+L:1/8
+K:D
+de f2e2|d2 A4|ef g2f2|Tf2 e4|de f2 ^g2|a2 ^gfed|
+cdecdB|A6::ef g2f2|ga b2a2|bagfed|
+c2 Bc A2|d2e2f2|B2c2d2|ef Tc4|d6:|
+V:2 clef=bass
+D,2A,2G,2|F,2C,2D,2|A,2C2D2|A,2A,,4|D,6|C,2B,2^G,2|","A,2E,4|A,,6::A,4 D2|E,F, G,2F,2|G,2B,2G,2|
+A,2E,2C,2|F,2E,2D,2|G,2E,2F,2|G,2A,2A,,2|D,6:|","|:D2-|DEGE BcdB|eBdB eg3|(_B=B2)A BAGE|GEBB AGED|
+EGGA BcdB|eB[dg]B eg3|(_B=B2)B AGEG|(_B=B2)AG-G2:|","F2GAF2D2 | F2GAF2D2 | B2d2^c2e2 | dcde d2=c2 |\
+B2(cd)B2G2 | c2de d4 | c2B2A2G2 | FGAF G4 :|","|: f3ed2A2 | FAdf a3a | g2f2e2b2 | ba^ga f4 |\
+f2e2d2A2 | FAdf a4 | gfed cABc | d2d2 d4 :|",A,音乐续写
+1,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:7
+M:C|
+L:1/8
+K:D
+(AG)|TF4A4|d4 d2 fg|a2f2d2f2|edef e2 (AG)|TF4A4|
+d3e d2a2|f^gab T(g3 f/g/)|a6::(A/B/c/d/)|e2 ee e2 (ef)|Te4 z2 (de)|","A|c2 d|cAF |c2d|cAF|cAF |cAF|d>cB/A/|G2
+C|F2 F|G>FG|AcA|GFG|A>GF|FDC|CD F |F2|]","f2ff f2 (fg)|Tf4 z2 (fg)|a2 ag f2 fe|d2d2A2A2|abag fgfe|d2d2A2A2|
+D2 DD D2F2|D2 DD D2 fg|a2 de f2 fg|a2 df e2 fg|a2 gf Te3d |d6:|]","|:(fg)|afdB G2 fa|bgec A2 (fg)|afdf gece|dfec ""^cr""A4|!
+dcdA FAdf|edcB A2 g2|fafd bgec|d2d2d2:|","""^2"" A/A/ |: FA/A/ FA/A/ | FC/C/ CE/F/ | G>F ED | C2 CG/G/ | EG/G/ EG/G/ | EC C2 | AA/G/ FF | 
+C2 CA/A/ :: FC FA | A2 A>c | BA GF | GE/E/ EE/F/ | ED CE | E2 E>F | ED CB, |1 A,2 A,A/A/ :|2 A,3 z |]",B,音乐续写
+2,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 8
+M: C|
+L: 1/8
+K: D
+F4 A4 | d6 fg | a2f2 d2f2 | edef e2A2 |\
+F4 A4 | d6 e2 | f^ga2 Ta3^g | a8 :|
+|:\
+e2ee e2e2 | e4 z4 | f2ff f2f2 | f4 z4 |\
+a2ag f2fe | d2d2 A2A2 | abag fgfe | d2d2 A2A2 |","|:B/B/|B/fB/ g/B/f/B/|A/B/A/G/ F/D/F/A/|f/B/B/B/ g/B/B/B/|A/G/F/E/ D/B,/D/F/|
+f/B/B/B/ g/B/B/B/|A/B/A/G/ F/D/F/A/|f/B/B/B/|g/f/g/a/|b/g/f/d/ B:|]","Bc | d2 g2 f2 | c4 AB | c2 e2 d2 | B4 Bc | B2 A2 B2 | c4 cd | e2 d2 F2 | G4 :|
+|: GA | B2 G2 GA | B2 G2 GA | B2 d2 c2 | A4 FG | A2 F2 FG | A2 F2 FG | A2 c2 G2 | G4 :|","|:(Bc)|dg~g2 dg~g2|dg~g2 edcB|Aa({b}a)g fedc|Bdef gfge|dBGG GBdB|(3ABG (3
+FGE DcBA|GBdg ecAF|G2G2G2:|","D2DD D2F2 | D2DD D2fg | a2de f2fg | a2de f2fg |\
+a2gf Te3d | d8 :|",D,音乐续写
+3,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:9
+M:C|
+L:1/4
+Q:1/2=100
+K:D major
+F2 A2|d3 f/g/|a f d f|e/d/e/f/ e A|!
+F2 A2|d3 e|f/^g/ a ~ a>^g|a4||!
+e e/e/ e e|e2 z z|f f/f/ f f|f2 z z|!
+a a/g/ f f/e/|d d A A|aa/g/ f f/e/|d d A A|!","D D/D/ D F|D D/D/ D f/g/|a d/e/ f f/g/|!
+a d/e/ f f/g/|a g/f/ e>d|d4|]","GAG G2e|dBG A3|c3 BAG|FGA AFD|GAG G2e|dBG {ef}g3|fed e3|d3 D3:|
+|:ded b2c|cdc a2B|BcB g2G|FGA AFD|ded b2c|cdc gfe|dcB A3|G3 G,3:|","|:d|fga agf|f3Bcd|efe ege|d3c2A|
+dcB AGF|BAG FED|FGA cec|""d2 in MS""d3d2:|","|:d|g2 dB|g2 dB|Gg dB|AA Ad|
+g2 dB|g2 dB|Bd Ad|BG G:|",A,音乐续写
+4,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:10
+M:C|
+L:1/4
+Q:1/2=100
+K:D
+F2A2 | d3f/g/ | afdf | e/d/e/f/ eA |\
+F2A2 | d3 e| f/^g/ aa>g | a4 :|
+|: ee/e/ee | e2zd/e/ | ff/f/ff | f2 zf/g/ |\","D D/D/ D F|D D/D/ D f/g/|a d/e/ f f/g/|!
+a d/e/ f f/g/|a g/f/ e>d|d4|]","aa/g/ff/e/| ddAA | aa/g/ff/e/ |
+ddAA |DD/D/DF | DD/D/Df/g/ | ad/e/ff/g/ | ad/e/ff/g/ | a g/f/ Te>d | d4 :|","|:cAF FAF|cAF Acf|cAF FAF|G2A B2d|cAF FAc|fed cBA|BgB AfA|G2A B2d:|
+|:fgf fcA|fgf fag|fgf fcA|G2A B2d|faf gbg|faf ege|fdf cAF|G2A B2d:|","""Chorus""f/ | c/A3/2 (A3/2F/) | G3/2 F/ Gz/A/ | (c/A3/2) (A3/2c/) |
+| d3z/ f/ | c A A F | G3/2 F/ G z/A/ | (F/D3/2) (D3/2C/) | F3 |]",B,音乐续写
+5,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:11
+M:2/4
+K:D major
+f4 f2ga| g2f2e2d2| A2d2 agfe| d2A2F2A2|\
+f4 f2ga| g2f2e2d2| A2d2 (agfe)|1 d4 d4 :|2 d4 d2|:
+fg|\
+afdf a2=c'2| b2a2g2f2| g2g2g2b2| a2g2f2e2| \
+A2d2f2a2| g2b2e2c2| A2d2 (agfe)|1 d4 d2 :|2 d4 d4 |:","|:f2d2 d^cdf|e2A2 A2de|f2d2 d^cdf|e2a2 ^g2a2|
+f2d2 d^cdf|e2A2 A2de|f2a2 g2e2|1 fgfe d2de:|2 fgfe d2d2||","A2d2f2a2| g2b2e2c2| A2d2 (agfe)| d2A2F2A2|\
+A2d2f2a2| g2b2e2c2| A2d2 (agfe)| d4 d4:|","|:g3/2a/2|b3/2g/2f3/2g/2 e3/2g/2d3/2B/2|c3/2B/2A3/2G/2 F3/2G/2A3/2B/2|B3/2G/2B3/2d/2 e3/2c/2e3/2g/2|a3/2g/2f3/2e/2 d2B3/2A/2|
+.G(gfg) .e(gfg)|.d(gfg) .b(gfg)|d3/2g/2f3/2e/2 d3/2c/2B3/2A/2|G2G2G2:|","|:AB|c2A2B2G2|AGAB A2 AB|c2A2B2G2|A6 AB|
+c2A2B2G2|AGAB A2 AB|c2A2B2G2|A4 A2:|]",B,音乐续写
+6,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 2
+T: Prince of Wales at Brighton
+M: 2/4
+L: 1/16
+K: G
+G4 GABc | d2d2d2B2 | g2d2B2G2 | AGAB A2D2 |
+G4 GABc | d2d2d2g2 | {g}f2ed e2^c2 | {c}d4 d4 :|
+|:\","[K:D] f>(e d>A) F>A |""Em"" AB/A/ G2 E>A |""A7"" A>B (G>E) A>G |""D"" GA/G/ (F>D) F>d | 
+f>e d>A F>A | ""Em"" AB/A/ G2 E>A |""A7"" A>B (G>E) A>G |1""D"" GA/G/ F3 d""^Stämförslag B.O."" :|2,8""D"" GA/G/ F3 |]","|: BB Bc | d2 dc/2B/2 | AF/2A/2 dF | E3 F/2E/2 |\
+DF FA | Af f/2e/2d/2B/2 | Ad e>c |1 d4 :|2 d3 z |","|:z|FAc aec|GBe g3|gae dcA|gae B2A|
+FAc aec|GBe g2e|fae fce|BAG A2:|","d4 g2d2 | c2B2A2c2 | {c}B2AG F2G2 | A2B2 dcBA |
+d4 g2d2 | egfa g2d2 | c2A2G2F2 | G4 G4 :|",D,音乐续写
+7,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:13
+M:C
+L:1/8
+K:F
+F2 AF c2 ec|f2 gf {f}e2 dc|f c2 f dB2d|c A2c AF [C2c2]|
+F2 AF c2 ec|f2 gf e2 dc|defd B2 c2|Gc=Bd c4:|","|:c|f c2 fd B2d|g d2g ec2 e|a f2 ag e2g|fdgf {f}e2 dc|
+BcdB G2 cB|ABcA F2c2|defd gfeg|afge f4:||","g2eg fdBd|g2 ef gaba|geeg fdBd|egfd e2ef| g2eg fdBd|g2 ef gaba|
+g2ge a2ag|eaag egdB:|""fine""G4 z4||","|:e2f gag|e2f gag|e2f gag|f3 e2d|
+e2f g2g|gaf g2g|aba agf|f3 e2d:|]","|:(fg)|afdB G2 fa|bgec A2 (fg)|afdf gece|dfec ""^cr""A4|!
+dcdA FAdf|edcB A2 g2|fafd bgec|d2d2d2:|",A,音乐续写
+8,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 14
+M: 6/8
+L: 1/8
+K: A
+c/B/|Acea3|fga edc|def edc|dBBB2c|Acea3|fga edc|
+def efd|cAAA2:|f|ecA EAA|cAA ABc|def edc|dBBB2f|","ecA EAA|cAA ABc|def efd|cAAA2f|ecA EAA|cAA ABc|
+def edc|dBBB2g|agf gfe |fed edc|def efd|cAAA2|]","A,2E,4|A,,6::A,4 D2|E,F, G,2F,2|G,2B,2G,2|
+A,2E,2C,2|F,2E,2D,2|G,2E,2F,2|G,2A,2A,,2|D,6:|","| d2 d2 c2 B4 A2 | A2 G2 G2 F4 D2 | d2 d2 c2 B4 A2 | G2 G2 F2 G4 z2 ::
+| A2 A2 A2 c4 c2 | c2 c2 c2 d4 d2 | d2 d2 c2 B4 A2 | G2 G2 F2 G4 z2 ::","|:dBG G2B|dBG Bdg|dBG G2B|A2B c2e|!
+dBG GBd|g>fe d>cB|cac BgB|A2B c2e:|",A,音乐续写
+9,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:15
+M:C
+K:G
+""Slow"" D|\
+G3A B>AB>d| e2A2 A3B| G3A B>AG>d| e3f g>ab>a|\
+g2e2 e>gf>e| d<BA>B e3g| 
+d3B c<BA>G| E2G2 G3::\
+d|\
+g3a b<ag>f| e2fg {e}d2cB|","e3g d<BA>G| E2A2 A>cB>A|\
+G3A B>AB>d| e3f {a}g2fe| d>edB c>BA>G| E2G2 G2:|","|:[E2A2]-|[EA]-[FA]AB A3[ce]-|[e2e2][c2e2]- [ce]BA2| [Be]-[c3e3] [ce][ee][ce][Be]|A2 [F2A2]-[FA][E2A2]-|
+[EA]-[FA]AB A3[ce]-|[e2e2][c2e2]- [c2e2]AB| cBAF EGBG|[A3A3][AA]- [A2A2]:|","z|vgag ged|""^4""ecc cde|aba age|edd (d2e)|\
+gag ged|""^4""ecc cde|fed fed|""^4""ecA A2:|","""_Allegro"" ""*""e2|gedB ccce|gedB A3e|gedB ccce|dcBA G2:|
+|: GA|B2 BG|c2 cA|B2 BG A3d|BBBG ccce|dcBA G2 :|",A,音乐续写
+10,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 16
+M: 6/8
+L: 1/8
+K: Amaj
+|:e|fae fce|BcA BFA|Bcc BAF|AFE E2e|
+fae fce|BcA BFA|BcA BAF|EFG A2:|","|:z|FAc aec|GBe g3|gae dcA|gae B2A|
+FAc aec|GBe g2e|fae fce|BAG A2:|","Bc | d2 g2 f2 | c4 AB | c2 e2 d2 | B4 Bc | B2 A2 B2 | c4 cd | e2 d2 F2 | G4 :|
+|: GA | B2 G2 GA | B2 G2 GA | B2 d2 c2 | A4 FG | A2 F2 FG | A2 F2 FG | A2 c2 G2 | G4 :|","B2BBB2c>d|e>fg>e d2zd|g3ga3a|a4g3f|
+e2c'>ag2f2|g2g>gg2:|","afd dcd|ecA AFA|fed dcd|efd efg|
+aba g2e|fed cBA|Bcd efg|1 fdc d2f:|2 fdc d3||",A,音乐续写
+11,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:17
+M:C
+L:1/8
+K:D
+d2 zD D2D2|D3F A>F G>E|D>A F>d A2A2|A>ce>g f2 z2|
+e3 e a^gfe|e3 e fedc|Bc {e}dc/B/ e2E2|A2 A>A A2 z2:|
+|:z2.a2 z2.f2|g<e c<A A2 ~G2|F2 d>F G>E FD|A2 A>A A2 e2|
+.f2.f2.f2/ .f.a|(g4 e2)e2|.f2.f2.f2 .f.a|(g4e2) fa|(g4e2) fa|
+g4 e2 z2|d2 zD D2D2|D2 {g}fe/f/ g2 {b}ag/a/|b2 ge d2c2|d2 d>d d2 !fermata!z2:|
+K:Dmin
+|:{^fg}f3e d2d2|{fg}a3g f2f2|.e2.f2.e2.f2|e2 e>e e2z2|
+{de}f3e d2d2|{Bc}d3c B2B2|c2 dB A2G2|F2 f>f f2 z2:|","A2d2f2a2| g2b2e2c2| A2d2 (agfe)| d2A2F2A2|\
+A2d2f2a2| g2b2e2c2| A2d2 (agfe)| d4 d4:|","|:fA BA|fA BA|d2 e>f|ed BA|fA BA| fA BA|d2 e>f| ed d2:|
+|:fa f>e| ed BA|d2 e>f| ed BA|fa f>e| ed BA|d2 e>f |ed d2:|","d4 g2d2 | c2B2A2c2 | {c}B2AG F2G2 | A2B2 dcBA |
+d4 g2d2 | egfa g2d2 | c2A2G2F2 | G4 G4 :|","|:{^fg}a3g ^f2f2|g2 {b}ag/a/ b2 z2|{e=f}g3f e2e2|f2 {a}gf/g/ a2 z2|
+{de}f3e d2^c2|d2 {f}ed/e/ f2 {a}gf/g/|a2 bg f2e2|d2 d'>d' d'2 z2!D.C.!:|]",D,音乐续写
+12,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:18
+M:4/4
+L:1/4
+Q:1/2=80
+K:D Major
+""_No key/time sg in ms""F/G/ | AA A>B | A/G/F/E/ D2 | d/c/d/e/ f2 |\
+e/d/c/B/ A G/A/ |!
+(c/B/) (A/B/) B/c/d/B/ |AA (B/A/)(G/A/) | (c/B/) (B/c/) B/c/d/B/ |!
+AA (B/A/) (G/A/) | G G/B/ A/G/F/E/ | D>E D/G/F/E/ | D3 :|!
+|:""'1st'""f e/d/ c/d/ e | (e/f/) e/d/c/B/ A | f e/d/ c/d/ e |\
+(e/f/) e/d/c/B/ A |!
+g ""tr""f ((3e/f/g/) ""tr""f | ((3e/f/g/) ""tr""f ((3e/f/g/) ""tr""f | \
+e d ((3c/d/e/) d |\
+((3c/d/e/) ""^crots in ms"" d/c/B (f/g/) |!
+a/g/f/e/ d/f/d/c/ | c (B/c/) B B/c/ |d d A/B/c/A/ |B G G c/d/ |!
+e e B/c/d/e/ | (d/c/)(B/c/) A G/A/ | (c/B/) (A/4B/4)""sq""c/ B/c/d/B/ |\
+A A (B/A/)(G/A/) |!","aa/g/ff/e/| ddAA | aa/g/ff/e/ |
+ddAA |DD/D/DF | DD/D/Df/g/ | ad/e/ff/g/ | ad/e/ff/g/ | a g/f/ Te>d | d4 :|","|:ggff|gg f2|fe/d/ cd|(e/d/c/B/) A2|\
+AB/c/ dd|fd f2|af (a/g/f/e/)|d2D2:|","(c/B/)(B/c/) B/c/d/B/ | A A (B/A/)(G/F/) |\
+G G/B/ A/G/F/E/ | D>E D/G/F/E/ | D>E D2 |]","(EF) | GGGF GE C>c | cBGE F2 (EF) | GGGF GABG | Gccc c3 || G | Gfed cB G>F |
+Gfec d3G | cccB c>d ec | BGFE F3 E/F/ | GGGF GABG | Gccc c2 ||",C,音乐续写
+13,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:19
+M:6/8
+L:1/8
+Q:3/8=100
+K:F major
+C|F2Ac2f|a2a gec|d2 efed|cdB AGF|
+F2Ac2f|a2a gec|d2f ege|f3-f2:|
+|:e/f/|g2g fed|c2c ceg|b2ga2e|ege cef|
+g2g fed|B2B ceg|b2ga2f|gfe dcB:|","[gd][gd]ed [gd][gd]ed | [gd][gd]ed ""^^""[g2d2]d2 |\
+[gd][g3d3] gaga | g4- g2 :|","|:A3BAB|c2f fed|cdc cBA|G2A BAG|
+A3 BAB|c2cc2c|d2f egd|f3-f2:|","a2aa a2b2|a2g2e4c|d2dd d2e2|d2c2A2(_B2-|
+=B)AB2 AG2 A|BABB AG2B|cBcd eged|c6||","|: d | gab bag | fdf b2f | cde edc | AFF F2 F/F/ |
+DFB dBd | fdf b2g | fdB cBc | dBB B2 :|",B,音乐续写
+14,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 20
+M: 6/8
+L: 1/8
+K: G
+D |\
+G2G GDG | A2D DGA | BcB AGF | G2G G2D |\
+G2G GDG | A2D DGA | BcB AGF | G3- G2 :|
+B/c/ |\
+d2d dgd | c2c cAB | c2c cec | B2B BGA |\
+B2B BdB | G2G GAB | AGF ED^C | D3- D2 ||
+D |\
+G2G GDG | A2D DGA | BcB AGF | G2G G2D |\
+G2G GDG | A2D DGA | BcB AGF | G3- G2 |]
+B |\
+e2e e^de | ^d^cB B2B | d2d d^cd | ^cBA A2A |\
+cBc cBc | B^AB B""*)""AG | e2c Be^d | e2E E2 ||
+D |\","dBAF|G>ABd|A>GFE|D2 DE|F2 FD|G>FGE|
+F2 FD|E2 zA|F>FFD|G>GGB|AGFE|D3||","|:ECE DB,D G2D|ECE D2d AFD|ECE DB,D GFE|1 FGA D2d AFD:|2 FGA D3 ABc||
+|:BAB EDE B2c|BAB EDE B,2c|BAB EDE BAG|1 ABG AFE D2c:|2 ABG AFE DEF||","G2G GDG | A2D DGA | BcB AGF | G2G G2D |\
+G2G GDG | A2D DGA | BcB AGF | G3- G2 |]","D3/2 F/2 F2 z F/2F/2| D3/2 G/2 G2 z A| B3/2- c/2 d2 z c| B3/2 B/2 B3 B|\
+cd f2 z f|g/2-f/2-e/2-d/2 e2 d3/2 c/2| B3/2- A/2 G3||",C,音乐续写
+15,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:21
+L:1/4
+M:C
+Q:1/2=100
+K:Gm
+D|G/A/ BAd|B A/G/ ^F E/D/|G A/B/ Ad|B2G :|","A,2E,4|A,,6::A,4 D2|E,F, G,2F,2|G,2B,2G,2|
+A,2E,2C,2|F,2E,2D,2|G,2E,2F,2|G,2A,2A,,2|D,6:|","|: A|B c/d/ cf|d c/B/ cF|BEe d/c/|Tc2B2|
+A A/B/ cA|dG^Fd|d c/B/ A/B/ c|B2G |]","|: d2g f/g/af | e/f/ge d/e/fd | B2f fdB | BcB fdB |
+d2g f/g/af | e/f/ge d/e/fd | A2e ecA | ABA ecA :|]","d | c2A AcA ecA | cec aec fga | c2A AcA ecA | BcB gdB Bcd :|
+|: cec aec aec | cec aec fga | cec aec aec | BcB fdB Bcd :|",B,音乐续写
+16,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:22
+M:2/4
+L:1/8
+Q:1/4=130
+K:D
+AB/c/ dd|fd f2|af (a/g/f/e/)|dAFD|\
+AB/c/ dd|fd f2|af (a/g/f/e/)|d2D2:|","bg~g2 bg~g2|af~f2 af~f2|bg~g2 bgag|eaag ~a2ga|
+bg~g2 ageg|~g3e dBGA|~B3A BedB|1AGAB G2 ga:|2AGAB G2 ge|","F2F2G2FD | GFD2D2F2- | F8 |
+DFF2GFG2 | D2FGD2D2- | D8","|:ggff|gg f2|fe/d/ cd|(e/d/c/B/) A2|\
+AB/c/ dd|fd f2|af (a/g/f/e/)|d2D2:|","|:d2 de dGBd|ecfd g2 ge|d2 de d2 Bd|cBAG A2 Bc|
+d2 de dGBd|ecfd g2 ge|dbag dcBd|1 cAFA G2 Bc:|2 cAFA G4||",C,音乐续写
+17,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:23
+M:6/8
+L:1/8
+Q:1/4=92
+K:Gm
+GGG G=Bc|d2 d- de{d}e|(d{e}d)(c {d}c)=Bc|
+(AB/2A/2)G- G3|DGG G=cd|d3 d- dee|(d{e}d)(c {d} c)=Bc|
+(AB/2A/2)G- Gc=B|~c2 (A {B} A)GG|
+~G2 ^F- F3|DGG GAB|(AB/2A/2)G- GB/2B/2B/2A/2|
+GGA BcB|c-BA- AA/2A/2A/2A/2G/2|
+^FFG ABA|B-AG- GB/2B/2B/2A/2|","fg/f/ ed|^c4::ad da|bG Gb|gc cg|aF Fa|
+ad da|a^c ca|ad da|a^c ca|f2e2|d4:|","|: (3(efg)|afaf d2(ga)|bgbg e2(fg)|afaf bagf|edcB A2(fe)|
+dcdB FAdf|edcB A2(fg)|afdg bgec|d2d2d2:|","|:f/g/|aaaa|a2 fd|g2ec|defg|
+aaaa|a2 fd|g2 ec|d3:|]","GGA BcB|c-BA- AA/2A/2A/2A/2G/2|
+^FFG ABA|B-AG- G3||",D,音乐续写
+18,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 24
+L: 1/8
+M: 4/4
+K: F
+G4c z [I:setbarnb 1]| 
+A c/ A/ G A/ G/ F D | 
+F4F z | 
+F G A c/ A/ G A A/ G/ F | 
+[M:3/4]G4c z | 
+[M:4/4]G A c> A G A G F/ D/ | 
+[M:3/4]F4F z | 
+[M:4/4]F G A c/ A/ G A A/ G/ F | 
+[M:3/4]G4c z | 
+[M:4/4]G A c> A G A G F/ D/ | 
+[M:3/4]F4F z | 
+G4c z |","d4 B2|g4 B2|d2 c2 B2|A4 d2|
+f2 e2 d2|c2 B2 A2|G6|1 G4 B2:|2 G4||","|: de | f2B2 B2d2 c2B2 | g2c2 cde2 d2f2 | gaga B2A2 g2f2 | e2f2 f3=e f2ga |
+b2e2 d2b2 abag | fgfe d2g2 fgfe | dedc BcdB cBAG | F2B2 B3A","A c/ A/ G A/ G/ F D | 
+F4F z |]","""Chorus""A>B c>A|c3A|G>A GE|G3 E/D/|
+CE GG/c/|ee/f/ e/d/c/A/|GB d>c|(c2c)||",C,音乐续写
+19,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:25
+M: 2/4
+L: 1/16
+K: Fmin
+F2F2F3D | C2F2F4 | c2dfdcA2 | cAG2G4 |
+G2c2c4 | G2AGF4 | FDAAGFFD | C2C6 |","afd dcd|ecA AFA|fed dcd|efd efg|
+aba g2e|fed cBA|Bcd efg|1 fdc d2f:|2 fdc d3||","DFCDF3G | AGFGc3A | G2A2A2CD | G2E2D4 |
+dcAcd3c | dcAdc4 | AcAGFDFD | c2AGGFD2 | C8","(3cdc Bc AGEG|(3ccc Bc AAAB|(3ccc Bc AcGE|(3DDE FG AA (3GAB|
+ceBc AGEG|(3ccc Bc AAAc|BddB (3AAG EC|DDEF Gd (3cBA:|","(B>c)|d4 (cB) e4 (dc)|(f3 gf^e) f2 d2 (B>c)|d4 cB e4 (dc)|f3 (gf^e) f4|
+a4 (fd) g4 (ec)|f4 dB c2 ^A2 F2|f3 e d2 e2d2c2|(c2f2) [F2^A2] [D4B4]||",B,音乐续写
+20,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:26
+R: Xiaodiao]
+M: 2/4
+L: 1/16
+K: Bbmin
+f4d4 | f8 | f4d4 | f8 |","b2fd | Bfdb | _ecfd | B/B/B B2 :: (B/c/d) dd | (c/d/_e) .e.e | (d/_e/f) .f.f | (A/B/c) .c.c | (B/c/d) .d.d | (c/d/_e) .e.e |
+dbfd | B/B/B B2 :: (g/a/b) .b.b | (a/g/f) .f.f | (e/f/g) .g.g | (f/_e/d) .d.d | (c/d/_e) .e.e | dbfd | _ecfd | B/B/B B2 :|","DFCDF3G | AGFGc3A | G2A2A2CD | G2E2D4 |
+dcAcd3c | dcAdc4 | AcAGFDFD | c2AGGFD2 | C8","b4b2b2 | f4d4 | f4d4 | B8 |
+d4f2f2 | b4b2b2 | f4d4 | f4d4 | f6dB | B8","DFCDF3G | AGFGc3A | G2A2A2CD | G2E2D4 |
+dcAcd3c | dcAdc4 | AcAGFDFD | c2AGGFD2 | C8",C,音乐续写
+21,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:27
+M: 2/4
+L: 1/16
+K: D
+f2f2efe4fe | d2efedB6
+d2e4ee | d2efefed | B8 |
+d2efe4 | B2ded4 |","|:G|A/G/F/E/ DD|A/G/F/E/ DE/F/|GG AA|B/c/B/A/ B2|
+A/G/F/E/ DD|A/G/F/E/ DE/F/|GG AF|G3:|","a2aa a2b2|a2g2e4c|d2dd d2e2|d2c2A2(_B2-|
+=B)AB2 AG2 A|BABB AG2B|cBcd eged|c6||","B2B2d2Bd | e6fe | d2efedB6 | dBe6 | d8 |
+B2B2d2Bd | e6fe | d2efedBA | B8","[K:D] f>(e d>A) F>A |""Em"" AB/A/ G2 E>A |""A7"" A>B (G>E) A>G |""D"" GA/G/ (F>D) F>d | 
+f>e d>A F>A | ""Em"" AB/A/ G2 E>A |""A7"" A>B (G>E) A>G |1""D"" GA/G/ F3 d""^Stämförslag B.O."" :|2,8""D"" GA/G/ F3 |]",C,音乐续写
+22,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:28
+M: 2/4
+L: 1/16
+K: Gmin
+B3ed2dA | B3ed2A2 | B2BAB2BA | g2fedeB2 | ABAGE2G2 | A8 |
+dd2Bd4 | B2d2B2d2 | A4A4 | d4B3A | F2FED4 |","dddd | eeee | dcBA | gadd :| \
+dddd | eeee | |1 fdfa | gadd :|2 dcBA | GA DD |]","|:G|A/G/F/E/ DD|A/G/F/E/ DE/F/|GG AA|B/c/B/A/ B2|
+A/G/F/E/ DD|A/G/F/E/ DE/F/|GG AF|G3:|","AAAFAAAd | FFFED4 | dddBAAAF | FAFED4 |
+A3Bd2f2 | e2d2A4 | F3EF2A2 | D8","Bc | d2B2G2 | g2f2e2 | e2d2d2 | d4Bd | d2c2c2 | c4Ac | c2B2B2 | B4Bc |
+d2B2G2 | g2f2e2 | e2d2d2 | d4Bd | d2c2c2 | c2A2F2 | G2g2g2 | g4 |]",C,音乐续写
+23,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:29
+M: 2/4
+L: 1/16
+K: Amin","A,| D2 FD E2 GF| D6 z D| F2 FF F2 EG| F4 z2 FG| AB AF D2 FA| GG EC A,2 B,C|\
+D2 FA G2 EC| D2 FG A2 FG|A-d AFE-G EC| D6 z2|","b4a2c2 | b8 | b2c2b2a2 | f8 |
+f4b4 | b4f4 | f4f2a2 | b2c2b2a2 | f2b2a3f | e8","~e3f (ef)ge|(fe)fg {g}f2 ec|~B>c~ef (ef)gf|{d}e4 B2 ef|
+(gfe)c (ecB)G|(AG)FE {G}F2 EC|~e>fec B<G~F>G|1 E4 B,4:|2 E4 B3||","{^c'}d'2{^c'}d'2 bgTg>f | ea/b/ (c'/b/).a/.g/ fdgb |\
+(d'b).g.d (bg).d.B | ecAF {F}G2 G2:|",B,音乐续写
+24,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:30
+M:3/4
+L:1/4
+Q:3/4=50
+K:F
+C|F2 F|G>FG|AcA|GFG|A>GF|FDC|CD F |G2
+C|F2 F|G>FG|AcA|GFG|A>GF|FDC|CD F |F2||","|:{^fg}a3g ^f2f2|g2 {b}ag/a/ b2 z2|{e=f}g3f e2e2|f2 {a}gf/g/ a2 z2|
+{de}f3e d2^c2|d2 {f}ed/e/ f2 {a}gf/g/|a2 bg f2e2|d2 d'>d' d'2 z2!D.C.!:|]","A|c2 d|cAF |c2d|cAF|cAF |cAF|d>cB/A/|G2
+C|F2 F|G>FG|AcA|GFG|A>GF|FDC|CD F |F2|]","d | c2A AcA ecA | cec aec fga | c2A AcA ecA | BcB gdB Bcd :|
+|: cec aec aec | cec aec fga | cec aec aec | BcB fdB Bcd :|","agae fece | .fkb2.g aece | gebe gbeg | fe^df .e2((3efg) |
+agae fece | .fkb2.g aece | kf2kg2ka2 (ed) | cABG A2:|",B,音乐续写
+25,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 31
+M: 4/4
+L: 1/8
+K: Emin
+f2 f4 e>d|e<(a a)d c2 B<A|d>c B<A d2 d2|d>e f<g e4|
+f2 f4 e>d|e<(a a)d c2 B<A|d>c B<A d>e f<g|e4 e4|
+f2 f4 e>d|e<(a a)d c2 B<A|d>c B<A d2 d2|d>e f<g e4|
+f2 f4 e>d|e<(a a)d c2 B<A|d>c B<A d>e f<g|e4 e2 de||
+f4 f>e f<a|b2 a>g f4|f>e f<a B4|d>c B<A A4|
+f4 f>e f<a|b2 a>b a4|g4 f>e f<d|B2 A>G A4||
+f2 f4 e>d|e<(a a)d c2 B<A|d>c B<A d2 d2|d>e f<g e4|
+f2 f4 e>d|e<(a a)d c2 B<A|d>c B<A d>e f<a|e4 e4|","|:g|b3-g|b3-g|gg a/g/-g|c3f|
+aa a/b/a/g/|f>g f/e/d|d/d/e/f/ g/f/g/a/ g:|]","(a3/4b/4)|(c'3/2b/2a) (bag)|(d3/4e/4).g.g g2(a3/4b/4)|(c'3/2b/2a) (bag)|(ea)(a3/4b/4) a2(A3/4B/4)|
+A2(c/2B/2c/2d/2e/2^f/2) (g3/2=f/2e)|(e/2d/2c/2B/2) (3(g/2a/2b/2) G2(A3/4B/4)|.c(d/2c/2)(B/2A/2) Be A3/4G/4|(EA)(A3/4B/4) A2|]","|:g3/2a/2|b3/2g/2f3/2g/2 e3/2g/2d3/2B/2|c3/2B/2A3/2G/2 F3/2G/2A3/2B/2|B3/2G/2B3/2d/2 e3/2c/2e3/2g/2|a3/2g/2f3/2e/2 d2B3/2A/2|
+.G(gfg) .e(gfg)|.d(gfg) .b(gfg)|d3/2g/2f3/2e/2 d3/2c/2B3/2A/2|G2G2G2:|","f4 f>e f<a|b2 d>e f4|A2 d2 d4|g2 f2 e4|
+f4 f>e f<a|b2 a>b a4|d4 d>c d<A|d2 d2 e4||",D,音乐续写
+26,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:32
+M:2/4
+L:1/8
+K:D
+F/2E/2 |: DF FA | Af f/2e/2d/2B/2 | AF/2A/2 dF | E3 F/2E/2 |\
+DF FA | Af f/2e/2d/2B/2 | Ad e>c |1 d3 F/2E/2 :|2 d4 |","|:FBBc dcBA|FBBc dcB2|EAAB cABA|EAAB cBA2|
+FBBc dcBA|FBBc dcB2|f3g f2e2|1 d2c2 B4:|2 d2c2 B2||","agf e2d/c/ | cBG F>FF | BBB Hg2f/e/ | dB{d}c B3 ""^slow""|\
+!p!Hd3 cBA | A2G HF3 !f!| Hb2B Bcd | d2c B2 |]","b4b2b2 | f4d4 | f4d4 | B8 |
+d4f2f2 | b4b2b2 | f4d4 | f4d4 | f6dB | B8","|: BB Bc | d2 dc/2B/2 | AF/2A/2 dF | E3 F/2E/2 |\
+DF FA | Af f/2e/2d/2B/2 | Ad e>c |1 d4 :|2 d3 z |",D,音乐续写
+27,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:33
+M:C
+L:1/8
+Q:1/4=110
+K:G
+d|g2 g>g g2 d2|B>GB>d g2zg| f>ed>e d>cB>c|(c4B2)d2|
+g2g>a b2(a>g)|f2f>g a2g2|f3f e>de>f|d2d>d d2:|
+|:d2|a2a>aa2d2|a2b2c'2""_semi-quavers in ms""(ba)|g2d2B2 (AG)|d4z d>c|","B2BBB2c>d|e>fg>e d2zd|g3ga3a|a4g3f|
+e2c'>ag2f2|g2g>gg2:|","bg2e- | ec2(A | G)B2G | ((3FGA) FD |\
+GB2G | FA df | {f}e2dc | d2d :|","d4 B2|g4 B2|d2 c2 B2|A4 d2|
+f2 e2 d2|c2 B2 A2|G6|1 G4 B2:|2 G4||","A>F|d2- dA d>e fd|e2 d/e/f e2 dB|AB de de g/f/e|d2 A2 F2- FA|
+B>G dA F2 A/G/F|BA GF E2 G/F/E|D2 d2 A>B AG|F2- FE D2||",A,音乐续写
+28,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:34
+M: 2/4
+L: 1/32
+K: Fmin
+d4c4d4c4f12d4 | d4f4d2f2d2c2A4c4A4c4
+d4f4d2f2c2d2A8d6f2 | A6G2G8 | A4c4G4G4A8
+d6c2d4f4d6f2d3fc4 | A4c4G4G4A6","f3 f3 | f3 g3 | f3 f3 | e3 d2 :|
+","""Chorus""f/ | c/A3/2 (A3/2F/) | G3/2 F/ Gz/A/ | (c/A3/2) (A3/2c/) |
+| d3z/ f/ | c A A F | G3/2 F/ G z/A/ | (F/D3/2) (D3/2C/) | F3 |]","c2 | d4c4f4d8c4 | c4A8c4d6f2d2f2d2c2 | A8d6f2F12
+D4 | c4A4d4G4A8A4G2F2 | F4D4G4A4D16","|| (de) | f2e2 d2B2 | A2F2 E2F2 | (B2((3c/B/A/)Bc) .d2(de) | Hf4 e2 ||
+| A2 | d2c2 B2d2 | g2e2 Ha2e2 | f2d2 B2d2 | (""~""A3B cdeg) | fd3 z2 |]",C,音乐续写
+29,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:35
+M:6/8
+L:1/8
+Q:140
+K:G
+D3 |: G2G GAB | c2c cBA | G2G GAB | A2F D3| G2G GAB | c2c cBA | GAG FEF
+| G6 :| :","B2BBB2c>d|e>fg>e d2zd|g3ga3a|a4g3f|
+e2c'>ag2f2|g2g>gg2:|","|:AB|c2A2B2G2|AGAB A2 AB|c2A2B2G2|A6 AB|
+c2A2B2G2|AGAB A2 AB|c2A2B2G2|A4 A2:|]","|:(Bc)|dg~g2 dg~g2|dg~g2 edcB|Aa({b}a)g fedc|Bdef gfge|dBGG GBdB|(3ABG (3
+FGE DcBA|GBdg ecAF|G2G2G2:|","A2 | B2B BAG | A2 A A3 | G2G GAB | A2F D3 | B2B BAG | A2A A3 | GAG FEF
+| G6 :|",D,音乐续写
+30,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:36
+M:2/4
+L:1/8
+Q:1/2=90
+K:D major
+A2|dcdA FAdf|edcB A2 g2|fafd bgec|dfec A4|!
+dcdA FAdf|edcB A2 g2|fafd bgec|d2d2d2:|!","|: A |Bcd Bcd | Bcd G3 | cde cde |cec {B}A2A |
+def def | def bag | fdB FBA | B2BB2 :|","b2fd | Bfdb | _ecfd | B/B/B B2 :: (B/c/d) dd | (c/d/_e) .e.e | (d/_e/f) .f.f | (A/B/c) .c.c | (B/c/d) .d.d | (c/d/_e) .e.e |
+dbfd | B/B/B B2 :: (g/a/b) .b.b | (a/g/f) .f.f | (e/f/g) .g.g | (f/_e/d) .d.d | (c/d/_e) .e.e | dbfd | _ecfd | B/B/B B2 :|","|:(fg)|afdB G2 fa|bgec A2 (fg)|afdf gece|dfec ""^cr""A4|!
+dcdA FAdf|edcB A2 g2|fafd bgec|d2d2d2:|","|:F2 A2 A2 e2 d2 c2|B3 c BAGF G2 E2|F2 A2 A2 e2 d2 c2|B2 A2 G2 F2 E4|
+F2 A2 A2 e2 d2 c2|B2 e2 f2 ef g2 fg|a4 f2 ed e2 c2|1 B2 AG A4 A2 G2:|2 B2 AG A8||",C,音乐续写
+31,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 37
+M:6/8
+L:1/8
+Q:130
+K:D
+A|d2df2f|abaf2f|g2fe2d|cecA2A|
+d2df2f|abaf2f|g2ec2A|d3-d2:||","|:c|f c2 fd B2d|g d2g ec2 e|a f2 ag e2g|fdgf {f}e2 dc|
+BcdB G2 cB|ABcA F2c2|defd gfeg|afge f4:||","d/2 g f/2 ed| e3- e| e e/2e/2 ge| d B/2B/2 d3/2 G/2| B/2 d B/2 AG|\
+BG E2| GG GG| Gg e2| e2 G/2- G G/2| AA G2|","f|a3-a2g|f3-f2f|gag fgf|e3-e2f|
+a3-a2g|f3-f2f|gfe dec|d3-d2:||","""J""\
+|: B2 B^d =cB dcB | AB B^d =cB BF{E}F | B2 B^d =cB dcB |1 AB B^d =cB B2B :|2 AB B^d =cB .Bz2 |]",C,音乐续写
+32,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:38
+T:Yaw Yaw Yaw
+M:4/4
+L:1/8
+K:G","e3g d<BA>G| E2A2 A>cB>A|\
+G3A B>AB>d| e3f {a}g2fe| d>edB c>BA>G| E2G2 G2:|","A2 | B2B BAG | A2 A A3 | G2G GAB | A2F D3 | B2B BAG | A2A A3 | GAG FEF
+| G6 :|","DD D| G/2G/2 G G/2G/2 GG dB G| A2 D2 D2 DD| A/2A/2 A A/2A/2 AA Bc d|\
+B2 G2 G2 AB| cc cc ce dc| BB BB Bd cA| G4 F4| G4 z2||","|:cAF FAF|cAF Acf|cAF FAF|G2A B2d|cAF FAc|fed cBA|BgB AfA|G2A B2d:|
+|:fgf fcA|fgf fag|fgf fcA|G2A B2d|faf gbg|faf ege|fdf cAF|G2A B2d:|",C,音乐续写
+33,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:39
+M:6/8
+L:1/8
+K:G
+d|gfg d^cd|=cBc dBG|DGB B2A|Ace e2d|
+gfg d^cd|=cBc dBG|DGB B2d|dcA G2:|","|:D|DGB B2A|Ace e2d|DGB B2A|Ace e2d|
+gfg d^cd|=cBc dBG|DGB ced|cBA G2:|]","A2d2f2a2| g2b2e2c2| A2d2 (agfe)| d2A2F2A2|\
+A2d2f2a2| g2b2e2c2| A2d2 (agfe)| d4 d4:|","f4 f>e f<a|b2 d>e f4|A2 d2 d4|g2 f2 e4|
+f4 f>e f<a|b2 a>b a4|d4 d>c d<A|d2 d2 e4||","F2F2G2FD | GFD2D2F2- | F8 |
+DFF2GFG2 | D2FGD2D2- | D8",A,音乐续写
+34,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 40
+M: 2/4
+L: 1/8
+K: Gmaj
+|:d|Bd ce|dB AG|Gg dB|AA Ad|
+Bd ce|dB AG|Bd Ad|BG G:|","|:d|g2 dB|g2 dB|Gg dB|AA Ad|
+g2 dB|g2 dB|Bd Ad|BG G:|","AF A>A|BG B>B|Ad f>d|ed B/c/d/B/|AF A>A |BG B>B|Ad f>d|ed d2:|
+|:Bd f>g|fe e2|ef ga|ba f>d|Ad f>g|fe e2|ef af|ed d2:|","|:AB|c2A2B2G2|AGAB A2 AB|c2A2B2G2|A6 AB|
+c2A2B2G2|AGAB A2 AB|c2A2B2G2|A4 A2:|]","|:fA BA|fA BA|d2 e>f|ed BA|fA BA| fA BA|d2 e>f| ed d2:|
+|:fa f>e| ed BA|d2 e>f| ed BA|fa f>e| ed BA|d2 e>f |ed d2:|",A,音乐续写
+35,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:41
+M:6/8
+K:D
+z | FGA AFA | BGB A3 | Bcd efg | fed cBA | FGA AFA | BGB A3 | Bcd efg |","ABc d2 :: a | afa afa | geg geg | fag fed | ced cBA | afa afa | geg geg |
+fed cde | dAF D2 :|","G2G GDG | A2D DGA | BcB AGF | G2G G2D |\
+G2G GDG | A2D DGA | BcB AGF | G3- G2 |]","F2GAF2D2 | F2GAF2D2 | B2d2^c2e2 | dcde d2=c2 |\
+B2(cd)B2G2 | c2de d4 | c2B2A2G2 | FGAF G4 :|","C| FFA GGF| D2 F C3| CDE FGA| B2 A G2 A| C2 C CCC| D2 F C3| AAA cBG|\
+F2 F FGA| C2 C CDE| F2 F F2||",A,音乐续写
+36,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:42
+M:2/4
+L:1/8
+K:C
+E|CE G>G|Ge e/d/c/A/|GG c>E|D3 E/D/|D3 E/D/|
+CE G>G|Ge/e/ e/d/c/A/|GB d>c|c3 c/B/|
+AA A/B/c/A/|G>A G/F/E/F/|GE c>E|D3 E/D/|
+CE G>G|Ge/e/ e/d/c/A/|GB d>c|c3 c/B/||","z|vgag ged|""^4""ecc cde|aba age|edd (d2e)|\
+gag ged|""^4""ecc cde|fed fed|""^4""ecA A2:|","g2eg fdBd|g2 ef gaba|geeg fdBd|egfd e2ef| g2eg fdBd|g2 ef gaba|
+g2ge a2ag|eaag egdB:|""fine""G4 z4||","(B>c)|d4 (cB) e4 (dc)|(f3 gf^e) f2 d2 (B>c)|d4 cB e4 (dc)|f3 (gf^e) f4|
+a4 (fd) g4 (ec)|f4 dB c2 ^A2 F2|f3 e d2 e2d2c2|(c2f2) [F2^A2] [D4B4]||","""Chorus""A>B c>A|c3A|G>A GE|G3 E/D/|
+CE GG/c/|ee/f/ e/d/c/A/|GB d>c|(c2c)||",D,音乐续写
+37,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 43
+M: 6/8
+L: 1/8
+K: Gmaj
+d|B>AG B>cd|B>AG B>cd|c>dc B>cB|A3A2B|","c>de e>fg|gfe dcB|A>BA F>ED|d3d2B|
+c>de e>fg|gfe dcB|A>BA F>EF|G3G2||","|:(Bc)|dg~g2 dg~g2|dg~g2 edcB|Aa({b}a)g fedc|Bdef gfge|dBGG GBdB|(3ABG (3
+FGE DcBA|GBdg ecAF|G2G2G2:|","|:F2 A2 A2 e2 d2 c2|B3 c BAGF G2 E2|F2 A2 A2 e2 d2 c2|B2 A2 G2 F2 E4|
+F2 A2 A2 e2 d2 c2|B2 e2 f2 ef g2 fg|a4 f2 ed e2 c2|1 B2 AG A4 A2 G2:|2 B2 AG A8||","f2 df afdf|f2 df efge|f2 df afdf|edcd efge|
+f2 df afdf|f2 df efge|f2 df dfdf|edcd efge||",A,音乐续写
+38,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:44
+M: 2/4
+L: 1/16
+K: G
+z2d2B2d2 | G3BA2A2 | z2B2d2G2 | d4BdA2- | A8 |
+z2B2B2E2 | B6(3EGE | B2BdE3d | B3AGAE2- | E2z6 |
+z2B2B2G2 | B2d2B2A2 | d2Bde2B2 | G3AB2A2- | A2z6 |
+z2E2G2G2 | d2BdE2B2 | z2d4Ed | B3AGAE2- | E2z6 |","(a3/4b/4)|(c'3/2b/2a) (bag)|(d3/4e/4).g.g g2(a3/4b/4)|(c'3/2b/2a) (bag)|(ea)(a3/4b/4) a2(A3/4B/4)|
+A2(c/2B/2c/2d/2e/2^f/2) (g3/2=f/2e)|(e/2d/2c/2B/2) (3(g/2a/2b/2) G2(A3/4B/4)|.c(d/2c/2)(B/2A/2) Be A3/4G/4|(EA)(A3/4B/4) A2|]","g<ee>c B<GTG>F | EeBG TF>ECa | g<ee>c B<GG>F | Ee {c}BA/G/ TF2E>a |
+g<ee>c B<GG>F | EeBG TF>ECF | E<B,E>F G>Bce | B<E {c}BA/G/ TF2E |]","z2dde2dB | d2B2A2A2 | d2BBd2d2 | G3AB2A2- | A2z6 |
+z6E2 | B2EGz4 | z2B4gB | BdBAGAE2- | E2z6","c2 A>c | d2 B>d | c2 A>c | BG E2 |\
+c2 A>c | d2 Bd | c>A B>G | A2 z |]",C,音乐续写
+39,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:45
+M: 2/4
+L: 1/16
+K: Fmin
+FDDFD2D2z2GA | AGF2G8
+A2AGF2G2 | GFDFD2D2z4
+D2D2FGG2 | D2FGFDD2z4","|:B/c/|d2d ecA|d2d ecA|GEE cEE|GAB c2e|
+d2d ecA|def/d/ ecA|GEE cEE|GEE D2:|]","F2F2G2FD | GFD2D2F2- | F8 |
+DFF2GFG2 | D2FGD2D2- | D8","|:AB|c2A2B2G2|AGAB A2 AB|c2A2B2G2|A6 AB|
+c2A2B2G2|AGAB A2 AB|c2A2B2G2|A4 A2:|]","d4 g2d2 | c2B2A2c2 | {c}B2AG F2G2 | A2B2 dcBA |
+d4 g2d2 | egfa g2d2 | c2A2G2F2 | G4 G4 :|",B,音乐续写
+40,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:46
+M:3/4
+L:1/4
+K:C major 
+[P:A] G/F/ | E>G G/c/ | e>f e/d/ | c2E | G>B B/c/ | 
+d>G f/e/ | d>G B/d/ | c2E | G2G/F/ | E>F G/c/ | e>f e/d/ | 
+c2E | G>B B/c/ | d>G f/e/ | d>G B/d/ | (c3 | c)z || 
+M:3/4
+[P:B] c/B/ | A>f f/c/ | A>c B/A/ | G>e e/c/ | G>e d/c/ | 
+B>f f/e/ | d>G B/d/ | c2E | G2 c/B/ | A>f f/c/ | A>c B/A/ | G>e e/c/ | 
+G>e d/c/ | B>f f/e/ | d>G B/d/ | cG B/d/ | !fermata!c>z ||
+M:3/4
+[P:C] G/G/ | ecG/E/ | FdG/G/ | f/e/d G/F/ | EcG/G/ |","|:FE|DFBF dFBF|DFBF dFBF|EFcF eFcF|EFcF eFcF|
+DFBF dFBF|EFcF eFcF|EFcA ecAc|BABc B2:|]","z2dde2dB | d2B2A2A2 | d2BBd2d2 | G3AB2A2- | A2z6 |
+z6E2 | B2EGz4 | z2B4gB | BdBAGAE2- | E2z6","e/d/cA/A/ | f/e/dc/A/ | GfB | c>z G/G/ | ecG/E/ | FdG/G/ | 
+f/e/dG/F/ | EcG/G/ | e/d/cA/A/ | f/e/dc/A/ | G/B/ d/f/B | !fermata!c2z |]","|: de | f2B2 B2d2 c2B2 | g2c2 cde2 d2f2 | gaga B2A2 g2f2 | e2f2 f3=e f2ga |
+b2e2 d2b2 abag | fgfe d2g2 fgfe | dedc BcdB cBAG | F2B2 B3A",C,音乐续写
+41,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:47
+M:2/4
+L:1/8
+Q:1/2=80
+K:D major
+a | {g} fedf | gbeg | fadf | e/d/c/B/ Aa |!
+{g} fedf | gbeg | ""1""f/g/a A/B/c | d3 :|!","c2 A>c | d2 B>d | c2 A>c | BG E2 |\
+c2 A>c | d2 Bd | c>A B>G | A2 z |]","c/2 c3/2- c z B/2- G3/2 F2| F4 z2| B2| B3 BE zE-F| F3 GA z B,3/2- C/2|\
+C2 z D E2 E2| E2 z4||","|:A| FAdf | eAgA | fadf | e/d/c/B/ AA |!
+FAdf | eAgA | faAc | d3 ?","|:a2fd dfaf|dfaf bagf|gfge =cege|=cege agfe|
+a^gaf dfaf|dfaf bagf|gfgf gbag|[1fdec defg:|[2fgec d2 |]",C,音乐续写
+42,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:48
+M:6/8
+L:1/8
+K:G","[gd][gd]ed [gd][gd]ed | [gd][gd]ed ""^^""[g2d2]d2 |\
+[gd][g3d3] gaga | g4- g2 :|","D2DD D2F2 | D2DD D2fg | a2de f2fg | a2de f2fg |\
+a2gf Te3d | d8 :|","ABc d2 :: a | afa afa | geg geg | fag fed | ced cBA | afa afa | geg geg |
+fed cde | dAF D2 :|","GAG G2e|dBG A3|c3 BAG|FGA AFD|GAG G2e|dBG {ef}g3|fed e3|d3 D3:|
+|:ded b2c|cdc a2B|BcB g2G|FGA AFD|ded b2c|cdc gfe|dcB A3|G3 G,3:|",D,音乐续写
+43,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:49
+M:C
+L:1/4
+Q:1/2=100
+K:Dmin
+dA Ad|eA Ae|fg/f/ ed|a2A2|dA Ad|eA Ae|","|:B/c/|d2d ecA|d2d ecA|GEE cEE|GAB c2e|
+d2d ecA|def/d/ ecA|GEE cEE|GEE D2:|]","gag gdB|gag gbg|gag gdB|A2B c2e|gbg ac'a|gbg fgf|g>fe d>cB|A2Bc2e:|
+dBG G2B|dBG Bdg|dBG G2B|A2Bc2e|dBG GBd|g>fe d>cB|cac BgB|A2Bc2e:|","CEAc | ecae | cAEC | DB,B,E |\
+CEAc | ecae | cAEG | A2 :|","fg/f/ ed|^c4::ad da|bG Gb|gc cg|aF Fa|
+ad da|a^c ca|ad da|a^c ca|f2e2|d4:|",D,音乐续写
+44,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:50
+M:C
+L:1/8
+K:G
+g3a g2g2-|gagf ed3|a3g a2(b2|b)fag ed3|
+g3a g2g2-|gagf ed3|(_B2=B2)AGEG|1ABAG- G4:|2ABAG-G2||","|:D2-|DEGE BcdB|eBdB eg3|(_B=B2)A BAGE|GEBB AGED|
+EGGA BcdB|eB[dg]B eg3|(_B=B2)B AGEG|(_B=B2)AG-G2:|","(a3/4b/4)|(c'3/2b/2a) (bag)|(d3/4e/4).g.g g2(a3/4b/4)|(c'3/2b/2a) (bag)|(ea)(a3/4b/4) a2(A3/4B/4)|
+A2(c/2B/2c/2d/2e/2^f/2) (g3/2=f/2e)|(e/2d/2c/2B/2) (3(g/2a/2b/2) G2(A3/4B/4)|.c(d/2c/2)(B/2A/2) Be A3/4G/4|(EA)(A3/4B/4) A2|]","AAAFAAAd | FFFED4 | dddBAAAF | FAFED4 |
+A3Bd2f2 | e2d2A4 | F3EF2A2 | D8","z2dde2dB | d2B2A2A2 | d2BBd2d2 | G3AB2A2- | A2z6 |
+z6E2 | B2EGz4 | z2B4gB | BdBAGAE2- | E2z6",A,音乐续写
+45,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 51
+M: 6/8
+L: 1/8
+K: D
+A |\
+D>ED F2G | A2d AFD | G2d F2d | [eE][fF][dD] [cC][BB,][AA,] |\
+D>ED F2G | A2d AFD | FdF Edc | d3 D2 :|
+|: A |\","dG BD|c/B/A/G/ F/A/D/F/|GGG:| |:z/d/|ggd z/ g/|bbd z/ f/|\
+aa g/f/e/f/|gbd z/ d/|ggd z/ g/|bbd z/ f/|aa g/f/e/f/|gbg:|","d>ed f2g | aga fed | BcB c2d | efd cBA |\
+d>ed f2g | a2g fed | (B/c/dB) (c/d/ec) | d3 D2 :|","b/a/g {/g}a>f e<A c>d | e>A{/A}a>e {fa}f>BB>c |\
+~A2 A>a e<Ac>e | ed/ c/B e>d c>A A |]","|:D2A,2F2A,2|G>FG>A G2 FE|F>Ad>c B>AG>F|E>DE>F E>GF>E|D2d2F2f2|
+A2a2a2 g>f|1 e>de>f e>dc>B|A2 A>B A>GF>E:|2e>de>f d>cB>c|d2 de d2||",B,音乐续写
+46,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 52
+M: 6/8
+L: 1/8
+K: D
+D |\
+F>EF (D/E/)FD | EB,F TE2D | F>EF (DF)D | EFA d2e/d/ |\
+c>BA B>AF | dAF TE2D | (FE)D DFD | TF3 A2 :|
+|: A |\
+d>ef efd | eBf Te2d | d>ef (ef)d | c>BA d2e |\
+Tc>BA F/G/AB | AFd TE2D | dcd AdD | TF3 A2 :|
+V: 2 clef=bass middle=d
+z |\
+d3 d2f | a2d a2d | d3 d3 | c3 B3 |\
+A3 G3 | F2D A2D | D3 d3 | dAF D2 :|
+|: z |\","d2d' a2b | c'2d' a2d' | d3 g3 | a2g f2g |\
+a3 d2g | f2d a2d | d3 D3 | dAF D2 :|","g2 d2 g2|g3 bag|f2 d2 e2|f3 gaf|
+g2 d2 de|d3 cAF|G6|G3 AGF||","|: A |Bcd Bcd | Bcd G3 | cde cde |cec {B}A2A |
+def def | def bag | fdB FBA | B2BB2 :|","|:A3BAB|c2f fed|cdc cBA|G2A BAG|
+A3 BAB|c2cc2c|d2f egd|f3-f2:|",A,音乐续写
+47,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:53
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+f|D>ED F2G|A2d AGF|G>Bd F2d|EFD CB,A,|
+D>ED F2G|A2d AGF|G2g f2e|d3 d2 :|","bfd BFD | B,DF Bdf | c'fd Bcd | c=ef _ecA |\
+dBA GEC | A,CF Acf | ecA FGA | Bdc ""^D.C.""B2 |]","|:B,2-^D2|B/>^c/ (3d/c/B/ e/>f/ (3g/f/e/|=c2B2|A/c/B/A/ B/G/E|
+B,2- ^D2|B/>^c/ (3^d/c/B/ e/>f/ (3g/f/e/|f/bB/ e/B/G/E/|B,/^DF/ Ez:|]","Bc|(3dcd Bd gdBG|(3ABA EG AGFE|DdcB cDEF|GB (3AGF GDB,D|
+GDEF GBdB|cBAG (3FGA Bc|dgfe dcEF|(3ABA GF G2 :|","A|d>ed f2g|fag fed|B2B Bcd|efd cBA |
+ded f2g|a2g fed|B2g fge|d3 d2 :|",D,音乐续写
+48,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:54
+M: 3/4
+L: 1/8
+K: Gmaj
+D2|:G2 B2 e2|d2 B2 G2|c4 E2|E4 G2|
+F2 G2 A2|E2 F2 D2|G4 B2|D4 D2|
+G2 B2 e2|d2 B2 G2|c4 E2|E4 G2|
+F2 G2 A2|E2 F2 D2|G6|1 G4 D2:|2 G4 Bc||
+|:d4 B2|g4 B2|d2 c2 B2|A4 B2|
+c4 A2|f4 e2|e2 d2 c2|B4 c2|","agae fece | .fkb2.g aece | gebe gbeg | fe^df .e2((3efg) |
+agae fece | .fkb2.g aece | kf2kg2ka2 (ed) | cABG A2:|","d4 B2|g4 B2|d2 c2 B2|A4 d2|
+f2 e2 d2|c2 B2 A2|G6|1 G4 B2:|2 G4||","|: de | f2B2 B2d2 c2B2 | g2c2 cde2 d2f2 | gaga B2A2 g2f2 | e2f2 f3=e f2ga |
+b2e2 d2b2 abag | fgfe d2g2 fgfe | dedc BcdB cBAG | F2B2 B3A","dc|defg a2 gf|gfed ceAe|defg a2 gf|gba^g a2 ag|
+abaf gfed|eAfA GFED|F2 AF G2 BG|Adce d2:|",B,音乐续写
+49,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:55
+M: 4/4
+L: 1/8
+K: Gmaj
+G,2B,D GBAG|EGDB, G,A,B,G,|A,2CE ABAG|FDDE FGAF|
+G2BG ABGE|DG,B,D GBdB|ABcd ecAG|1 FGAF GDB,D:|2 FGAF GABc||","|:d2BG DGBd|gdfd edBd|e2cA FAce|aege fage|
+d2BG DGBd|gdfd edBd|cded cAAG|1 FGAF GABc:|2 FGAF GDB,D||","c/2 c3/2- c z B/2- G3/2 F2| F4 z2| B2| B3 BE zE-F| F3 GA z B,3/2- C/2|\
+C2 z D E2 E2| E2 z4||","d4B2 | g4ed | c2cdec | d4 :|
+|:D2 | C2DFAc | B,2DGBd | c2c2c2| d4D2|C2DFAc|B,2DGBd|d2e2f2|g4 :|","|:z/|Bd- dg|ed g2|Bd- dg|dB A2|
+Bd- dg|ed gg|B/c/B/A/ GB|1 AB/A/ G3/2:|2 A2 d3/2||",A,音乐续写
+50,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:56
+M:6/8
+L:1/8
+K:F","d2d' a2b | c'2d' a2d' | d3 g3 | a2g f2g |\
+a3 d2g | f2d a2d | d3 D3 | dAF D2 :|","C| FFA GGF| D2 F C3| CDE FGA| B2 A G2 A| C2 C CCC| D2 F C3| AAA cBG|\
+F2 F FGA| C2 C CDE| F2 F F2||","c>de e>fg|gfe dcB|A>BA F>ED|d3d2B|
+c>de e>fg|gfe dcB|A>BA F>EF|G3G2||","|: f2f2 a2^gf | e2d2 f4 | f2ef g2{ag}eg | b2a2 a4 |
+f2f2 a2^gf | e2d2 f4 | f2ef g2{ag}eg | f2d2 d4 :|",B,音乐续写
+51,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 57
+M: 2/4
+L: 1/16
+Q: ""SLOW""
+K: D
+D2 |\
+(F2A2) AB3 | A2d2 (ed).c.B | (AF3) F3D | ([F4D4] [E3C3])D |\
+(FA3) A3B | A2d2 (ed).c.B | (A2F2) TE3F | [D6A,6F,6] :|
+|: A2 |\
+d2A2 A2~c2 | d2A2 A2d2 | {c}TB3A B2d2 | H[e6c6A6] ~c2 |\
+(df3) (Bd3) | A3c (BA)(GF) | {F}TE3D E2F2 | [D6A,6F,6] :|
+|: ""^8vo. alto _ _ _ _"" D2 |\
+~F3G A2F2 |TB3c {e}d2{c}B2 | (AF3) F3D | ([F4D4] [E3C3])D |\
+T[F3D4]G .A2[F2D2] | TB3c H[d2A2F2]cB | [A3F3][F^D] [G2E2][E2C2] | [D6A,6F,6] :|
+|: ""^loco."" (A/B/c) |\
+!f!d2A2A2~c2 | d2A2 A2dc | {c}TB3A B2d2 | {cd}He6 ~c2 |\
+(df3) (Bd3) | A3d (BA)(GF) | {F}TE3D E2F2 | [D6A,6F,6] :|
+V: 2 clef=bass middle=d
+z2 | d4 f2g2 | f4 b2g2 | f4 d4 | zAdf a4 | d4 f2g2 | f4 b2g2 | f2d2 a2A2 |
+DFAd D2 :||: z2 | [d'6a6f6] [g'2e'2c'2a2] | [f'4d'4a4] [d'4a4f4] | [g2d'8]f2g2f2 | Acea HA2z2 | [d'2f2]z2 [d'2g2]z2 | [d'4f4] (gf)(ed) |
+[g3A8]f g2a2 | DFAd D2 :||: !p!z2 | d3e f2d2 | g3a {c'}b2{a}g2 | [f4F4] [d4D4] | zAdf a4 |","|: BB Bc | d2 dc/2B/2 | AF/2A/2 dF | E3 F/2E/2 |\
+DF FA | Af f/2e/2d/2B/2 | Ad e>c |1 d4 :|2 d3 z |","[d3a4]e .f2[d2a2=c'2] | [d3g3b3][ea] H[f2a2]g2 | f2b2 e2a2 | zDFA d2 :||: [G2g2] | !f![F6f6] [G2g2] | [F4f4] [D2d2][F2f2] |
+[G3g3][Ff] [G2g2]z2 | zAce Ha2 [a2e'2g'2] | [a4d'4f'4] [g4d'4] | [f4d'4] ([gd4]f)(ed) | [g3A8]f g2a2 | zDFA d2 :|","bfd BFD | B,DF Bdf | c'fd Bcd | c=ef _ecA |\
+dBA GEC | A,CF Acf | ecA FGA | Bdc ""^D.C.""B2 |]","A|c2 d|cAF |c2d|cAF|cAF |cAF|d>cB/A/|G2
+C|F2 F|G>FG|AcA|GFG|A>GF|FDC|CD F |F2|]",B,音乐续写
+52,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 58
+M: 2/4
+L: 1/8
+K: A
+E |\
+c>c A>c | d2 Bd | c>c Ac | (BG E)E |\
+cc Ac | d2Bd | c>A B>G | A3 :: d |\
+c>e ea | f2ed | c>A Ac | (BG) Ed |
+c>e e<a | f2 ed | c>A BG | A3 H:| z |\","c2 A>c | d2 B>d | c2 A>c | BG E2 |\
+c2 A>c | d2 Bd | c>A B>G | A2 z |]","E>EE4|de/d/^c3d|e4B>^c|dBB2A^G|A6|z4G>A|
+B>BB2c>B|A>dd3B/A/|G4A>G|F>EE3E|E6|z6|","fg/f/ ed|^c4::ad da|bG Gb|gc cg|aF Fa|
+ad da|a^c ca|ad da|a^c ca|f2e2|d4:|","|:F2 A2 A2 e2 d2 c2|B3 c BAGF G2 E2|F2 A2 A2 e2 d2 c2|B2 A2 G2 F2 E4|
+F2 A2 A2 e2 d2 c2|B2 e2 f2 ef g2 fg|a4 f2 ed e2 c2|1 B2 AG A4 A2 G2:|2 B2 AG A8||",A,音乐续写
+53,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:59
+M:6/8
+L:1/8
+Q:1/4=120
+K:A
+A>BA c2d|e>fee2a|g2bB2d|c>BcA3|
+A>BA c2d|e>fee2a|g2bB2^d|e6:|","|:e>fee2c'|d>edd2b|cBA edc|B6|
+A>BAc2d|e>fee2a|ecA dBG|""rpt mark added""A6:|","|:F2 A2 A2 e2 d2 c2|B3 c BAGF G2 E2|F2 A2 A2 e2 d2 c2|B2 A2 G2 F2 E4|
+F2 A2 A2 e2 d2 c2|B2 e2 f2 ef g2 fg|a4 f2 ed e2 c2|1 B2 AG A4 A2 G2:|2 B2 AG A8||","G3| C/2C/2| CA AG| F D/2D/2 Dd| dd cA| G3| A/2A/2| AD D A/2A/2| AD D A/2A/2|\
+AG F/2F/2 E| D3||","|:z/|Bd- dg|ed g2|Bd- dg|dB A2|
+Bd- dg|ed gg|B/c/B/A/ GB|1 AB/A/ G3/2:|2 A2 d3/2||",A,音乐续写
+54,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:60
+M:6/8
+L:1/8
+K:F
+e| f3/2 e/2 dd-c A| f3/2- e/2 fF-G A| f3/2- e/2 dd-c A|c-A G G2 e|\
+f-e dd-c A|f-e f g2 a| f3/2 e/2 dd-e f|c-A G G2A/2-B/2| c2 A c2 A|\","G2G GDG | A2D DGA | BcB AGF | G2G G2D |\
+G2G GDG | A2D DGA | BcB AGF | G3- G2 |]","|:d2 de dGBd|ecfd g2 ge|d2 de d2 Bd|cBAG A2 Bc|
+d2 de dGBd|ecfd g2 ge|dbag dcBd|1 cAFA G2 Bc:|2 cAFA G4||","|:f2d2 d^cdf|e2A2 A2de|f2d2 d^cdf|e2a2 ^g2a2|
+f2d2 d^cdf|e2A2 A2de|f2a2 g2e2|1 fgfe d2de:|2 fgfe d2d2||","f-e fF-G A| c2 A c2 f|d-B GG-A B| c2 A c2 A|f-e f g2 a/2g/2| f3/2- e/2 dd-e f|\
+c-A G G2||",D,音乐续写
+55,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 61
+M: 4/4
+L: 1/8
+K: G
+BA|:G2 GA Bd ba|agfg d2 gf|eGce dGBd|cBAG A2 BA|
+G2 GA Bd ba|agfg d2 gf|eGce dGBd|1 cAFA G2 BA:|2 cAFA G2 Bc||","g<ee>c B<GTG>F | EeBG TF>ECa | g<ee>c B<GG>F | Ee {c}BA/G/ TF2E>a |
+g<ee>c B<GG>F | EeBG TF>ECF | E<B,E>F G>Bce | B<E {c}BA/G/ TF2E |]","|:d2 de dGBd|ecfd g2 ge|d2 de d2 Bd|cBAG A2 Bc|
+d2 de dGBd|ecfd g2 ge|dbag dcBd|1 cAFA G2 Bc:|2 cAFA G4||","| d>Bb>g d>BG>B | d>cA>B G2 A>B | c>Aa>g f>ed>c | B>dc>e d2 B>c |
+| d>Bb>g d>BG>B | d>gf>a d2 d>e | f>dB>d c>AF>A | G>FG>A G2 :|","A|d>ed f2g|fag fed|B2B Bcd|efd cBA |
+ded f2g|a2g fed|B2g fge|d3 d2 :|",B,音乐续写
+56,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:62
+M:3/4
+L:1/8
+Q:1/4=180
+K:C
+(C3DE2) | (F4G2) | (F3E) C2 | B2 c4- | c4 (GE) | (F4G2) | (F3E) C2 | E6 |
+(C3DE2) | (F4G2) | (F3E) C2 | B2 c4- | c4 (GE) | (F4G2) | (F3E) C2 | C6 |","(G3A) B2 | c6 | (c3B) G2 | (AB) c4- | c4 E2 | (F2G4) | (F3E) C2 | E6 |
+(C3DE2) | (F4G2) | (F3E) C2 | B2 c4- | c4 (GE) | (F4G2) | (F3E) C2 | C6 ||","z|vgag ged|""^4""ecc cde|aba age|edd (d2e)|\
+gag ged|""^4""ecc cde|fed fed|""^4""ecA A2:|","A>F|d2- dA d>e fd|e2 d/e/f e2 dB|AB de de g/f/e|d2 A2 F2- FA|
+B>G dA F2 A/G/F|BA GF E2 G/F/E|D2 d2 A>B AG|F2- FE D2||","|:fA BA|fA BA|d2 e>f|ed BA|fA BA| fA BA|d2 e>f| ed d2:|
+|:fa f>e| ed BA|d2 e>f| ed BA|fa f>e| ed BA|d2 e>f |ed d2:|",A,音乐续写
+57,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:63
+M:2/4
+L:1/8
+K:G
+D|B>B GB |c2 Ac |B>B GB |AF DD|BB GB |c2 Ac |B>G A>F|G3:|","[f3F3] [f3F3] | [f3F3] [f3F3] | [f3F3] [f3F3] | C3 c3 ||\
+[f3F3] [f3F3] | [f3F3] [f3F3] | B3 F3 | C3 c3 :|","G2D E2D|G2D E2D|GAB cBc|ABG FED|G2D E2D|G2D E2D|GAB cde|cAF G3::DGB c3|B
+3 A3|ABc d2e|c2d B3|GAB c3|B3 A3|ABc B2c|B2A G3:|","c|B>d dg |e2 dc |B>G GB |AF Dc|B>d d<g|e2 dc |B>G AF |G3:|
+z|B2 G>B|c2 A>c|B2 G>B|AF D2|B2 G>B|c2 A>c|B>G A>F|G3:|","""^2"" G E C/C/ B, | A,2 A,2 |][K:F][M:4/4][K:treble]""^Spelas önskat antal ggr."" A A A3/2 G/ | 
+F C B, A, | A A A3/2 G/ | F A, B, C | B D D/D/ D | A F F/F/ F | ""^Stämförslag B.O."" G E C/C/ B, | A,2 A,2 |]",C,音乐续写
+58,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:64
+L:1/4
+M:4/4
+K:F
+""^1""""^Förspel"" B G G/G/ G | F2 F2 |][K:F][M:4/4][K:treble]""^Dans"" c c c3/2 B/ | A F F F | c c c3/2 B/ | 
+A F F F | d B B/B/ B | c A A/A/ A | B G G/G/ G | F2 F2 |] 
+V:2","""Chorus""f/ | c/A3/2 (A3/2F/) | G3/2 F/ Gz/A/ | (c/A3/2) (A3/2c/) |
+| d3z/ f/ | c A A F | G3/2 F/ G z/A/ | (F/D3/2) (D3/2C/) | F3 |]","|: A|B c/d/ cf|d c/B/ cF|BEe d/c/|Tc2B2|
+A A/B/ cA|dG^Fd|d c/B/ A/B/ c|B2G |]","B2BBB2c>d|e>fg>e d2zd|g3ga3a|a4g3f|
+e2c'>ag2f2|g2g>gg2:|","""^2"" G E C/C/ B, | A,2 A,2 |][K:F][M:4/4][K:treble]""^Spelas önskat antal ggr."" A A A3/2 G/ | 
+F C B, A, | A A A3/2 G/ | F A, B, C | B D D/D/ D | A F F/F/ F | ""^Stämförslag B.O."" G E C/C/ B, | A,2 A,2 |]",D,音乐续写
+59,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:65
+M:4/4
+L:1/8
+K:E
+B| e e/2e/2 fd eB GB| ee fe g3 g| ag fe df BB| e B/2B/2 BG A2|G-F|\","E E/2E/2 GB e2 BB| g3/2 f/2 e2 a3/2 g/2 f2| b3/2 b/2 bb g2 fe| a3/2 a/2 ag fe|\
+gf| e2 e3/2 e/2 e z z||","ABc d2 :: a | afa afa | geg geg | fag fed | ced cBA | afa afa | geg geg |
+fed cde | dAF D2 :|","e3F | AF FA | Bd FB | D4 | DF Bd | f3B | d3F | 
+BD FB | Ae FA | E4 | EF Ac | f3A | e3F | ""rit.""fe cA | !fermata!(B4 | B2)z2 |]","G2D E2D|G2D E2D|GAB cBc|ABG FED|G2D E2D|G2D E2D|GAB cde|cAF G3::DGB c3|B
+3 A3|ABc d2e|c2d B3|GAB c3|B3 A3|ABc B2c|B2A G3:|",A,音乐续写
+60,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:66
+M: 3/2
+L: 1/8
+K: A
+a4 e2 d2 cd e2|=g3 e f2 d2 B2 ed|c2 A2 f2 ed e2 c2|B2 e2 f2 ef g2 fg|
+a4 e2 d2 cd e2|=g3 e f2 d2 B2 ed|c2 A2 f2 ed e2 c2|B2 AG A8:|","Bc | d2 g2 f2 | c4 AB | c2 e2 d2 | B4 Bc | B2 A2 B2 | c4 cd | e2 d2 F2 | G4 :|
+|: GA | B2 G2 GA | B2 G2 GA | B2 d2 c2 | A4 FG | A2 F2 FG | A2 F2 FG | A2 c2 G2 | G4 :|","|:FBBc dcBA|FBBc dcB2|EAAB cABA|EAAB cBA2|
+FBBc dcBA|FBBc dcB2|f3g f2e2|1 d2c2 B4:|2 d2c2 B2||","|:F2 A2 A2 e2 d2 c2|B3 c BAGF G2 E2|F2 A2 A2 e2 d2 c2|B2 A2 G2 F2 E4|
+F2 A2 A2 e2 d2 c2|B2 e2 f2 ef g2 fg|a4 f2 ed e2 c2|1 B2 AG A4 A2 G2:|2 B2 AG A8||","D2DD D2F2 | D2DD D2fg | a2de f2fg | a2de f2fg |\
+a2gf Te3d | d8 :|",C,音乐续写
+61,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 67
+M: 3/2
+L: 1/8
+K: A
+a4 e2 d2 cd e2|=g3 e f2 d2 B2 ed|c2 A2 f2 ed e2 c2|B2 e2 f2 ef g2 fg|
+a4 e2 d2 cd e2|=g3 e f2 d2 B2 ed|c2 A2 f2 ed e2 c2|B2 AG A8:|","|:(fg)|afdB G2 fa|bgec A2 (fg)|afdf gece|dfec ""^cr""A4|!
+dcdA FAdf|edcB A2 g2|fafd bgec|d2d2d2:|","|:F2 A2 A2 e2 d2 c2|B3 c BAGF G2 E2|F2 A2 A2 e2 d2 c2|B2 A2 G2 F2 E4|
+F2 A2 A2 e2 d2 c2|B2 e2 f2 ef g2 fg|a4 f2 ed e2 c2|1 B2 AG A4 A2 G2:|2 B2 AG A8||","f3 f3 | f3 g3 | f3 f3 | e3 d2 :|
+","e>^d e2 G2 | d>^c d2 A2 |\
+B>A B2 g2 | ""_D.C.""c4 :|",B,音乐续写
+62,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:68
+M:C
+L:1/8
+K:Dmin
+A2|d2e2f2g2|a2 gf e2 fg|a2e2f2d2|edcB A2A2|
+d2e2f2g2|a2 gf e2 fg|f2 ed ^cdec|d6:|","c|B>d dg |e2 dc |B>G GB |AF Dc|B>d d<g|e2 dc |B>G AF |G3:|
+z|B2 G>B|c2 A>c|B2 G>B|AF D2|B2 G>B|c2 A>c|B>G A>F|G3:|","|:AB|c2A2B2G2|AGAB A2 AB|c2A2B2G2|A6 AB|
+c2A2B2G2|AGAB A2 AB|c2A2B2G2|A4 A2:|]","{^c'}d'2{^c'}d'2 bgTg>f | ea/b/ (c'/b/).a/.g/ fdgb |\
+(d'b).g.d (bg).d.B | ecAF {F}G2 G2:|","|:f|f2 f f=ef|b2f d2d|f2e c2=A|B2d f2f|
+f2f f=ef|b2f d2d|fec =AGA|cBB B2!D.C.!:|",B,音乐续写
+63,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:71
+M:6/8
+L:1/8
+Q:3/8=88
+K:C","|GGG GcB|(c2 B/2c/4B/4) A3|A3/2B/2c cdc|B2A B2z|
+B3/2A/2G GAB|c2A B3|B3/2A/2G GAB|(A3/2B/4A/4) G- G2 z||","ABc d2 :: a | afa afa | geg geg | fag fed | ced cBA | afa afa | geg geg |
+fed cde | dAF D2 :|","b4a2c2 | b8 | b2c2b2a2 | f8 |
+f4b4 | b4f4 | f4f2a2 | b2c2b2a2 | f2b2a3f | e8","G2G GDG | A2D DGA | BcB AGF | G2G G2D |\
+G2G GDG | A2D DGA | BcB AGF | G3- G2 |]",A,音乐续写
+64,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 70
+L: 1/8
+M: 3/4
+K: G","Bc | d2 g2 f2 | c4 AB | c2 e2 d2 | B4 Bc | B2 A2 B2 | c4 cd | e2 d2 F2 | G4 :|
+|: GA | B2 G2 GA | B2 G2 GA | B2 d2 c2 | A4 FG | A2 F2 FG | A2 F2 FG | A2 c2 G2 | G4 :|","c>de e>fg|gfe dcB|A>BA F>ED|d3d2B|
+c>de e>fg|gfe dcB|A>BA F>EF|G3G2||","d2d' a2b | c'2d' a2d' | d3 g3 | a2g f2g |\
+a3 d2g | f2d a2d | d3 D3 | dAF D2 :|","dc|defg a2 gf|gfed ceAe|defg a2 gf|gba^g a2 ag|
+abaf gfed|eAfA GFED|F2 AF G2 BG|Adce d2:|",A,音乐续写
+65,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 71
+L: 1/16
+M: 9/16
+K: Bm
+""A""\
+| .f2 ~f2 .f2 f3 | .e2 z2 Bc d2e | .B2 ~e2- ec d3- | d=c B2 cA B^cd |
+| .e2 f2- f2 .f2f | .B2 z2 cd e2d | ef f2 ef d2=c | B2- BA =c2 .Bz2 ||
+""B""\
+|: de e2 ef d2=c | B2- Bc de d3 | B2 de ec d2e | d=c B2 cA B3 |
+| fe e2 ef d2=c | BA B=c de d2e | .f2 z2 de d2=c | B2- BA .=c2 Bz2 :|
+K:Bphr
+""C""\
+|: AB =c2 .B2 B2B | e2 d=c .B2 B2B | AB =ce .d2 d2c | B2 A=c .B2 ~B3 :|
+""D""\
+|: de e2 fg f2e | fg- gf .e2 ~e2e | de e2 ag ~f2e | ab gf .e2 e3 :|
+""E""\
+|: ab gf eB ~e2e | g2 fe gf ~e2e | ga a2 .a2 agf | e2 gf eB ~e2e :|
+K: Bmix
+""F""\
+|: de e2 .e2 edc | d2 cB Bc def- | fd e2-.ez edc | d2 cB B2 =AGF |
+| .B2 z2 de edc | d2 cB Bc def- | fd e2 df ed=c | B2- BA =cA B3 :|
+K:B=c^f^d
+""G""\
+|: B2- BA .=c2 B3 | F2 AA .B2 B3 | B2 A^G .F2 GAB | .=c2 AA .B2 B3 :|
+K:Ephr^g
+""H""\
+|: e2 ~a2 .az ^gab | ^g2 =f2e .e2 gab | .^g2 .a2 .a2 gab |1 .^g2 .a2 g=f e2e :|2 .^g2 z2 ag =f2e ||
+""I""\
+|: d2- d2 .=f2 e3 | de .=f2 .d2 e3 | ^ga ag .=f2 e3 |1 ba a^g .=f2 e3 :|2 .d2 =fd .e2 e2 ||
+K:B=c^f^d","""J""\
+|: B2 B^d =cB dcB | AB B^d =cB BF{E}F | B2 B^d =cB dcB |1 AB B^d =cB B2B :|2 AB B^d =cB .Bz2 |]","(3(d/2e/2f/2)|g2f (efg)|(a3/2g/2f/2e/2) d2d|e(dc/2B/2) c(de/2f/2)|g2a Hb2a|
+g(fe/2d/2) (c/2d/2e).f|egB A2D|G2A BcA|G3G2|]","|:FBBc dcBA|FBBc dcB2|EAAB cABA|EAAB cBA2|
+FBBc dcBA|FBBc dcB2|f3g f2e2|1 d2c2 B4:|2 d2c2 B2||","d>ed f2g | aga fed | BcB c2d | efd cBA |\
+d>ed f2g | a2g fed | (B/c/dB) (c/d/ec) | d3 D2 :|",A,音乐续写
+66,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:74
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+G>AG GBd |g2g gdB|c>de dcB|A2A A2z |
+G>AG GBd |g>ag gdB|c>BA dec|B2G G2z:|","A2A>^G ABcA|B2B>^A BcdB|c2ec BdBG|AGFED4|
+D2EF G>ABG|E2FG A>BcA|B2ABc2BA|G2F2G4:||","F2F2G2FD | GFD2D2F2- | F8 |
+DFF2GFG2 | D2FGD2D2- | D8","g>ab b>c'b|aba afd|gag fgf|efe dBG |
+G>AG GBd |ggg f2e|dcB AGF|G3- G3 :|","DFCDF3G | AGFGc3A | G2A2A2CD | G2E2D4 |
+dcAcd3c | dcAdc4 | AcAGFDFD | c2AGGFD2 | C8",C,音乐续写
+67,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 75
+M: 9/8
+L: 1/8
+K: Gmaj
+|:G2g dBG B/c/dB|G2g dBD F/G/AD|G2g dBG B/c/dB|A3 D2B AFD:|","(3(d/2e/2f/2)|g2f (efg)|(a3/2g/2f/2e/2) d2d|e(dc/2B/2) c(de/2f/2)|g2a Hb2a|
+g(fe/2d/2) (c/2d/2e).f|egB A2D|G2A BcA|G3G2|]","|: f2f2 a2^gf | e2d2 f4 | f2ef g2{ag}eg | b2a2 a4 |
+f2f2 a2^gf | e2d2 f4 | f2ef g2{ag}eg | f2d2 d4 :|","|:ECE DB,D G2D|ECE D2d AFD|ECE DB,D GFE|1 FGA D2d AFD:|2 FGA D3 ABc||
+|:BAB EDE B2c|BAB EDE B,2c|BAB EDE BAG|1 ABG AFE D2c:|2 ABG AFE DEF||","g<ee>c B<GTG>F | EeBG TF>ECa | g<ee>c B<GG>F | Ee {c}BA/G/ TF2E>a |
+g<ee>c B<GG>F | EeBG TF>ECF | E<B,E>F G>Bce | B<E {c}BA/G/ TF2E |]",C,音乐续写
+68,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:76
+M:6/8
+L:1/8
+Q:3/8=90
+K:D
+|:d2e f2d | e2c d2B | B2f fdB | BcB fdB |
+d2e f2d | e2c d2B | A2e ecA | ABA ecA :|","g2eg fdBd|g2 ef gaba|geeg fdBd|egfd e2ef| g2eg fdBd|g2 ef gaba|
+g2ge a2ag|eaag egdB:|""fine""G4 z4||","(EF) | GGGF GE C>c | cBGE F2 (EF) | GGGF GABG | Gccc c3 || G | Gfed cB G>F |
+Gfec d3G | cccB c>d ec | BGFE F3 E/F/ | GGGF GABG | Gccc c2 ||","|: d2g f/g/af | e/f/ge d/e/fd | B2f fdB | BcB fdB |
+d2g f/g/af | e/f/ge d/e/fd | A2e ecA | ABA ecA :|]","d2d' a2b | c'2d' a2d' | d3 g3 | a2g f2g |\
+a3 d2g | f2d a2d | d3 D3 | dAF D2 :|",C,音乐续写
+69,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:75
+M: 3/4
+L: 1/8
+K: Gmaj
+D2 G3A|B2 G2 G2|A2 ^G2 A2|f3 gaf|
+g2 d2 de|d2 c2 AF|G3 BAG|F3 AGF|
+D2 G3A|B2 G2 GB|A2 ^G2 A2|f3 gaf|
+g2 d2 de|d3 cAF|G6|G4||
+g2|g2 d2 g2|g3 bag|f2 d2 e2|=f3 ga^f|
+g2 d2 de|d2 c2 AF|G3 BAG|F4 g2|","G|E>DC E<GE|[M:9/8]D>ED D3 C2D|[M:6/8]E<GG E3|D3 C2D|
+[M:9/8]EC>C A3 G2F|[M:6/8]E>FG ABc|d<BA G2F|E>FG ABc|e2d c2:|]","BBB def|edB AFD|BBB def|edB e2c|
+BBB def|edB AFD|EDE BAF|FED E3|","g2 d2 g2|g3 bag|f2 d2 e2|f3 gaf|
+g2 d2 de|d3 cAF|G6|G3 AGF||","| d>Bb>g d>BG>B | d>cA>B G2 A>B | c>Aa>g f>ed>c | B>dc>e d2 B>c |
+| d>Bb>g d>BG>B | d>gf>a d2 d>e | f>dB>d c>AF>A | G>FG>A G2 :|",C,音乐续写
+70,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:76
+M: 2/4
+L: 1/8
+K: A
+AB |\
+cAAf | fedc | dcBA | BEEB |\
+cAAf | feae | cAEG | A2 :|
+|: ED |\","|:A3BAB|c2f fed|cdc cBA|G2A BAG|
+A3 BAB|c2cc2c|d2f egd|f3-f2:|","|: f2f2 a2^gf | e2d2 f4 | f2ef g2{ag}eg | b2a2 a4 |
+f2f2 a2^gf | e2d2 f4 | f2ef g2{ag}eg | f2d2 d4 :|","CEAc | ecae | cAEC | DB,B,E |\
+CEAc | ecae | cAEG | A2 :|","D| GGG BBB| AAF D3| d3 B2 G| d3- d2 B| Bee edB| ddd G2 D| E2 B BAF|\
+AAF D3| EEE B3| AEF E2||",C,音乐续写
+71,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:77
+M:6/8
+L:1/8
+K:C
+d|cAG G2G|ABA G2G|ABA ABd|f3 e2d|
+cAG G2G|ABA G2G|ABA AGA|c3 c3:|","b4b2b2 | f4d4 | f4d4 | B8 |
+d4f2f2 | b4b2b2 | f4d4 | f4d4 | f6dB | B8","|:e2f gag|e2f gag|e2f gag|f3 e2d|
+e2f g2g|gaf g2g|aba agf|f3 e2d:|]","B2B2d2Bd | e6fe | d2efedB6 | dBe6 | d8 |
+B2B2d2Bd | e6fe | d2efedBA | B8","|:fA BA|fA BA|d2 e>f|ed BA|fA BA| fA BA|d2 e>f| ed d2:|
+|:fa f>e| ed BA|d2 e>f| ed BA|fa f>e| ed BA|d2 e>f |ed d2:|",B,音乐续写
+72,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:78
+M:6/8
+L:1/8
+Q:""Slow""
+K:G","(3ccc (3ecB (3Acc (3ecc|(3ddd (3ffe (3Add (3fdd|
+e2 a>f e>dc>B|A2A2A2:||","Bd^cd DGBd|^cdcd DFA=c|BFGA Bcc^d|^cAFAd2dc|
+Bd^cd DGBd|^cdcd DFA=c|Bcde gdBG|EAFDG2||","G|GFA GGG|GFA GGG|GGG AAA|BBB !fermata!c2 B/c/|
+dBd {c}cBc|BEA GFD|EFG FGA|{G}GGz z2||","de|fBgB aBba|gefd cdeg|fBgB aBb^a|(3fcA F^G A2 de|
+fBgB aBba|gefd cdec|Bdfd Befe|fedc B2||",C,音乐续写
+73,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:79
+M:6/8
+L:1/8
+Q:3/8=90
+K:D
+|:d2e f2d | e2c d2B | B2f fdB | BcB fdB |
+d2e f2d | e2c d2B | A2e ecA | ABA ecA :|","dBAF|G>ABd|A>GFE|D2 DE|F2 FD|G>FGE|
+F2 FD|E2 zA|F>FFD|G>GGB|AGFE|D3||","|:AB|c2A2B2G2|AGAB A2 AB|c2A2B2G2|A6 AB|
+c2A2B2G2|AGAB A2 AB|c2A2B2G2|A4 A2:|]","|: d2g f/g/af | e/f/ge d/e/fd | B2f fdB | BcB fdB |
+d2g f/g/af | e/f/ge d/e/fd | A2e ecA | ABA ecA :|]","c2 A>c | d2 B>d | c2 A>c | BG E2 |\
+c2 A>c | d2 Bd | c>A B>G | A2 z |]",C,音乐续写
+74,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:80
+M:2/4
+L:1/16
+K:G
+g2|d2B2B2G2|c2A2A2F2|G2g2f2e2|
+e4d2g2|d2c2B2A2|B2A2G2F2|G4B4|
+[1G4G2:|[2G4G4|:A4c4|B4d4|A4c4|B4d4|
+A2A2A2d2|B2B2B2g2|B4A4|G4G4:|","|:ea a2 a2 ^ga|eaa^g e2 dA|de e2 dgfg|agdB G2 cd|
+e3c d3B|cBcA BGED|AEAB cedB|^deGB A2 c=d:|","|:c|f c2 fd B2d|g d2g ec2 e|a f2 ag e2g|fdgf {f}e2 dc|
+BcdB G2 cB|ABcA F2c2|defd gfeg|afge f4:||","c/2 c3/2- c z B/2- G3/2 F2| F4 z2| B2| B3 BE zE-F| F3 GA z B,3/2- C/2|\
+C2 z D E2 E2| E2 z4||","|:B4B2d2|d2c2B2A2|A4A2c2|c4B4|
+A2B2c2d2|e2f2g2e2|d2c2B2A2|G4G4:|",D,音乐续写
+75,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:81
+Q:1/4=60
+M:6/8
+L:1/8
+K:C
+""_vb""(A3/4B/4)|.c(d/2c/2B/2A/2) .B(c/2B/2A/2G/2)|(D3/4E/4).G.G G2(A3/4B/4)|.c(d/2c/2B/2A/2) (B/2e3/2) (A3/4G/4)|(EA)(A3/4B/4) A2(A3/4B/4)|
+(c/2B/2c/2d/2e/2^f/2) (g3/2=f/2e)|(e/2d/2c/2B/2) (3(g/2a/2b/2) G2(A3/4B/4)|.c(d/2c/2B/2A/2) (Be) (A/2G/2)|(EA)(A3/4B/4) A2:|","f4 f>e f<a|b2 d>e f4|A2 d2 d4|g2 f2 e4|
+f4 f>e f<a|b2 a>b a4|d4 d>c d<A|d2 d2 e4||","|:(Bc)|dg~g2 dg~g2|dg~g2 edcB|Aa({b}a)g fedc|Bdef gfge|dBGG GBdB|(3ABG (3
+FGE DcBA|GBdg ecAF|G2G2G2:|","D3/2 F/2 F2 z F/2F/2| D3/2 G/2 G2 z A| B3/2- c/2 d2 z c| B3/2 B/2 B3 B|\
+cd f2 z f|g/2-f/2-e/2-d/2 e2 d3/2 c/2| B3/2- A/2 G3||","(a3/4b/4)|(c'3/2b/2a) (bag)|(d3/4e/4).g.g g2(a3/4b/4)|(c'3/2b/2a) (bag)|(ea)(a3/4b/4) a2(A3/4B/4)|
+A2(c/2B/2c/2d/2e/2^f/2) (g3/2=f/2e)|(e/2d/2c/2B/2) (3(g/2a/2b/2) G2(A3/4B/4)|.c(d/2c/2)(B/2A/2) Be A3/4G/4|(EA)(A3/4B/4) A2|]",D,音乐续写
+76,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:82
+M:6/8
+L:1/8
+K:Dmin
+D/C/|A,DD DCD|EDE EcA|GEG cAc|GEC C2 D/C/|
+A,DD D2 (C/D/)|EDE !fermata!d2 c/B/|A>GF G>FE|A<FD D2||","|:A|dAd {de}f>ed|cde f2 (e/d/)|c>=BA GE(c/A/)|GEC C2A|
+dA(d/e/) f>ed|cde f2 e/d/|c>=BA G<EG|AFD D2:|]","Adc ABc|dee dcA|~G3 cGE|GEA DEG|
+GAA DAD|AGE A2c|AGE cGE|DED D3|","E E/2E/2 GB e2 BB| g3/2 f/2 e2 a3/2 g/2 f2| b3/2 b/2 bb g2 fe| a3/2 a/2 ag fe|\
+gf| e2 e3/2 e/2 e z z||","BBB def|edB AFD|BBB def|edB e2c|
+BBB def|edB AFD|EDE BAF|FED E3|",A,音乐续写
+77,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:83
+M: 6/8
+L: 1/8
+K: Bmin
+FBc d2e|fef b2a|faf fec|cBc ecA|
+FBc d2e|fef b2a|faf ecA|1 BcB B3:|2 BcB B2c||
+dbd cac|B2f fec|ABc cde|efd cBA|
+dbd cac|B2f fec|def ecA|BcB B2c|","|:B,2-^D2|B/>^c/ (3d/c/B/ e/>f/ (3g/f/e/|=c2B2|A/c/B/A/ B/G/E|
+B,2- ^D2|B/>^c/ (3^d/c/B/ e/>f/ (3g/f/e/|f/bB/ e/B/G/E/|B,/^DF/ Ez:|]","|: de | f2B2 B2d2 c2B2 | g2c2 cde2 d2f2 | gaga B2A2 g2f2 | e2f2 f3=e f2ga |
+b2e2 d2b2 abag | fgfe d2g2 fgfe | dedc BcdB cBAG | F2B2 B3A","|:cAF FAF|cAF Acf|cAF FAF|G2A B2d|cAF FAc|fed cBA|BgB AfA|G2A B2d:|
+|:fgf fcA|fgf fag|fgf fcA|G2A B2d|faf gbg|faf ege|fdf cAF|G2A B2d:|","dbd cac|B2f fec|ABc cde|efd cBA|
+FBc d2e|fef b2a|faf ecA|BcB B3||",D,音乐续写
+78,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:84
+L:1/8
+M:C
+K:D major
+%%staves {1 2}
+V:1
+D2- DA F<DdF | E2- Ee ^G<Eeg | fdec dBAF | GBAF D/D/D D2 :| \
+abaf dfaf |
+gebe gebe |1 \
+abaf dfaf | geaf d/d/d d2 :|2 \
+dfeg fbec | dBAF D/D/D D2 |]
+V:2 clef=bass octave=-2
+L:1/4","agf e2d/c/ | cBG F>FF | BBB Hg2f/e/ | dB{d}c B3 ""^slow""|\
+!p!Hd3 cBA | A2G HF3 !f!| Hb2B Bcd | d2c B2 |]","dddd | eeee | dcBA | gadd :| \
+dddd | eeee | |1 fdfa | gadd :|2 dcBA | GA DD |]","""Chorus""A>B c>A|c3A|G>A GE|G3 E/D/|
+CE GG/c/|ee/f/ e/d/c/A/|GB d>c|(c2c)||","ABA A2G|F2E D3 |ABA AFA|B3 d3|dcB ABG|FGE D3 |def ecA|B3 d3:|
+d2e fgf|e2d c2A|d2e fgf|e3 A3|d2e fgf|e2d cBc|dcB AFA|B3 d3:|",B,音乐续写
+79,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:85
+M:C
+L:1/8
+Q:""Slow""
+K:G
+G3B d3(c/B/) | ABcd e2 (e/f/g) | G3Bd3B | e2 (e/f/g) {e}d3 c/B/ | cded efgB |
+ABcd e2 (e/f/g) | TG3E D2 DE | G3A B2d2 :: GABc d>edB | ABcd edge |
+GABc d>edB | g>age d>edB | cded efgB | ABcd e2 (e/f/g) |TG3ED2 DE | G3AB2d2 :|
+|: G3B d3B | (A/B/A/B/) (c/B/c/d/) e2 (e/f/g) | G3B (d/c/d/e/ d)B | (e/c/B/)c/ (e/f/g/e/) {e}Td3c/B/ |
+(c/B/c/d/ e)d (e/g/f/)a/ (g/d/c/B/) | (A/G/A/B/) (c/B/c/d/) e2 (e/f/g) | (G/F/G/A/ G)E D2 DE | TG3A B2d2 :|","agf e2d/c/ | cBG F>FF | BBB Hg2f/e/ | dB{d}c B3 ""^slow""|\
+!p!Hd3 cBA | A2G HF3 !f!| Hb2B Bcd | d2c B2 |]","E E/2E/2 GB e2 BB| g3/2 f/2 e2 a3/2 g/2 f2| b3/2 b/2 bb g2 fe| a3/2 a/2 ag fe|\
+gf| e2 e3/2 e/2 e z z||","GGA BcB|c-BA- AA/2A/2A/2A/2G/2|
+^FFG ABA|B-AG- G3||","|: GABc d(g/f/) (e/d/)(c/B/) | (A/B/A/)B/ (c/B/c/d/) (ef/4g/4) | (GF/G/A/) (B/A/B/c/) (d/c/d/e/ d)B | (g/f/g/a/ g)e (d/c/d/e/) (d/e/d/B/) |
+cBcd (e/d/e/f/) (e/f/g/B/) | AB (c/B/c/d/) (e/c/B/c/ e)g | (G/A/B/A/) (G/A/G/E/) D2 DE | (G/F/G/A/ G)A B2d2 :|",D,音乐续写
+80,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:86
+M:2/4
+L:1/8
+R:Country Dance
+K:D
+B|dBAF|G<GGB|dBAF |E2 zB|dBAF|GGGB|
+A>GFE|D3B|dBAF|G>GGB|dBAF|E3B|","dBAF|G>ABd|A>GFE|D2 DE|F2 FD|G>FGE|
+F2 FD|E2 zA|F>FFD|G>GGB|AGFE|D3||","|: de | f2B2 B2d2 c2B2 | g2c2 cde2 d2f2 | gaga B2A2 g2f2 | e2f2 f3=e f2ga |
+b2e2 d2b2 abag | fgfe d2g2 fgfe | dedc BcdB cBAG | F2B2 B3A","ABc d2 :: a | afa afa | geg geg | fag fed | ced cBA | afa afa | geg geg |
+fed cde | dAF D2 :|","|:ggff|gg f2|fe/d/ cd|(e/d/c/B/) A2|\
+AB/c/ dd|fd f2|af (a/g/f/e/)|d2D2:|",A,音乐续写
+81,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:87
+M:3/4
+L:1/8
+K:Bb
+G| B3/2 c/2 B2 z d/2d/2| c3/2 B/2 A2 z A| B3/2 A/2 G2 z A| ^F3/2- =E/2 D2 z A|\
+B3/2 c/2 B3 d| c3/2 B/2 A3 d| B3/2 A/2 G3 A| ^F3/2- G/2 D3 A| B3/2 F/2 F2 z E|\","D3/2 F/2 F2 z F/2F/2| D3/2 G/2 G2 z A| B3/2- c/2 d2 z c| B3/2 B/2 B3 B|\
+cd f2 z f|g/2-f/2-e/2-d/2 e2 d3/2 c/2| B3/2- A/2 G3||","|:g|b3-g|b3-g|gg a/g/-g|c3f|
+aa a/b/a/g/|f>g f/e/d|d/d/e/f/ g/f/g/a/ g:|]","[f2A2D2][f2A2D2] [f3A3D3]a | gfed c/d/e/c/ A2 |\
+dA fe/d/ eA gf/e/ | fe/d/ Ac d2D2 :|","ABA A2G|F2E D3 |ABA AFA|B3 d3|dcB ABG|FGE D3 |def ecA|B3 d3:|
+d2e fgf|e2d c2A|d2e fgf|e3 A3|d2e fgf|e2d cBc|dcB AFA|B3 d3:|",A,音乐续写
+82,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:88
+L:1/8
+M:C
+Q:1/2=80
+K:G","ABA A2G|F2E D3 |ABA AFA|B3 d3|dcB ABG|FGE D3 |def ecA|B3 d3:|
+d2e fgf|e2d c2A|d2e fgf|e3 A3|d2e fgf|e2d cBc|dcB AFA|B3 d3:|","""_Allegro"" ""*""e2|gedB ccce|gedB A3e|gedB ccce|dcBA G2:|
+|: GA|B2 BG|c2 cA|B2 BG A3d|BBBG ccce|dcBA G2 :|","Bd^cd DGBd|^cdcd DFA=c|BFGA Bcc^d|^cAFAd2dc|
+Bd^cd DGBd|^cdcd DFA=c|Bcde gdBG|EAFDG2||","|:e>fee2c'|d>edd2b|cBA edc|B6|
+A>BAc2d|e>fee2a|ecA dBG|""rpt mark added""A6:|",B,音乐续写
+83,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:89
+M:6/8
+L:1/8
+K:G","D| GGG BBB| AAF D3| d3 B2 G| d3- d2 B| Bee edB| ddd G2 D| E2 B BAF|\
+AAF D3| EEE B3| AEF E2||","|:B/c/|d2d ecA|d2d ecA|GEE cEE|GAB c2e|
+d2d ecA|def/d/ ecA|GEE cEE|GEE D2:|]","GGA BcB|c-BA- AA/2A/2A/2A/2G/2|
+^FFG ABA|B-AG- G3||","c>de e>fg|gfe dcB|A>BA F>ED|d3d2B|
+c>de e>fg|gfe dcB|A>BA F>EF|G3G2||",A,音乐续写
+84,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:90
+M:C
+L:1/8
+K:C","|:f/g/|aaaa|a2 fd|g2ec|defg|
+aaaa|a2 fd|g2 ec|d3:|]","(EF) | GGGF GE C>c | cBGE F2 (EF) | GGGF GABG | Gccc c3 || G | Gfed cB G>F |
+Gfec d3G | cccB c>d ec | BGFE F3 E/F/ | GGGF GABG | Gccc c2 ||","b4b2b2 | f4d4 | f4d4 | B8 |
+d4f2f2 | b4b2b2 | f4d4 | f4d4 | f6dB | B8","ABA A2G|F2E D3 |ABA AFA|B3 d3|dcB ABG|FGE D3 |def ecA|B3 d3:|
+d2e fgf|e2d c2A|d2e fgf|e3 A3|d2e fgf|e2d cBc|dcB AFA|B3 d3:|",B,音乐续写
+85,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 90
+M: 3/4
+L: 1/8
+K: G
+B>c |\
+d2 g2 f2 | c4 A>B |\
+c2 e2 d2 | B4 B>B |\
+B2 A2 B2 | c4 c>d |\
+e2 F2 F2 | G4 ::\
+G2 |\
+e>^d e2 G2 | d>^c d2 G2 |\
+c>B c2 d2 |
+d4 G2 |\
+e>^d e2 G2 | d>^c d2 G2 |\
+c>B c2 F2 | ""_D.C.""G4 ::\
+d2 |\
+b>^a b2 d2 | b>^a b2 d2 |\
+b>^a b2 c'2 | a4 d2 |\
+a>^g a2 d2 | a>^g a2 d2 |
+a>^g a2 b2 | ""_D.C.""G4 ::\
+[K:=f] E>F |\
+G>^F G2 G2 | A>^G A2 A2 |\
+B>A B2 G2 | c4 G2 |\","a2d|d'/d'/ zg|a2 g/a/|ggg|g2 g/d/|g2 b/a/|b2 b/a/|b2b/a/|
+d'2 b/g/|d'2 b/g/|d'd'd'|!fermata!d'2d|g<bg|a2 g/a/|ggg|g2||","|:d2BG DGBd|gdfd edBd|e2cA FAce|aege fage|
+d2BG DGBd|gdfd edBd|cded cAAG|1 FGAF GABc:|2 FGAF GDB,D||","e>^d e2 G2 | d>^c d2 A2 |\
+B>A B2 g2 | ""_D.C.""c4 :|","F2F2G2FD | GFD2D2F2- | F8 |
+DFF2GFG2 | D2FGD2D2- | D8",C,音乐续写
+86,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:92
+Q:1/4=130
+M:6/8
+L:1/8
+K:G
+""_VB""(G/2A/2)|B2A (GBd)|g2e d2(B/2d/2)|g2e (dBG)|A2E F2(G/2A/2)|
+B2A (GBd)|g2e d2e|dBG A2d|G3G2||","D D/D/ D F|D D/D/ D f/g/|a d/e/ f f/g/|!
+a d/e/ f f/g/|a g/f/ e>d|d4|]","|: de | f2B2 B2d2 c2B2 | g2c2 cde2 d2f2 | gaga B2A2 g2f2 | e2f2 f3=e f2ga |
+b2e2 d2b2 abag | fgfe d2g2 fgfe | dedc BcdB cBAG | F2B2 B3A","(3(d/2e/2f/2)|g2f (efg)|(a3/2g/2f/2e/2) d2d|e(dc/2B/2) c(de/2f/2)|g2a Hb2a|
+g(fe/2d/2) (c/2d/2e).f|egB A2D|G2A BcA|G3G2|]","dbd cac|B2f fec|ABc cde|efd cBA|
+FBc d2e|fef b2a|faf ecA|BcB B3||",C,音乐续写
+87,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:93
+M: 3/4
+L: 1/16
+K: Gm
+G3F | D4G4F4 | G4B4
+c4 | d4F3GF2D2 | F8
+G3F | D4G4F4 | G4B4
+B3c | d4e2d2c2B2 | G8
+d3e | f4e2d2c2B2 | B6
+c2d4 | F4BG3FD3 | F8","a2aa a2b2|a2g2e4c|d2dd d2e2|d2c2A2(_B2-|
+=B)AB2 AG2 A|BABB AG2B|cBcd eged|c6||","|:f/g/|aaaa|a2 fd|g2ec|defg|
+aaaa|a2 fd|g2 ec|d3:|]","B3A | G6F2(3G2A2B2 | D2E2F4
+B2A2 | G4e2d2c2B2 | G8","""^2"" A/A/ |: FA/A/ FA/A/ | FC/C/ CE/F/ | G>F ED | C2 CG/G/ | EG/G/ EG/G/ | EC C2 | AA/G/ FF | 
+C2 CA/A/ :: FC FA | A2 A>c | BA GF | GE/E/ EE/F/ | ED CE | E2 E>F | ED CB, |1 A,2 A,A/A/ :|2 A,3 z |]",C,音乐续写
+88,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:94
+M:C|
+L:1/8
+K:G
+D3/2F/2|G3B A2A3/2c/2|d3/2g/2e3/2d/2 c3/2A/2A3/2c/2|B3/2d/2B3/2G/2 (3ABc A3/2F/2|G3/2B/2A3/2G/2 F3/2D/2E3/2F/2|
+(TRGFG3/2)B/2 A2 (3ABc|d3/2g/2e3/2d/2 c3/2A/2A3/2g/2|TRfef3/2a/2 e3/2c/2A3/2c/2|B3/2G/2A3/2F/2 G2:|","|:B3/2c/2|dg{a}gf g2f3/2g/2|a3/2b/2a3/2g/2 f3/2d/2d3/2c/2|B3/2c/2B3/2G/2 (3ABc A3/2F/2|G3/2B/2A3/2G/2 F3/2D/2 D2|
+dg{a}gf g2f3/2g/2|a3/2b/2a3/2g/2 f3/2d/2d3/2e/2|fef3/2a/2 e3/2c/2A3/2c/2|B3/2G/2A3/2F/2 G2:|","G2|c2e2g2|f2e2d2|c2c2G2|[c4e4] (fe)|
+(d2c2)F2|(F2E2)C2|(E2G2) (cB)|[E4c4]||","B3A | G6F2(3G2A2B2 | D2E2F4
+B2A2 | G4e2d2c2B2 | G8","|:g|b3-g|b3-g|gg a/g/-g|c3f|
+aa a/b/a/g/|f>g f/e/d|d/d/e/f/ g/f/g/a/ g:|]",A,音乐续写
+89,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:95
+M:C|
+L:1/8
+K:G
+D2|D3/2G/2G3/2B/2 A3/2G/2E3/2G/2|D3/2G/2G3/2B/2 e2d3/2B/2|d2g3/2f/2 e3/2d/2c3/2B/2|c3/2B/2c3/2e/2 d3/2B/2A3/2G/2|
+D3/2G/2G3/2B/2 A3/2G/2E3/2G/2|D3/2G/2G3/2B/2 e2d3/2B/2|d2g3/2f/2 e3/2d/2c3/2B/2|d3/2c/2A3/2B/2 G2:|","G2D E2D|G2D E2D|GAB cBc|ABG FED|G2D E2D|G2D E2D|GAB cde|cAF G3::DGB c3|B
+3 A3|ABc d2e|c2d B3|GAB c3|B3 A3|ABc B2c|B2A G3:|","|:g3/2a/2|b3/2g/2f3/2g/2 e3/2g/2d3/2B/2|c3/2B/2A3/2G/2 F3/2G/2A3/2B/2|B3/2G/2B3/2d/2 e3/2c/2e3/2g/2|a3/2g/2f3/2e/2 d2B3/2A/2|
+.G(gfg) .e(gfg)|.d(gfg) .b(gfg)|d3/2g/2f3/2e/2 d3/2c/2B3/2A/2|G2G2G2:|","bg~g2 bg~g2|af~f2 af~f2|bg~g2 bgag|eaag ~a2ga|
+bg~g2 ageg|~g3e dBGA|~B3A BedB|1AGAB G2 ga:|2AGAB G2 ge|","g2eg fdBd|g2 ef gaba|geeg fdBd|egfd e2ef| g2eg fdBd|g2 ef gaba|
+g2ge a2ag|eaag egdB:|""fine""G4 z4||",B,音乐续写
+90,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:96
+M:2/4
+L:1/16
+K:D
+AA|dfaf gfeg|fdAG FGA=c|BGFG EFGg|fdec dcBA|
+dfaf gfeg|fdAG FGA=c|BGFG EFGg|[1fgec d2:|[2fgec defg","g>ab b>c'b|aba afd|gag fgf|efe dBG |
+G>AG GBd |ggg f2e|dcB AGF|G3- G3 :|","Bc | d2 g2 f2 | c4 AB | c2 e2 d2 | B4 Bc | B2 A2 B2 | c4 cd | e2 d2 F2 | G4 :|
+|: GA | B2 G2 GA | B2 G2 GA | B2 d2 c2 | A4 FG | A2 F2 FG | A2 F2 FG | A2 c2 G2 | G4 :|","|:a2fd dfaf|dfaf bagf|gfge =cege|=cege agfe|
+a^gaf dfaf|dfaf bagf|gfgf gbag|[1fdec defg:|[2fgec d2 |]","GBd g3|ede gdB|GBd gdB|AGA AGE|1 GBd g3|ede gdB|
+G2 B AGA|BGF G3:|2 g3 f3|edB AGE|G2 B AGA|BGF G3|",C,音乐续写
+91,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:97
+M:C
+L:1/8
+K:D
+(3(ABc)|dcdA FAdf|edcB A2(fg)|afaf bagf|edcB A2(fe)|
+dcdB FAdf|edcB A2(fg)|afdg bgec|d2d2d2:|","a2d|d'/d'/ zg|a2 g/a/|ggg|g2 g/d/|g2 b/a/|b2 b/a/|b2b/a/|
+d'2 b/g/|d'2 b/g/|d'd'd'|!fermata!d'2d|g<bg|a2 g/a/|ggg|g2||","Beeeee | ceeeee | Beeeee | c2BcA2 |
+fagfge | f2efd2 | e2A2c2 | d6 :|","F2F2G2FD | GFD2D2F2- | F8 |
+DFF2GFG2 | D2FGD2D2- | D8","|: (3(efg)|afaf d2(ga)|bgbg e2(fg)|afaf bagf|edcB A2(fe)|
+dcdB FAdf|edcB A2(fg)|afdg bgec|d2d2d2:|",D,音乐续写
+92,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:98
+M:C
+L:1/8
+Q:""Moderato""
+R:Country Dance
+K:G
+(GA)(Bc) d2 cB|A>Bcd e2 (e/f/g)|G2 Bc {e}d2 cB|e2 (e/f/g) {e}d2 TcB|
+c>Bcd (e>fg).B|A>Bcd .e2 (e/f/g)|G3E D3E|G3A B2 B/c/d:|","|:B3/2c/2|dg{a}gf g2f3/2g/2|a3/2b/2a3/2g/2 f3/2d/2d3/2c/2|B3/2c/2B3/2G/2 (3ABc A3/2F/2|G3/2B/2A3/2G/2 F3/2D/2 D2|
+dg{a}gf g2f3/2g/2|a3/2b/2a3/2g/2 f3/2d/2d3/2e/2|fef3/2a/2 e3/2c/2A3/2c/2|B3/2G/2A3/2F/2 G2:|","|:F2 A2 A2 e2 d2 c2|B3 c BAGF G2 E2|F2 A2 A2 e2 d2 c2|B2 A2 G2 F2 E4|
+F2 A2 A2 e2 d2 c2|B2 e2 f2 ef g2 fg|a4 f2 ed e2 c2|1 B2 AG A4 A2 G2:|2 B2 AG A8||","|:g3a g3b|a3b afed|g3a g/a/b ag|gde=f edcB|
+c(eTdc) B(dTcB)|(A>Bc)d e2 (e/f/g)|G3E D3E|G3A B2 B/c/d:|","CEAc | ecae | cAEC | DB,B,E |\
+CEAc | ecae | cAEG | A2 :|",C,音乐续写
+93,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 99
+M: 4/4
+L: 1/8
+K: Dmaj
+A2|D2 D2 AB/A/ D>E|F2- FE E2 FE|D2 D2 A2 D>E|F2 d2 A2- AA|
+B>G dA FG AF|BA GF EF/E/ GF/E/|D2 d2 A>B AG|F2 E2 D2||","fdd2 fdge|fdAd fgaf|efgf g3f|efga bgeg|
+fdd2 edcA|dcdB AGFG|A2FA DAFD|EDEF D4:||","G2B2d2 | G2c2e2 | G2B2d2 | b4a2 |\
+g2e2c2 | B2(dc)(BA) | G2B2A2 | ""^D.C.""G4 |]","A>F|d2- dA d>e fd|e2 d/e/f e2 dB|AB de de g/f/e|d2 A2 F2- FA|
+B>G dA F2 A/G/F|BA GF E2 G/F/E|D2 d2 A>B AG|F2- FE D2||","(3(d/2e/2f/2)|g2f (efg)|(a3/2g/2f/2e/2) d2d|e(dc/2B/2) c(de/2f/2)|g2a Hb2a|
+g(fe/2d/2) (c/2d/2e).f|egB A2D|G2A BcA|G3G2|]",C,音乐续写
+94,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:100
+L:1/8
+M:2/4
+K:F
+""^1"" c/c/ |: Ac/c/ Ac/c/ | AF/F/""^Polkett"" FG/A/ | B/c/B/A/ GF | E2 EB/B/ | 
+GB/B/ GB/B/ | GE E2 | c/d/c/B/ Ac | F2 Fc/c/ :: 
+AF Ac | f2 f>e | dc BA | BG/G/ GG/A/ | 
+GF EG | c2 c>d | cB AG |1 F2 Fc/c/ :|2 F3 z |] 
+V:2","|:FBBc dcBA|FBBc dcB2|EAAB cABA|EAAB cBA2|
+FBBc dcBA|FBBc dcB2|f3g f2e2|1 d2c2 B4:|2 d2c2 B2||","Beeeee | ceeeee | Beeeee | c2BcA2 |
+fagfge | f2efd2 | e2A2c2 | d6 :|","GBd g3|ede gdB|GBd gdB|AGA AGE|1 GBd g3|ede gdB|
+G2 B AGA|BGF G3:|2 g3 f3|edB AGE|G2 B AGA|BGF G3|","""^2"" A/A/ |: FA/A/ FA/A/ | FC/C/ CE/F/ | G>F ED | C2 CG/G/ | EG/G/ EG/G/ | EC C2 | AA/G/ FF | 
+C2 CA/A/ :: FC FA | A2 A>c | BA GF | GE/E/ EE/F/ | ED CE | E2 E>F | ED CB, |1 A,2 A,A/A/ :|2 A,3 z |]",D,音乐续写
+95,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:101
+M:C
+L:1/8
+K:A
+|:\
+~A2 A>a e<A c>d | e>A{/A}a>e {fa}f>BB>c |\
+A2 A>a e<Ac>e | ed/c/B e>d c>A A :|
+a |\
+b>ga>f e<Ac>d | e>A{/A}a>A {/e}f>BB>a |\
+b>ga>f e<Ac>d | e>A{/A}a>e c>AA> ||
+a |\","bg2e- | ec2(A | G)B2G | ((3FGA) FD |\
+GB2G | FA df | {f}e2dc | d2d :|","f3 f3 | f3 g3 | f3 f3 | e3 d2 :|
+","(c/B/)(B/c/) B/c/d/B/ | A A (B/A/)(G/F/) |\
+G G/B/ A/G/F/E/ | D>E D/G/F/E/ | D>E D2 |]","b/a/g {/g}a>f e<A c>d | e>A{/A}a>e {fa}f>BB>c |\
+~A2 A>a e<Ac>e | ed/ c/B e>d c>A A |]",D,音乐续写
+96,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:102
+M:3/8
+L:1/8
+K:G
+G|BGB|dBd|gdd|d2 d/>c/|dBd|cAc|B3|G2e|
+d2 B/>d/|(d/c/)BA|G2G|BGB|d>ef|gBe|{d}^c2A|dfd|
+geg|(f/e/f/g/f/g/|a2)d|d^cd (e/g/)fe|d2d|d!fermata!Af|f!fermata!dd|
+e<gf|g2g|{g}f(e/d/)(^c/B/)|(^c/e/)(d/B/)(c/^A/)|B2d|deB|c2 c/c/|cdA|
+B2d/d/|g/g/ zf|a2gb|aaa|a2 d/c/|BGB|dBd|gd/g/b/g/|","D2DD D2F2 | D2DD D2fg | a2de f2fg | a2de f2fg |\
+a2gf Te3d | d8 :|","G2B2d2 | G2c2e2 | G2B2d2 | b4a2 |\
+g2e2c2 | B2(dc)(BA) | G2B2A2 | ""^D.C.""G4 |]","a2d|d'/d'/ zg|a2 g/a/|ggg|g2 g/d/|g2 b/a/|b2 b/a/|b2b/a/|
+d'2 b/g/|d'2 b/g/|d'd'd'|!fermata!d'2d|g<bg|a2 g/a/|ggg|g2||","|:(B/c/)|dBG G2(c/d/)|ecA A2(B/c/)|dcB AcG|F3D3|
+dBG G2(c/d/)|ecA A2g|fed ed^c|d3-d2:|",C,音乐续写
+97,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:103
+M:C
+L:1/8
+K:A
+(AB|c)efc ec(AB|c)efc e2(AB|c)efc ecAF|EGBG A2(AB|
+c)efc ec(AB|c)efa e2(AB|c)efc ecAF|EGBG A2:|","| d>Bb>g d>BG>B | d>cA>B G2 A>B | c>Aa>g f>ed>c | B>dc>e d2 B>c |
+| d>Bb>g d>BG>B | d>gf>a d2 d>e | f>dB>d c>AF>A | G>FG>A G2 :|","[d3a4]e .f2[d2a2=c'2] | [d3g3b3][ea] H[f2a2]g2 | f2b2 e2a2 | zDFA d2 :||: [G2g2] | !f![F6f6] [G2g2] | [F4f4] [D2d2][F2f2] |
+[G3g3][Ff] [G2g2]z2 | zAce Ha2 [a2e'2g'2] | [a4d'4f'4] [g4d'4] | [f4d'4] ([gd4]f)(ed) | [g3A8]f g2a2 | zDFA d2 :|","e3g d<BA>G| E2A2 A>cB>A|\
+G3A B>AB>d| e3f {a}g2fe| d>edB c>BA>G| E2G2 G2:|","|:[E2A2]-|[EA]-[FA]AB A3[ce]-|[e2e2][c2e2]- [ce]BA2| [Be]-[c3e3] [ce][ee][ce][Be]|A2 [F2A2]-[FA][E2A2]-|
+[EA]-[FA]AB A3[ce]-|[e2e2][c2e2]- [c2e2]AB| cBAF EGBG|[A3A3][AA]- [A2A2]:|",D,音乐续写
+98,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 104
+M: C
+L: 1/8
+K: D
+[f2A2D2][f2A2D2] [f3A3D3]a | gfed c/d/e/c/ A2 |\
+dA fe/d/ eA gf/e/ | fg/a/ gf f2e2 ::\
+A>Bcd efgf | edcB B2^A2 |
+f2 gf/e/ fb a/g/f/e/ | d2c2 B2z2 |\","A,| D2 FD E2 GF| D6 z D| F2 FF F2 EG| F4 z2 FG| AB AF D2 FA| GG EC A,2 B,C|\
+D2 FA G2 EC| D2 FG A2 FG|A-d AFE-G EC| D6 z2|","[f2A2D2][f2A2D2] [f3A3D3]a | gfed c/d/e/c/ A2 |\
+dA fe/d/ eA gf/e/ | fe/d/ Ac d2D2 :|","[d3a4]e .f2[d2a2=c'2] | [d3g3b3][ea] H[f2a2]g2 | f2b2 e2a2 | zDFA d2 :||: [G2g2] | !f![F6f6] [G2g2] | [F4f4] [D2d2][F2f2] |
+[G3g3][Ff] [G2g2]z2 | zAce Ha2 [a2e'2g'2] | [a4d'4f'4] [g4d'4] | [f4d'4] ([gd4]f)(ed) | [g3A8]f g2a2 | zDFA d2 :|","bg~g2 bg~g2|af~f2 af~f2|bg~g2 bgag|eaag ~a2ga|
+bg~g2 ageg|~g3e dBGA|~B3A BedB|1AGAB G2 ga:|2AGAB G2 ge|",B,音乐续写
+99,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 105
+M: 3/4
+L: 1/8
+K: Emin
+B4c>B|A>dd3B/A/|G4A>G|FEE2E>E|E6|z6|
+E4E2|de/d/ ^c3d|e4B>^c|d>BB2A^G|A6|z4G>F|","g2eg fdBd|g2 ef gaba|geeg fdBd|egfd e2ef| g2eg fdBd|g2 ef gaba|
+g2ge a2ag|eaag egdB:|""fine""G4 z4||","E>EE4|de/d/^c3d|e4B>^c|dBB2A^G|A6|z4G>A|
+B>BB2c>B|A>dd3B/A/|G4A>G|F>EE3E|E6|z6|","GAG G2e|dBG A3|c3 BAG|FGA AFD|GAG G2e|dBG {ef}g3|fed e3|d3 D3:|
+|:ded b2c|cdc a2B|BcB g2G|FGA AFD|ded b2c|cdc gfe|dcB A3|G3 G,3:|","A2A>^G ABcA|B2B>^A BcdB|c2ec BdBG|AGFED4|
+D2EF G>ABG|E2FG A>BcA|B2ABc2BA|G2F2G4:||",B,音乐续写
+100,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:106
+M:C
+L:1/8
+Q:""Heroically.""
+K:A
+F | E>D CE F/A/G/B/ AB/c/ | .d.c.B.A. (G2F) A | E>D CD/E/ F/A/G/B/ A.f/.e/ | d/c/B/A/ [.Ec][.DB] {B}A2 [CA] :|
+e | a>g {g}fe (fg/a/) ec/A/ | fedc (c2B) .e | a>g {g}fe (ag/a/) (ec/A/) | .d/.c/.B/.A/ [.Ec][.DB] {B}[C2A2][CA] e |
+(aA) (fA) (e/f/g/a/) (e/c/B/A/) | fedc (c2B).e | E>D .C.D/.E/ F/A/G/B/ (Aa/.e/) | f/e/d/c/ cB {B}A2 [CA] ||
+F | E/F/D/E/ CD/E/ F/A/G/B/ AB/c/ | d/e/c/d/ B/c/A/B/ (G2F) A | E/F/D/E/ C/A,/D/E/ F/A/G/B/ A/e/f/e/ | .d/.c/.B/.A/ cB A2 [CA] :|","E>EE4|de/d/^c3d|e4B>^c|dBB2A^G|A6|z4G>A|
+B>BB2c>B|A>dd3B/A/|G4A>G|F>EE3E|E6|z6|","(e | a/g/f/e/) (f/e/d/c/) (d/e/f/g/) (a/e/c/A/) | (d/e/f/e/) (d/c/B/A/) (c2 {d/c/}B) e | (a/g/f/e/) (f/e/d/c/) (d/e/f/g/) (a/e/c/A/) | (d/c/B/A/) cB B2 A e |
+a/.A/.f/.A/ .e/.A/.c/.A/ (.e/.f/.g/.a/) (.e/.c/.B/.A/) | (f/g/a/e/) d/c/B/A/ (c2 {d/c/}B)E | E/D/C/E/ F/A/G/B/ A/e/a/c'/ e'A | (d/c/B/A/) {E}[Ec] [F/d/][E/c/] {c}[D2B2][CA] ||","ABc d2 :: a | afa afa | geg geg | fag fed | ced cBA | afa afa | geg geg |
+fed cde | dAF D2 :|","f2 df afdf|f2 df efge|f2 df afdf|edcd efge|
+f2 df afdf|f2 df efge|f2 df dfdf|edcd efge||",B,音乐续写
+101,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:107
+M:2/4
+Q:1/4=110
+L:1/8
+K:Bb major
+[P:A] ""nicht zu schnell"" B, DF | G3D | F2d2 | B2F2 | dF Gd | F2ec | (A4 | !breath!A) C EF | G3E | 
+F2e2 | A2F2 | eF Ge | F2dc | (B4 | !breath!B) B, DF | G3D | F2d2 | B2F2 | dF Gd | 
+F2ec | (A4 | !breath!A) C EF | G3E | F2e2 | A2F2 | ""rit.""fe dc | !fermata!B4 ||
+[P:B] ""urchig, etwas schneller"" D EF | G2e2 | c2G2 | eG Ge | F2d2 | B2F2 | dF Gd | F2 ec | 
+A2F2 | eF Ge | F2dc | (B4 | !breath!B) D EF | G2e2 | c2G2 | 
+eG Ge | F2d2 | B2F2 | dF Gd | F2ec | A2F2 | ""rit.""fe dc | !fermata!B4 ||
+[P:C] ""übermütig"" DF Bd | f3B | d3F | BD FB | Ae FA | E4 | EF Ac | f3A |","(3(d/2e/2f/2)|g2f (efg)|(a3/2g/2f/2e/2) d2d|e(dc/2B/2) c(de/2f/2)|g2a Hb2a|
+g(fe/2d/2) (c/2d/2e).f|egB A2D|G2A BcA|G3G2|]","bfd BFD | B,DF Bdf | c'fd Bcd | c=ef _ecA |\
+dBA GEC | A,CF Acf | ecA FGA | Bdc ""^D.C.""B2 |]","(c/B/)(B/c/) B/c/d/B/ | A A (B/A/)(G/F/) |\
+G G/B/ A/G/F/E/ | D>E D/G/F/E/ | D>E D2 |]","e3F | AF FA | Bd FB | D4 | DF Bd | f3B | d3F | 
+BD FB | Ae FA | E4 | EF Ac | f3A | e3F | ""rit.""fe cA | !fermata!(B4 | B2)z2 |]",D,音乐续写
+102,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 108
+M: 2/4
+L: 1/8
+K: Gmaj
+|:B/c/|dd d/c/B|cc c/B/A|BB B/A/G|A/G/F/E/ DB/c/|
+dd d/c/B|cc c/B/A|B/A/G AF|G3:|","A c/ A/ G A/ G/ F D | 
+F4F z |]","f2ff f2 (fg)|Tf4 z2 (fg)|a2 ag f2 fe|d2d2A2A2|abag fgfe|d2d2A2A2|
+D2 DD D2F2|D2 DD D2 fg|a2 de f2 fg|a2 df e2 fg|a2 gf Te3d |d6:|]","|:G|A/G/F/E/ DD|A/G/F/E/ DE/F/|GG AA|B/c/B/A/ B2|
+A/G/F/E/ DD|A/G/F/E/ DE/F/|GG AF|G3:|","FEFD A2 D=C|^A=A^AG D2 G=A|^A=A^AG E=C=CA|AG=FA =C2 (3CDE|
+FEFD A2 ^FG|AGFA G2 AG|(3FGA FD BGEC|D2 DC D2:|",C,音乐续写
+103,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:109
+M:C
+L:1/8
+R:Country Rag
+Q:Moderate
+K:C
+GA|c2BA-A3A| c2d2 eg2A|c2BA- A2G2|Bd2B d3c|
+c2B2A3A|c2d2eg3e|a2ae g2ee|e2d2c2 cc|
+c2B2A3A|c2d2 eg2A|c2BA-A2G2|Bd2B d2cc|
+c2B2A3A|c2d2eg3e|a2ae g2ee|e2d2c2 G2||
+a2aa a2b2|a2g2e2c2|d2dd d2 e2|d2c2A4|
+BAB2 AG2A|BABB AG2B|cBc2 de3|g6^g2|","|:FE|DFBF dFBF|DFBF dFBF|EFcF eFcF|EFcF eFcF|
+DFBF dFBF|EFcF eFcF|EFcA ecAc|BABc B2:|]","[gd][gd]ed [gd][gd]ed | [gd][gd]ed ""^^""[g2d2]d2 |\
+[gd][g3d3] gaga | g4- g2 :|","|:AB/c/ dd|cd E2|Ec BA|FE FA|
+Ac dd|cd E2|Ec BA|FE D2:|","a2aa a2b2|a2g2e4c|d2dd d2e2|d2c2A2(_B2-|
+=B)AB2 AG2 A|BABB AG2B|cBcd eged|c6||",D,音乐续写
+104,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:110
+M:6/8
+L:1/8
+K:G
+cec BdB|AGA BGE|DEG AGA|B[Gd]B AGE|
+cec BdB|AGA BGE|DEG AGA|BGF G3:|","d>ed f2g | aga fed | BcB c2d | efd cBA |\
+d>ed f2g | a2g fed | (B/c/dB) (c/d/ec) | d3 D2 :|","AFG ABA|ABA d2d|cBA G3::gab e2e|fga d2d|
+gdB G2B|AFG A3|gab e2e|fga d2d|gdB G2B|AGF G3:|","|:f|f2 f f=ef|b2f d2d|f2e c2=A|B2d f2f|
+f2f f=ef|b2f d2d|fec =AGA|cBB B2!D.C.!:|","GBd g3|ede gdB|GBd gdB|AGA AGE|1 GBd g3|ede gdB|
+G2 B AGA|BGF G3:|2 g3 f3|edB AGE|G2 B AGA|BGF G3|",D,音乐续写
+105,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 111
+M:2/4
+L:1/16
+K:A
+vA,2CE D2FD | E2GB A2cA | BEcE dEcE | BdcB AGFE |
+A,2CE D2FD | E2GB A2cA | kf2kg2ka2 (ed) | cABG A2z2 ::","Bc|(3dcd Bd gdBG|(3ABA EG AGFE|DdcB cDEF|GB (3AGF GDB,D|
+GDEF GBdB|cBAG (3FGA Bc|dgfe dcEF|(3ABA GF G2 :|","ABA A2G|F2E D3 |ABA AFA|B3 d3|dcB ABG|FGE D3 |def ecA|B3 d3:|
+d2e fgf|e2d c2A|d2e fgf|e3 A3|d2e fgf|e2d cBc|dcB AFA|B3 d3:|","[K:D] f>(e d>A) F>A |""Em"" AB/A/ G2 E>A |""A7"" A>B (G>E) A>G |""D"" GA/G/ (F>D) F>d | 
+f>e d>A F>A | ""Em"" AB/A/ G2 E>A |""A7"" A>B (G>E) A>G |1""D"" GA/G/ F3 d""^Stämförslag B.O."" :|2,8""D"" GA/G/ F3 |]","agae fece | .fkb2.g aece | gebe gbeg | fe^df .e2((3efg) |
+agae fece | .fkb2.g aece | kf2kg2ka2 (ed) | cABG A2:|",D,音乐续写
+106,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:112
+M:C
+L:1/8
+Q:""Bold""
+K:D
+a>f|d2 d>d d2 cd|e>de>f d2 a>g|f>ag>f e>gf>e|d>ce>c A2F2|
+G2 G>G e2e2|F2 F>F d3d|cdef edcB|1 A2 A>B A2:|2 A2 A>B AGFE||","d4 g2d2 | c2B2A2c2 | {c}B2AG F2G2 | A2B2 dcBA |
+d4 g2d2 | egfa g2d2 | c2A2G2F2 | G4 G4 :|","|:D2A,2F2A,2|G>FG>A G2 FE|F>Ad>c B>AG>F|E>DE>F E>GF>E|D2d2F2f2|
+A2a2a2 g>f|1 e>de>f e>dc>B|A2 A>B A>GF>E:|2e>de>f d>cB>c|d2 de d2||","f3 f3 | f3 g3 | f3 f3 | e3 d2 :|
+","|:z/|Bd- dg|ed g2|Bd- dg|dB A2|
+Bd- dg|ed gg|B/c/B/A/ GB|1 AB/A/ G3/2:|2 A2 d3/2||",B,音乐续写
+107,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:113
+M:6/8
+L:1/8
+K:G","e3g d<BA>G| E2A2 A>cB>A|\
+G3A B>AB>d| e3f {a}g2fe| d>edB c>BA>G| E2G2 G2:|","G2D E2D|G2D E2D|GAB cBc|ABG FED|G2D E2D|G2D E2D|GAB cde|cAF G3::DGB c3|B
+3 A3|ABc d2e|c2d B3|GAB c3|B3 A3|ABc B2c|B2A G3:|","|:ea a2 a2 ^ga|eaa^g e2 dA|de e2 dgfg|agdB G2 cd|
+e3c d3B|cBcA BGED|AEAB cedB|^deGB A2 c=d:|","""Chorus""f/ | c/A3/2 (A3/2F/) | G3/2 F/ Gz/A/ | (c/A3/2) (A3/2c/) |
+| d3z/ f/ | c A A F | G3/2 F/ G z/A/ | (F/D3/2) (D3/2C/) | F3 |]",B,音乐续写
+108,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 114
+M: 4/4
+L: 1/8
+K: Amin
+dcBd cAA^G|A2 (3EF^G ABcA|A2 BG G2 cd|eaag a2 ba|
+ge e2 aged|c3d B3d|dedB cA (3Bcd|1 eAA^G A4:|2 cAA^G A2 cd||
+|:eAcA cedB|(3ABc BG A2 EF|G3A GD D2|GFGA B2 dB|
+ABcd ed d2|ecBA BG G2|EFGE ABcd|ea^gb a2 cd:|","|:A| FAdf | eAgA | fadf | e/d/c/B/ AA |!
+FAdf | eAgA | faAc | d3 ?","~e3f (ef)ge|(fe)fg {g}f2 ec|~B>c~ef (ef)gf|{d}e4 B2 ef|
+(gfe)c (ecB)G|(AG)FE {G}F2 EC|~e>fec B<G~F>G|1 E4 B,4:|2 E4 B3||","d/2 g f/2 ed| e3- e| e e/2e/2 ge| d B/2B/2 d3/2 G/2| B/2 d B/2 AG|\
+BG E2| GG GG| Gg e2| e2 G/2- G G/2| AA G2|","|:ea a2 a2 ^ga|eaa^g e2 dA|de e2 dgfg|agdB G2 cd|
+e3c d3B|cBcA BGED|AEAB cedB|^deGB A2 c=d:|",D,音乐续写
+109,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:115
+M:2/4
+L:1/8
+K:F
+C/2C/2| CA AG| Fd D D/2D/2| dd dc| A3| D/2D/2| DA AG| FE DC| G2 G3/2 A/2|\","G3| C/2C/2| CA AG| F D/2D/2 Dd| dd cA| G3| A/2A/2| AD D A/2A/2| AD D A/2A/2|\
+AG F/2F/2 E| D3||","fdd2 fdge|fdAd fgaf|efgf g3f|efga bgeg|
+fdd2 edcA|dcdB AGFG|A2FA DAFD|EDEF D4:||","G2B2d2 | G2c2e2 | G2B2d2 | b4a2 |\
+g2e2c2 | B2(dc)(BA) | G2B2A2 | ""^D.C.""G4 |]","A2 | B2B BAG | A2 A A3 | G2G GAB | A2F D3 | B2B BAG | A2A A3 | GAG FEF
+| G6 :|",A,音乐续写
+110,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:116
+M:C
+L:1/8
+Q:""Quick""
+K:A
+cd|e2 ed c2e2|c'c'2c' c'2ec|[d2f2][d2f2][d2f2][df]a|[Bb][B3b3][Bb]ecd|
+e2 ed cAe2|c'c'2c' c'2ec|d2Bc defg|a2a2a2:|
+|:ed|(3ccc (3ecB (3Acc (3ecc|(3ddd (3ffe (3Add (3fdd|
+(3ccc (3ecB (3Acc (3ecc|(3GBB (3dBB (3GBB (3edB|","(3ccc (3ecB (3Acc (3ecc|(3ddd (3ffe (3Add (3fdd|
+e2 a>f e>dc>B|A2A2A2:||","ABc d2 :: a | afa afa | geg geg | fag fed | ced cBA | afa afa | geg geg |
+fed cde | dAF D2 :|","|:G|A/G/F/E/ DD|A/G/F/E/ DE/F/|GG AA|B/c/B/A/ B2|
+A/G/F/E/ DD|A/G/F/E/ DE/F/|GG AF|G3:|","|:a2fd dfaf|dfaf bagf|gfge =cege|=cege agfe|
+a^gaf dfaf|dfaf bagf|gfgf gbag|[1fdec defg:|[2fgec d2 |]",A,音乐续写
+111,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 117
+M:C
+L:1/8
+K:G
+DE|:~G3A BAA2|bgag egdB|G2GA BAGE|ABAG E2DE| ~G3A BAA2|
+bgag egdB|G2GA BAGE|ABAG E2DE|","Bd^cd DGBd|^cdcd DFA=c|BFGA Bcc^d|^cAFAd2dc|
+Bd^cd DGBd|^cdcd DFA=c|Bcde gdBG|EAFDG2||","|:B3/2c/2|dg{a}gf g2f3/2g/2|a3/2b/2a3/2g/2 f3/2d/2d3/2c/2|B3/2c/2B3/2G/2 (3ABc A3/2F/2|G3/2B/2A3/2G/2 F3/2D/2 D2|
+dg{a}gf g2f3/2g/2|a3/2b/2a3/2g/2 f3/2d/2d3/2e/2|fef3/2a/2 e3/2c/2A3/2c/2|B3/2G/2A3/2F/2 G2:|","d4 B2|g4 B2|d2 c2 B2|A4 d2|
+f2 e2 d2|c2 B2 A2|G6|1 G4 B2:|2 G4||","g2eg fdBd|g2 ef gaba|geeg fdBd|egfd e2ef| g2eg fdBd|g2 ef gaba|
+g2ge a2ag|eaag egdB:|""fine""G4 z4||",D,音乐续写
+112,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 118
+M: 4/4
+L: 1/8
+K: Bmin
+dc|BFdF BAFB|AEcA edcA|BFdF BAFB|dFAF A2 dc|
+BFdF BAFB|AEcA edcA|Bdfd Bege|fedc B2||","(3cdc Bc AGEG|(3ccc Bc AAAB|(3ccc Bc AcGE|(3DDE FG AA (3GAB|
+ceBc AGEG|(3ccc Bc AAAc|BddB (3AAG EC|DDEF Gd (3cBA:|","A c/ A/ G A/ G/ F D | 
+F4F z |]","d2d' a2b | c'2d' a2d' | d3 g3 | a2g f2g |\
+a3 d2g | f2d a2d | d3 D3 | dAF D2 :|","de|fBgB aBba|gefd cdeg|fBgB aBb^a|(3fcA F^G A2 de|
+fBgB aBba|gefd cdec|Bdfd Befe|fedc B2||",D,音乐续写
+113,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:119
+M:3/8
+L:1/16
+Q:3/8=45
+K:G
+D2 | G2G2G2 | A2A2A2 | BGBGcB | A4AB |
+c2cBcA | B2BABG | A2ABAG | GFEDEF |
+G2G2G2 | A2A2A2 | B2B2B2 | ^c2c2c2 |
+dcdgec | dcdAFA | dcdgec | d4 :|
+|: D2 | cAFAcA | BGDGBG | cAFAcA | B4D2 |
+cAFAcA | BGDGBG | d2e2f2 | g4 :|
+|: d2 | d4B2 | g4e2 | c2cBcd | B4d2 |","GAG G2e|dBG A3|c3 BAG|FGA AFD|GAG G2e|dBG {ef}g3|fed e3|d3 D3:|
+|:ded b2c|cdc a2B|BcB g2G|FGA AFD|ded b2c|cdc gfe|dcB A3|G3 G,3:|","C| FFA GGF| D2 F C3| CDE FGA| B2 A G2 A| C2 C CCC| D2 F C3| AAA cBG|\
+F2 F FGA| C2 C CDE| F2 F F2||","d4B2 | g4ed | c2cdec | d4 :|
+|:D2 | C2DFAc | B,2DGBd | c2c2c2| d4D2|C2DFAc|B,2DGBd|d2e2f2|g4 :|","{^c'}d'2{^c'}d'2 bgTg>f | ea/b/ (c'/b/).a/.g/ fdgb |\
+(d'b).g.d (bg).d.B | ecAF {F}G2 G2:|",C,音乐续写
+114,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 120
+M:6/8
+L:1/8
+K:C
+""_4""ve/ud/|vcGE cGE|EDE CEG|cGE cGE|Add d""^4""ed|\
+cGE cGE|EDE CEG|c""^4""ee (e2d)|cAA A2:|","E2E2A2A2 | G3Gc4 |
+B2eBdcBA | G2F2E2z2","E E/2E/2 GB e2 BB| g3/2 f/2 e2 a3/2 g/2 f2| b3/2 b/2 bb g2 fe| a3/2 a/2 ag fe|\
+gf| e2 e3/2 e/2 e z z||","D2DD D2F2 | D2DD D2fg | a2de f2fg | a2de f2fg |\
+a2gf Te3d | d8 :|","z|vgag ged|""^4""ecc cde|aba age|edd (d2e)|\
+gag ged|""^4""ecc cde|fed fed|""^4""ecA A2:|",D,音乐续写
+115,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:121
+M:C
+L:1/8
+K:G
+DE|:~G3A BAA2|bgag egdB|G2GA BAGE|ABAG E2DE| ~G3A BAA2|
+bgag egdB|G2GA BAGE|ABAG E2DE|","agae fece | .fkb2.g aece | gebe gbeg | fe^df .e2((3efg) |
+agae fece | .fkb2.g aece | kf2kg2ka2 (ed) | cABG A2:|","g2eg fdBd|g2 ef gaba|geeg fdBd|egfd e2ef| g2eg fdBd|g2 ef gaba|
+g2ge a2ag|eaag egdB:|""fine""G4 z4||","E E/2E/2 GB e2 BB| g3/2 f/2 e2 a3/2 g/2 f2| b3/2 b/2 bb g2 fe| a3/2 a/2 ag fe|\
+gf| e2 e3/2 e/2 e z z||","d4B2 | g4ed | c2cdec | d4 :|
+|:D2 | C2DFAc | B,2DGBd | c2c2c2| d4D2|C2DFAc|B,2DGBd|d2e2f2|g4 :|",B,音乐续写
+116,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 122
+M: 6/8
+L: 1/8
+K: F 
+f |\
+cAA fAA | aAA cGG | cAA fAA | aAc d2f |\
+cAA fAA | aAA cGG | AGF fga | gec d2 :|
+|: c |\
+Acd cAF | (A/B/c)A cGc | A(B/c/d) cAF | f>(gf/e/) d2c |\
+Acd cAF | (A/B/c)A cGc | AGF f>ga ge^c d2 :|
+V: 2 clef=bass middle=d
+z |\
+a3 a3 | a3 g3 | a3 a3 | a3 a3 |\
+a3 a3 | a3 g3 | f3 f3 | e3 d2 :|
+|: z |\
+f3 f3 | c3 c3 | f3 f3 | d3 d3 |\","B2B2d2Bd | e6fe | d2efedB6 | dBe6 | d8 |
+B2B2d2Bd | e6fe | d2efedBA | B8","agf e2d/c/ | cBG F>FF | BBB Hg2f/e/ | dB{d}c B3 ""^slow""|\
+!p!Hd3 cBA | A2G HF3 !f!| Hb2B Bcd | d2c B2 |]","c>de e>fg|gfe dcB|A>BA F>ED|d3d2B|
+c>de e>fg|gfe dcB|A>BA F>EF|G3G2||","f3 f3 | f3 g3 | f3 f3 | e3 d2 :|
+",D,音乐续写
+117,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:123
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+(D<<G)(D<<G) (D<<G)(D<<G)|(EA)(A>E) (GB) (TBd)|\
+(D<<G)(D<<G) (D<<G)(D<<G)|(EA) A>F G2 G2:|
+{^c'}d'2{^c'}d'2 bgg>f | eaa>g fdfb |\
+{^c'}d'2{^c'}d'2 bgg>f | eaa>f {f}g2 G2 |","|:(Bc)|dg~g2 dg~g2|dg~g2 edcB|Aa({b}a)g fedc|Bdef gfge|dBGG GBdB|(3ABG (3
+FGE DcBA|GBdg ecAF|G2G2G2:|","""_Allegro"" ""*""e2|gedB ccce|gedB A3e|gedB ccce|dcBA G2:|
+|: GA|B2 BG|c2 cA|B2 BG A3d|BBBG ccce|dcBA G2 :|","""^2"" A/A/ |: FA/A/ FA/A/ | FC/C/ CE/F/ | G>F ED | C2 CG/G/ | EG/G/ EG/G/ | EC C2 | AA/G/ FF | 
+C2 CA/A/ :: FC FA | A2 A>c | BA GF | GE/E/ EE/F/ | ED CE | E2 E>F | ED CB, |1 A,2 A,A/A/ :|2 A,3 z |]","{^c'}d'2{^c'}d'2 bgTg>f | ea/b/ (c'/b/).a/.g/ fdgb |\
+(d'b).g.d (bg).d.B | ecAF {F}G2 G2:|",D,音乐续写
+118,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:124
+L:1/8
+M:3/4
+K:A
+V:1
+""^1""uu c |: (e>a) (c>e) A>c | (de/d/) B2 d>E | (E>G) (B>e) G>B |""A"" (Bc/B/) (A>c) e>c | 
+(e>a) (c>e) A>c | (de/d/) B2 d>E | (E>G) (B>e) G>B |1 ""A"" (Bc/B/) A3uu c :|2,8 ""A"" (Bc/B/) A3vv f |:
+[K:D]""D"" a>(gT f>e) d>c | cd/c/ B2 G>f | f>g (e>A) c>e | ef/e/ (d>F) A>f | 
+a>gT f>e d>c | cd/c/ B2 G>f | f>g (e>A) c>e |1 ef/e/ d3vv f :|2,8 ef/e/ d3 |] 
+V:2
+""^2"" A |:""A"" c>e (A>c) E>A |""^Hm"" FG/F/ D2 F>B, |""E7"" B,>E (G>B) E>D | DE/D/ (C>E) A>A | 
+c>e (A>c) E>A |""^Hm"" FG/F/ D2 F>B, |""E7"" B,>E (G>B) G>E |1 DE/D/ C3 A :|2,8 DE/D/ C3 d |:","G|E>DC E<GE|[M:9/8]D>ED D3 C2D|[M:6/8]E<GG E3|D3 C2D|
+[M:9/8]EC>C A3 G2F|[M:6/8]E>FG ABc|d<BA G2F|E>FG ABc|e2d c2:|]","|:cAF FAF|cAF Acf|cAF FAF|G2A B2d|cAF FAc|fed cBA|BgB AfA|G2A B2d:|
+|:fgf fcA|fgf fag|fgf fcA|G2A B2d|faf gbg|faf ege|fdf cAF|G2A B2d:|","[K:D] f>(e d>A) F>A |""Em"" AB/A/ G2 E>A |""A7"" A>B (G>E) A>G |""D"" GA/G/ (F>D) F>d | 
+f>e d>A F>A | ""Em"" AB/A/ G2 E>A |""A7"" A>B (G>E) A>G |1""D"" GA/G/ F3 d""^Stämförslag B.O."" :|2,8""D"" GA/G/ F3 |]","|:A|dAd {de}f>ed|cde f2 (e/d/)|c>=BA GE(c/A/)|GEC C2A|
+dA(d/e/) f>ed|cde f2 e/d/|c>=BA G<EG|AFD D2:|]",C,音乐续写
+119,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:125
+M:2/4
+L:1/16
+Q:110
+K:D
+A2A2 d2cB | A2d2 f4 | f2ef g2e2 | eede fdA2 |
+A2A2 d2cB | A2d2 f4 | f2ef g2eg | f2d2 d4 :|","|: f2f2 a2^gf | e2d2 f4 | f2ef g2{ag}eg | b2a2 a4 |
+f2f2 a2^gf | e2d2 f4 | f2ef g2{ag}eg | f2d2 d4 :|","|:cAF FAF|cAF Acf|cAF FAF|G2A B2d|cAF FAc|fed cBA|BgB AfA|G2A B2d:|
+|:fgf fcA|fgf fag|fgf fcA|G2A B2d|faf gbg|faf ege|fdf cAF|G2A B2d:|","g<ee>c B<GTG>F | EeBG TF>ECa | g<ee>c B<GG>F | Ee {c}BA/G/ TF2E>a |
+g<ee>c B<GG>F | EeBG TF>ECF | E<B,E>F G>Bce | B<E {c}BA/G/ TF2E |]","A>F|d2- dA d>e fd|e2 d/e/f e2 dB|AB de de g/f/e|d2 A2 F2- FA|
+B>G dA F2 A/G/F|BA GF E2 G/F/E|D2 d2 A>B AG|F2- FE D2||",A,音乐续写
+120,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 126
+M: 2/4
+L: 1/8
+K: G
+d|g/f/e/d/ gB|dG BD|c/B/A/G/ FA|GB dg|g/f/e/d/ gB|\","|:A|dAd {de}f>ed|cde f2 (e/d/)|c>=BA GE(c/A/)|GEC C2A|
+dA(d/e/) f>ed|cde f2 e/d/|c>=BA G<EG|AFD D2:|]","dG BD|c/B/A/G/ F/A/D/F/|GGG:| |:z/d/|ggd z/ g/|bbd z/ f/|\
+aa g/f/e/f/|gbd z/ d/|ggd z/ g/|bbd z/ f/|aa g/f/e/f/|gbg:|","agf e2d/c/ | cBG F>FF | BBB Hg2f/e/ | dB{d}c B3 ""^slow""|\
+!p!Hd3 cBA | A2G HF3 !f!| Hb2B Bcd | d2c B2 |]","g2 d2 g2|g3 bag|f2 d2 e2|f3 gaf|
+g2 d2 de|d3 cAF|G6|G3 AGF||",B,音乐续写
+121,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 127
+M:4/4
+K:D
+A2 | \
+d2f2a3b | a2f2d2f2 | gfef gfef | gfed c2A2 |\
+d2f2a3b | a2f2d2f2 | gfed cABc | d2d2 d4 :|
+K:A
+|:a2c'a e2ae| c2ec A2c2| d2d2dc B2| c2c2 cBA2|\
+a2c'a e2ae| c2ec A2c2| dcBc defg| a2a2 a4 :|
+K:D","|:d2BG DGBd|gdfd edBd|e2cA FAce|aege fage|
+d2BG DGBd|gdfd edBd|cded cAAG|1 FGAF GABc:|2 FGAF GDB,D||","|: f3ed2A2 | FAdf a3a | g2f2e2b2 | ba^ga f4 |\
+f2e2d2A2 | FAdf a4 | gfed cABc | d2d2 d4 :|","d4B2 | g4ed | c2cdec | d4 :|
+|:D2 | C2DFAc | B,2DGBd | c2c2c2| d4D2|C2DFAc|B,2DGBd|d2e2f2|g4 :|","fg/f/ ed|^c4::ad da|bG Gb|gc cg|aF Fa|
+ad da|a^c ca|ad da|a^c ca|f2e2|d4:|",B,音乐续写
+122,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 128
+M: 2/4
+L: 1/16
+K: F
+V: 1 name=""6""
+AB |\
+c2A2 A2f2 | gfef c3A | Bcdc BAGF | EFGA cBAB |\
+c2A2 A2f2 | fgaf c3A | BcdB AGFE | F2A2F2 H|]
+EF |\
+G2GE CEGB | BAdc c3A | Bcdc BAGF | EFGA G2EF |\
+G2GE CEGB | BAdc c3A | BcdB AGFE | F2A2""^D.C.""F2 |]
+","K: Fdor
+C3 |\
+F2FG A2AB | c6 B2 | A2G2 F2=E2 | GF=EF C3C |\
+F2FG A2AB | c6 B2 | A2G2 F2=E2 | ""^D.C.""F6 |]","c/2 c3/2- c z B/2- G3/2 F2| F4 z2| B2| B3 BE zE-F| F3 GA z B,3/2- C/2|\
+C2 z D E2 E2| E2 z4||","e3F | AF FA | Bd FB | D4 | DF Bd | f3B | d3F | 
+BD FB | Ae FA | E4 | EF Ac | f3A | e3F | ""rit.""fe cA | !fermata!(B4 | B2)z2 |]","""J""\
+|: B2 B^d =cB dcB | AB B^d =cB BF{E}F | B2 B^d =cB dcB |1 AB B^d =cB B2B :|2 AB B^d =cB .Bz2 |]",A,音乐续写
+123,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 129
+M: 6/8
+L: 1/8
+K: F
+V: 1 name=""2""
+A/B/ |\
+c=Bc Aag | .f.e.d .c.B.A | GAB Ggf | .e.d.c .B.A.G |\
+c=Bc Aag | fed cBA | BAB Bge | (g3 f2) H|]
+e/f/ |\
+[g3G3] [eG][dF][cE] | [cAD3]=BB [B=B,3]B/c/d/e/ |\
+[f3G3] fed | [g2C]{E}[eE] [c/E3]B/c/d/e/f/ |\
+[g3G3] [gG][fF][dE] | [dA3]cd [fd3]ga |\
+[gc3]ec BgB | d3 ""^D.C.""c2 |]
+K: Bb
+F |\","|:e2f gag|e2f gag|e2f gag|f3 e2d|
+e2f g2g|gaf g2g|aba agf|f3 e2d:|]","g>ab b>c'b|aba afd|gag fgf|efe dBG |
+G>AG GBd |ggg f2e|dcB AGF|G3- G3 :|","bfd BFD | B,DF Bdf | c'fd Bcd | c=ef _ecA |\
+dBA GEC | A,CF Acf | ecA FGA | Bdc ""^D.C.""B2 |]","|:cAF FAF|cAF Acf|cAF FAF|G2A B2d|cAF FAc|fed cBA|BgB AfA|G2A B2d:|
+|:fgf fcA|fgf fag|fgf fcA|G2A B2d|faf gbg|faf ege|fdf cAF|G2A B2d:|",C,音乐续写
+124,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 130
+M: 6/8
+L: 1/8
+K: G
+g3 dBd|c2 B A2 c|BdB A2 G|F3/2E/F D3|
+g3 dBd|c2 B Ace|dcB AGF|G3 G3||
+|:D3 EDE|DGB d2 d|c2 B A2 G|FEF D2 D|
+E2 c cdc|dBG G2 g|dBG cAF|G3 G2 B/c/|","dBd ege|dBd c2A|dBG EFG|ABG FED|
+dBd ege|dBd c2 A|dBG DEF|G3 G3:|","gag gdB|gag gbg|gag gdB|A2B c2e|gbg ac'a|gbg fgf|g>fe d>cB|A2Bc2e:|
+dBG G2B|dBG Bdg|dBG G2B|A2Bc2e|dBG GBd|g>fe d>cB|cac BgB|A2Bc2e:|","AF A>A|BG B>B|Ad f>d|ed B/c/d/B/|AF A>A |BG B>B|Ad f>d|ed d2:|
+|:Bd f>g|fe e2|ef ga|ba f>d|Ad f>g|fe e2|ef af|ed d2:|","(a3/4b/4)|(c'3/2b/2a) (bag)|(d3/4e/4).g.g g2(a3/4b/4)|(c'3/2b/2a) (bag)|(ea)(a3/4b/4) a2(A3/4B/4)|
+A2(c/2B/2c/2d/2e/2^f/2) (g3/2=f/2e)|(e/2d/2c/2B/2) (3(g/2a/2b/2) G2(A3/4B/4)|.c(d/2c/2)(B/2A/2) Be A3/4G/4|(EA)(A3/4B/4) A2|]",A,音乐续写
+125,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 131
+M:4/4
+L:1/8
+K:G
+dB~B2 GEDE|GB~B2 dBGB|A3 B AGED|EGAB c2 Bc|
+dB~B2 GEDE|GB~B2 dBGA|~B3A BedB|1AGAB G2 ge:|2AGAB G2 ga||","|:F2 A2 A2 e2 d2 c2|B3 c BAGF G2 E2|F2 A2 A2 e2 d2 c2|B2 A2 G2 F2 E4|
+F2 A2 A2 e2 d2 c2|B2 e2 f2 ef g2 fg|a4 f2 ed e2 c2|1 B2 AG A4 A2 G2:|2 B2 AG A8||","[gd][gd]ed [gd][gd]ed | [gd][gd]ed ""^^""[g2d2]d2 |\
+[gd][g3d3] gaga | g4- g2 :|","bg~g2 bg~g2|af~f2 af~f2|bg~g2 bgag|eaag ~a2ga|
+bg~g2 ageg|~g3e dBGA|~B3A BedB|1AGAB G2 ga:|2AGAB G2 ge|","f4 f>e f<a|b2 d>e f4|A2 d2 d4|g2 f2 e4|
+f4 f>e f<a|b2 a>b a4|d4 d>c d<A|d2 d2 e4||",C,音乐续写
+126,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:132
+M:3/4
+L:1/8
+K:Dmin
+D/E/ F/4G/4A/4B/4c/4d/4e/4 | f>a g/f/e/d/ fe | d>e f/e/d/c/ fA | c>d e/d/c/A/ c/A/G/E/ |
+G2 EG AA | A4 || AB | cA c/d/e/f/ gg | a>b c'/b/a/g/ ae | fg a/g/f/e/ f/e/d/c/ |","|: d | gab bag | fdf b2f | cde edc | AFF F2 F/F/ |
+DFB dBd | fdf b2g | fdB cBc | dBB B2 :|","d2 de f/4d/4e/4c/4d/4c/4A/4G/4 | A4 D/4E/4F/4G/4A/4B/4c/4d/4e/4 |
+f>a g/f/e/d/ fe | d>e f/e/d/c/ fA | c>d e/d/c/A/ c/A/G/E/ | G2 EG AA | A4 ||","G2G GDG | A2D DGA | BcB AGF | G2G G2D |\
+G2G GDG | A2D DGA | BcB AGF | G3- G2 |]","|:d|g2 dB|g2 dB|Gg dB|AA Ad|
+g2 dB|g2 dB|Bd Ad|BG G:|",B,音乐续写
+127,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 133
+M: 2/4
+L: 1/8
+K: Dmaj","b4a2c2 | b8 | b2c2b2a2 | f8 |
+f4b4 | b4f4 | f4f2a2 | b2c2b2a2 | f2b2a3f | e8","G2D E2D|G2D E2D|GAB cBc|ABG FED|G2D E2D|G2D E2D|GAB cde|cAF G3::DGB c3|B
+3 A3|ABc d2e|c2d B3|GAB c3|B3 A3|ABc B2c|B2A G3:|","d2ef | cAA2 | G2AB | AFF2 |\
+d2d/d/e | cAA2 | cBAG | F2F2 :|","|:fA BA|fA BA|d2 e>f|ed BA|fA BA| fA BA|d2 e>f| ed d2:|
+|:fa f>e| ed BA|d2 e>f| ed BA|fa f>e| ed BA|d2 e>f |ed d2:|",D,音乐续写
+128,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:134
+M:2/4
+L:1/8
+K:D","AF A>A|BG B>B|Ad f>d|ed B/c/d/B/|AF A>A |BG B>B|Ad f>d|ed d2:|
+|:Bd f>g|fe e2|ef ga|ba f>d|Ad f>g|fe e2|ef af|ed d2:|","|: fed ecA|fed ecA|Bcd A2F|GEE E3|
+fed ecA|fed ecA|B2d A2G|FDD D3 :|","e3F | AF FA | Bd FB | D4 | DF Bd | f3B | d3F | 
+BD FB | Ae FA | E4 | EF Ac | f3A | e3F | ""rit.""fe cA | !fermata!(B4 | B2)z2 |]","|:AB/c/ dd|cd E2|Ec BA|FE FA|
+Ac dd|cd E2|Ec BA|FE D2:|",A,音乐续写
+129,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 135
+M: 6/8
+L: 1/8
+K: Emin
+EEE BAF|EAF FED|EEE BAF|FAF E2D|
+EEE BAF|EAF FED|EDE BAF|FED E2c|","GBd g3|ede gdB|GBd gdB|AGA AGE|1 GBd g3|ede gdB|
+G2 B AGA|BGF G3:|2 g3 f3|edB AGE|G2 B AGA|BGF G3|","BBB def|edB AFD|BBB def|edB e2c|
+BBB def|edB AFD|EDE BAF|FED E3|","""_Allegro"" ""*""e2|gedB ccce|gedB A3e|gedB ccce|dcBA G2:|
+|: GA|B2 BG|c2 cA|B2 BG A3d|BBBG ccce|dcBA G2 :|","""J""\
+|: B2 B^d =cB dcB | AB B^d =cB BF{E}F | B2 B^d =cB dcB |1 AB B^d =cB B2B :|2 AB B^d =cB .Bz2 |]",B,音乐续写
+130,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 136
+M: 4/4
+L: 1/8
+K: Gmaj
+df|:g2dc BGAB|ca^ga fdef|1 g2dc BcdB|cafdg2d2:|2 gfed ^cdBG|EAFDG2dc||","""^2"" A/A/ |: FA/A/ FA/A/ | FC/C/ CE/F/ | G>F ED | C2 CG/G/ | EG/G/ EG/G/ | EC C2 | AA/G/ FF | 
+C2 CA/A/ :: FC FA | A2 A>c | BA GF | GE/E/ EE/F/ | ED CE | E2 E>F | ED CB, |1 A,2 A,A/A/ :|2 A,3 z |]","|:g3/2a/2|b3/2g/2f3/2g/2 e3/2g/2d3/2B/2|c3/2B/2A3/2G/2 F3/2G/2A3/2B/2|B3/2G/2B3/2d/2 e3/2c/2e3/2g/2|a3/2g/2f3/2e/2 d2B3/2A/2|
+.G(gfg) .e(gfg)|.d(gfg) .b(gfg)|d3/2g/2f3/2e/2 d3/2c/2B3/2A/2|G2G2G2:|","Bd^cd DGBd|^cdcd DFA=c|BFGA Bcc^d|^cAFAd2dc|
+Bd^cd DGBd|^cdcd DFA=c|Bcde gdBG|EAFDG2||","B2B2d2Bd | e6fe | d2efedB6 | dBe6 | d8 |
+B2B2d2Bd | e6fe | d2efedBA | B8",C,音乐续写
+131,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:137
+M: 6/8
+L: 1/8
+K:Dmix
+ABA DEG|AGE Adc|AGE CGE|GEA DEG|
+GAA DAD|AGE A2c|AGE cGE|DED D3:|
+Add ABc|d2e dcA|GEE CEE|GED DEG|
+Adc ABc|d2e dcA|GEE cEE|DED D3|","|:d|fga agf|f3Bcd|efe ege|d3c2A|
+dcB AGF|BAG FED|FGA cec|""d2 in MS""d3d2:|","Adc ABc|dee dcA|~G3 cGE|GEA DEG|
+GAA DAD|AGE A2c|AGE cGE|DED D3|","e/d/cA/A/ | f/e/dc/A/ | GfB | c>z G/G/ | ecG/E/ | FdG/G/ | 
+f/e/dG/F/ | EcG/G/ | e/d/cA/A/ | f/e/dc/A/ | G/B/ d/f/B | !fermata!c2z |]","|:B/B/|B/fB/ g/B/f/B/|A/B/A/G/ F/D/F/A/|f/B/B/B/ g/B/B/B/|A/G/F/E/ D/B,/D/F/|
+f/B/B/B/ g/B/B/B/|A/B/A/G/ F/D/F/A/|f/B/B/B/|g/f/g/a/|b/g/f/d/ B:|]",B,音乐续写
+132,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:139
+L:1/8
+M:3/4
+K:D major
+P:Voice 1
+d2 c2 B2 | AE EGFE | d/2e/2d c/2d/2c B/2c/2B | AD DFED ||
+GE FD GE | AE EF GA| dF EecA |dD DFED ||
+fg/2f/2 ef/2e/2 cB| ce eB ce |f/2g/2a/2c/2 Be/2d/2 cA| dD D/2E/2F ED|]
+P:Voice 2
+D2 A2 G2 | F2 E4 | D2 A2 G2 | F2 D4 ||","~e3f (ef)ge|(fe)fg {g}f2 ec|~B>c~ef (ef)gf|{d}e4 B2 ef|
+(gfe)c (ecB)G|(AG)FE {G}F2 EC|~e>fec B<G~F>G|1 E4 B,4:|2 E4 B3||","""^2"" A/A/ |: FA/A/ FA/A/ | FC/C/ CE/F/ | G>F ED | C2 CG/G/ | EG/G/ EG/G/ | EC C2 | AA/G/ FF | 
+C2 CA/A/ :: FC FA | A2 A>c | BA GF | GE/E/ EE/F/ | ED CE | E2 E>F | ED CB, |1 A,2 A,A/A/ :|2 A,3 z |]","ge fd ge | ae eg fa | fA G2 A2 | F2 D4 ||
+de/2d/2 cd/2c/2 A2 | Ac c^G Ac | F2 =G2 A2 | D2 D/2E/2F ED|]","|:f2d2 d^cdf|e2A2 A2de|f2d2 d^cdf|e2a2 ^g2a2|
+f2d2 d^cdf|e2A2 A2de|f2a2 g2e2|1 fgfe d2de:|2 fgfe d2d2||",C,音乐续写
+133,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:139
+M:3/4
+K:G
+G2GA Bc|d3e {e}g2|d3e {e}g2|{eg}ed cB AG|\
+A2 AB cd|e4 {e}g2|e4 {e}g2|{eg}e4 d2|
+G2 GA Bc|d3e {e}g2|d3e {e}g2|{eg}ed cB AG|\
+c2 dc BA|B2 cB AG|A3B d2|e4 d2::
+g2 G2 Bd|g2 G2 Bd|g2 G2 g2|ed cB AG|\
+a2 A2 e2|a2 A2 e2|a2 A2 a2|{ef}e4 (3def|","|: de | f2B2 B2d2 c2B2 | g2c2 cde2 d2f2 | gaga B2A2 g2f2 | e2f2 f3=e f2ga |
+b2e2 d2b2 abag | fgfe d2g2 fgfe | dedc BcdB cBAG | F2B2 B3A","GGA BcB|c-BA- AA/2A/2A/2A/2G/2|
+^FFG ABA|B-AG- G3||","g2 G2 Bd|g2 G2 Bd|g2 G2 g2|ed cB AG|\
+c2 dc BA|B2 cB AG|A3B d2|e4 d2:|","|: BB Bc | d2 dc/2B/2 | AF/2A/2 dF | E3 F/2E/2 |\
+DF FA | Af f/2e/2d/2B/2 | Ad e>c |1 d4 :|2 d3 z |",C,音乐续写
+134,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 140
+M: 2/4
+L: 1/8
+K: Dmaj
+|:A,A, A,A,|D2 EF|GB/G/ FE|DE FG|
+A,A, A,A,|D2 EF|GB/G/ FE|ED D2:|","Bc|(3dcd Bd gdBG|(3ABA EG AGFE|DdcB cDEF|GB (3AGF GDB,D|
+GDEF GBdB|cBAG (3FGA Bc|dgfe dcEF|(3ABA GF G2 :|","""_Allegro"" ""*""e2|gedB ccce|gedB A3e|gedB ccce|dcBA G2:|
+|: GA|B2 BG|c2 cA|B2 BG A3d|BBBG ccce|dcBA G2 :|","|:AB/c/ dd|cd E2|Ec BA|FE FA|
+Ac dd|cd E2|Ec BA|FE D2:|","e>^d e2 G2 | d>^c d2 A2 |\
+B>A B2 g2 | ""_D.C.""c4 :|",C,音乐续写
+135,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 141
+M: 4/4
+L: 1/8
+K: Cmaj
+(3cBA|:GCEA GCEA|GCEG cd (3cBA|GCEA GCEC|(3G,G,G, B,D (3FFE FA|
+GCEA GCEA|GCEG (3ccB cd|(3efe de cc (3BAG|cAGE DDEG:|","(3cdc Bc AGEG|(3ccc Bc AAAB|(3ccc Bc AcGE|(3DDE FG AA (3GAB|
+ceBc AGEG|(3ccc Bc AAAc|BddB (3AAG EC|DDEF Gd (3cBA:|","|:AB/c/ dd|cd E2|Ec BA|FE FA|
+Ac dd|cd E2|Ec BA|FE D2:|","(c/B/)(B/c/) B/c/d/B/ | A A (B/A/)(G/F/) |\
+G G/B/ A/G/F/E/ | D>E D/G/F/E/ | D>E D2 |]","{^c'}d'2{^c'}d'2 bgTg>f | ea/b/ (c'/b/).a/.g/ fdgb |\
+(d'b).g.d (bg).d.B | ecAF {F}G2 G2:|",A,音乐续写
+136,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 142
+M: 2/4
+L: 1/8
+K: Gmaj
+|:A/|B2 BA|AG EG/E/|DG- GB|A/B/A/G/ d2|
+B2 BA|AG EE|D/E/G/B/ dB|AB/A/ G3/2:|","(c/B/)(B/c/) B/c/d/B/ | A A (B/A/)(G/F/) |\
+G G/B/ A/G/F/E/ | D>E D/G/F/E/ | D>E D2 |]","|:z/|Bd- dg|ed g2|Bd- dg|dB A2|
+Bd- dg|ed gg|B/c/B/A/ GB|1 AB/A/ G3/2:|2 A2 d3/2||","e/d/cA/A/ | f/e/dc/A/ | GfB | c>z G/G/ | ecG/E/ | FdG/G/ | 
+f/e/dG/F/ | EcG/G/ | e/d/cA/A/ | f/e/dc/A/ | G/B/ d/f/B | !fermata!c2z |]","dbd cac|B2f fec|ABc cde|efd cBA|
+FBc d2e|fef b2a|faf ecA|BcB B3||",B,音乐续写
+137,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 143
+M: 4/4
+L: 1/8
+K: Dmaj
+|:(3ABc|dcde fdAF|GFGA B2AG|FDFA d2ef|gfed cBA2|
+dcde fdAF|GFGA B2AG|FDFA d2ef|1 gecA d2:|2 gecA d4||","|:FBBc dcBA|FBBc dcB2|EAAB cABA|EAAB cBA2|
+FBBc dcBA|FBBc dcB2|f3g f2e2|1 d2c2 B4:|2 d2c2 B2||","Bd^cd DGBd|^cdcd DFA=c|BFGA Bcc^d|^cAFAd2dc|
+Bd^cd DGBd|^cdcd DFA=c|Bcde gdBG|EAFDG2||","bfd BFD | B,DF Bdf | c'fd Bcd | c=ef _ecA |\
+dBA GEC | A,CF Acf | ecA FGA | Bdc ""^D.C.""B2 |]","dbd cac|B2f fec|ABc cde|efd cBA|
+FBc d2e|fef b2a|faf ecA|BcB B3||",A,音乐续写
+138,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:144
+L: 1/8
+M: 4/4
+K: G
+(3DEF|G2 GG GBdB|cBAG FGAB|dgfe dcBc|(3dcd ed cAFA|
+G2 GG GBdB|cBAG FGAB|dgfe dcEF|(3ABA GF G2 :|","b4a2c2 | b8 | b2c2b2a2 | f8 |
+f4b4 | b4f4 | f4f2a2 | b2c2b2a2 | f2b2a3f | e8","(a3/4b/4)|(c'3/2b/2a) (bag)|(d3/4e/4).g.g g2(a3/4b/4)|(c'3/2b/2a) (bag)|(ea)(a3/4b/4) a2(A3/4B/4)|
+A2(c/2B/2c/2d/2e/2^f/2) (g3/2=f/2e)|(e/2d/2c/2B/2) (3(g/2a/2b/2) G2(A3/4B/4)|.c(d/2c/2)(B/2A/2) Be A3/4G/4|(EA)(A3/4B/4) A2|]","| d>Bb>g d>BG>B | d>cA>B G2 A>B | c>Aa>g f>ed>c | B>dc>e d2 B>c |
+| d>Bb>g d>BG>B | d>gf>a d2 d>e | f>dB>d c>AF>A | G>FG>A G2 :|","Bc|(3dcd Bd gdBG|(3ABA EG AGFE|DdcB cDEF|GB (3AGF GDB,D|
+GDEF GBdB|cBAG (3FGA Bc|dgfe dcEF|(3ABA GF G2 :|",D,音乐续写
+139,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:145
+M:2/4
+L:1/16
+K:BMin
+de |f2f2 (gf)(ed)| {c} B4 d3A |F2ED D3E |F2A2A2
+(de)|f2f2 (af)(ed)| {c} B4 d3A |F2ED D2E2 |d2B2B2 ::
+d2 |A3B d3e |({de}f4) Te2d2 |e2f2 a2(ba)|f2e2e2 (fa)|","(cd) e4 f2 e2c2 | (de) (fg) f2d2 (f/g/a3) | (cd)e2 ABc2 B2A2 | E2G2 B2d2 cB AG |
+F2B2 (cd)e2 (c3B/c/) | d3e f2B2 c2A2 | d6 f2 e2d2 |]","(EF) | GGGF GE C>c | cBGE F2 (EF) | GGGF GABG | Gccc c3 || G | Gfed cB G>F |
+Gfec d3G | cccB c>d ec | BGFE F3 E/F/ | GGGF GABG | Gccc c2 ||","|:(B/c/)|dBG G2(c/d/)|ecA A2(B/c/)|dcB AcG|F3D3|
+dBG G2(c/d/)|ecA A2g|fed ed^c|d3-d2:|","[1 b2b2 d'baf | a2a2 (ba)(fe)|d3 b afef |d2B2B2 :|\
+[2 b2d'b a2ba | f2af egfe |d3 b afef |d2B2B2 |]",D,音乐续写
+140,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:146
+M:4/4
+L:1/8
+K:D
+g|:(3fga fd g2 ec|d2 A2 z DFD|E2 FG ABcd|eAfA g2 fg|
+(3fga fd g2 ec|d2 AG FD D2|E2 FG ABcd|1 eABc defg:|2 eABc d2|]","[d3a4]e .f2[d2a2=c'2] | [d3g3b3][ea] H[f2a2]g2 | f2b2 e2a2 | zDFA d2 :||: [G2g2] | !f![F6f6] [G2g2] | [F4f4] [D2d2][F2f2] |
+[G3g3][Ff] [G2g2]z2 | zAce Ha2 [a2e'2g'2] | [a4d'4f'4] [g4d'4] | [f4d'4] ([gd4]f)(ed) | [g3A8]f g2a2 | zDFA d2 :|","|:[E2A2]-|[EA]-[FA]AB A3[ce]-|[e2e2][c2e2]- [ce]BA2| [Be]-[c3e3] [ce][ee][ce][Be]|A2 [F2A2]-[FA][E2A2]-|
+[EA]-[FA]AB A3[ce]-|[e2e2][c2e2]- [c2e2]AB| cBAF EGBG|[A3A3][AA]- [A2A2]:|","(G3A) B2 | c6 | (c3B) G2 | (AB) c4- | c4 E2 | (F2G4) | (F3E) C2 | E6 |
+(C3DE2) | (F4G2) | (F3E) C2 | B2 c4- | c4 (GE) | (F4G2) | (F3E) C2 | C6 ||","dc|defg a2 gf|gfed ceAe|defg a2 gf|gba^g a2 ag|
+abaf gfed|eAfA GFED|F2 AF G2 BG|Adce d2:|",D,音乐续写
+141,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 147
+Q: ""Slow""
+M: C
+L: 1/8
+K: Eb
+c |\
+B<GG>F E<CC>E | B,>CE>F [GE][FD][FD]c | B<GG>F E<CC>E |\
+[1 C>E {c}BA/G/ TF2 E :|[2 B,>e {c}BA/G/ TF2E ||
+a |\","z|vgag ged|""^4""ecc cde|aba age|edd (d2e)|\
+gag ged|""^4""ecc cde|fed fed|""^4""ecA A2:|","g<ee>c B<GTG>F | EeBG TF>ECa | g<ee>c B<GG>F | Ee {c}BA/G/ TF2E>a |
+g<ee>c B<GG>F | EeBG TF>ECF | E<B,E>F G>Bce | B<E {c}BA/G/ TF2E |]","f2ff f2 (fg)|Tf4 z2 (fg)|a2 ag f2 fe|d2d2A2A2|abag fgfe|d2d2A2A2|
+D2 DD D2F2|D2 DD D2 fg|a2 de f2 fg|a2 df e2 fg|a2 gf Te3d |d6:|]","|:f2d2 d^cdf|e2A2 A2de|f2d2 d^cdf|e2a2 ^g2a2|
+f2d2 d^cdf|e2A2 A2de|f2a2 g2e2|1 fgfe d2de:|2 fgfe d2d2||",B,音乐续写
+142,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:148
+M:3/4
+L:1/8
+K:F","|:(F>D)|(B,>D)F>B (d>B)A>B|(C>F)A>c e>c~c2|(d>f)b>a (g>f)e>d|(3cdc (3BAG (3FGF (3EDC|
+(B,>D)F>B (d>B)A>B|(C>F)A>c ec~c2|(d>f)b>f (g>e)c>A|c2B2 B2:|]","|:B,2-^D2|B/>^c/ (3d/c/B/ e/>f/ (3g/f/e/|=c2B2|A/c/B/A/ B/G/E|
+B,2- ^D2|B/>^c/ (3^d/c/B/ e/>f/ (3g/f/e/|f/bB/ e/B/G/E/|B,/^DF/ Ez:|]","|: A|B c/d/ cf|d c/B/ cF|BEe d/c/|Tc2B2|
+A A/B/ cA|dG^Fd|d c/B/ A/B/ c|B2G |]","| d2 d2 c2 B4 A2 | A2 G2 G2 F4 D2 | d2 d2 c2 B4 A2 | G2 G2 F2 G4 z2 ::
+| A2 A2 A2 c4 c2 | c2 c2 c2 d4 d2 | d2 d2 c2 B4 A2 | G2 G2 F2 G4 z2 ::",D,音乐续写
+143,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:150
+M: 2/4
+L: 1/8
+K: D
+(3(A/B/c/) |\
+dA2(G | F)D2F | EGFE | FDFA |\
+df2(d | c)e2A | BdB^G | A2-A :: (3(A/B/c/) |\
+dB2G- | GE2a- |
+af2d- | dB2b- |\","ABc d2 :: a | afa afa | geg geg | fag fed | ced cBA | afa afa | geg geg |
+fed cde | dAF D2 :|","bg2e- | ec2(A | G)B2G | ((3FGA) FD |\
+GB2G | FA df | {f}e2dc | d2d :|","|: f3ed2A2 | FAdf a3a | g2f2e2b2 | ba^ga f4 |\
+f2e2d2A2 | FAdf a4 | gfed cABc | d2d2 d4 :|","""^2"" G E C/C/ B, | A,2 A,2 |][K:F][M:4/4][K:treble]""^Spelas önskat antal ggr."" A A A3/2 G/ | 
+F C B, A, | A A A3/2 G/ | F A, B, C | B D D/D/ D | A F F/F/ F | ""^Stämförslag B.O."" G E C/C/ B, | A,2 A,2 |]",B,音乐续写
+144,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 150
+M: 3/4
+L: 1/8
+K: D
+A2 |\
+d2z2d2 | c2d2e2 | f2z2f2 | e2f2g2 |\
+a2z2d2 | c2d2e2 | dBecAc | ""^Fin.""d2z2 H:|\
+d2 |\
+A2z2a2 | b2g2e2 | f2z2a2 | c2B2A2 |\
+g2z2f2 | b2g2e2 | geceba | d2""^D.C.""z2 :|
+[K:G]\
+=c2 |\
+B2z2d2 | g2f2e2 | d2z2f2 | a2f2d2 |\
+c2e2g2 | B2d2g2 | (gf)(ed)(cB) | (B2A2 D2) |\","|:B4B2d2|d2c2B2A2|A4A2c2|c4B4|
+A2B2c2d2|e2f2g2e2|d2c2B2A2|G4G4:|","G2B2d2 | G2c2e2 | G2B2d2 | b4a2 |\
+g2e2c2 | B2(dc)(BA) | G2B2A2 | ""^D.C.""G4 |]","G|GFA GGG|GFA GGG|GGG AAA|BBB !fermata!c2 B/c/|
+dBd {c}cBc|BEA GFD|EFG FGA|{G}GGz z2||","|:e2|eA AB AG EF|GA GE DE GA|eA AB AG EF|GA GE D2:|
+cd|:ea af gf ed|ef ed gBBg|ea af gf ed|1 ef ed ga/g/ fg:|2 (3=cBA BG A2||",B,音乐续写
+145,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 151
+M: 2/4
+L: 1/16
+K: G
+|:\
+B2(cd)B2G2 | c2de d4 | c2B2A2G2 | F2A2F2D2 |\
+B2(cd)B2G2 | c2de d4 | c2B2A2G2 | FGAF G4 :|
+|:\","|:z/|Bd- dg|ed g2|Bd- dg|dB A2|
+Bd- dg|ed gg|B/c/B/A/ GB|1 AB/A/ G3/2:|2 A2 d3/2||","F2GAF2D2 | F2GAF2D2 | B2d2^c2e2 | dcde d2=c2 |\
+B2(cd)B2G2 | c2de d4 | c2B2A2G2 | FGAF G4 :|","A|dff egg|faa gbb|agf agf|eee e2A|dff egg|faa gbb|agf gfe|ddd d2:|
+|:a|aff gee|fdd eAA|aff fed|eee e2A|AFd dAf|fdb a2g|fed Adc|ddd d2:||","|:e2|eA AB AG EF|GA GE DE GA|eA AB AG EF|GA GE D2:|
+cd|:ea af gf ed|ef ed gBBg|ea af gf ed|1 ef ed ga/g/ fg:|2 (3=cBA BG A2||",B,音乐续写
+146,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 2
+T: The Latvian's
+R: march
+M: 4/4
+L: 1/8
+K: Dmin
+|:A2D2 DEFG|A2A/B/A/G/ FEFG|A2AG FEFA|G2GF EDCE|
+A2D2 DEFG|A2d2 d^cde|f2ed e2a2|1 gefe d2d2:|2 gefe d2de||","|: d2g f/g/af | e/f/ge d/e/fd | B2f fdB | BcB fdB |
+d2g f/g/af | e/f/ge d/e/fd | A2e ecA | ABA ecA :|]","d/2 g f/2 ed| e3- e| e e/2e/2 ge| d B/2B/2 d3/2 G/2| B/2 d B/2 AG|\
+BG E2| GG GG| Gg e2| e2 G/2- G G/2| AA G2|","|:f2d2 d^cdf|e2A2 A2de|f2d2 d^cdf|e2a2 ^g2a2|
+f2d2 d^cdf|e2A2 A2de|f2a2 g2e2|1 fgfe d2de:|2 fgfe d2d2||","|:A| FAdf | eAgA | fadf | e/d/c/B/ AA |!
+FAdf | eAgA | faAc | d3 ?",C,音乐续写
+147,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 153
+M: 4/4
+L: 1/8
+K: Dmaj","GAG G2e|dBG A3|c3 BAG|FGA AFD|GAG G2e|dBG {ef}g3|fed e3|d3 D3:|
+|:ded b2c|cdc a2B|BcB g2G|FGA AFD|ded b2c|cdc gfe|dcB A3|G3 G,3:|","|:e2|eA AB AG EF|GA GE DE GA|eA AB AG EF|GA GE D2:|
+cd|:ea af gf ed|ef ed gBBg|ea af gf ed|1 ef ed ga/g/ fg:|2 (3=cBA BG A2||","c>de e>fg|gfe dcB|A>BA F>ED|d3d2B|
+c>de e>fg|gfe dcB|A>BA F>EF|G3G2||","""J""\
+|: B2 B^d =cB dcB | AB B^d =cB BF{E}F | B2 B^d =cB dcB |1 AB B^d =cB B2B :|2 AB B^d =cB .Bz2 |]",B,音乐续写
+148,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:154
+M:6/8
+L:1/8
+Q:3/8=110
+K:Bb
+F | BcB BcB | GEE E3 | cdc cdc | AFF F2 F/F/ |
+BcB BcB | EGB {e}Hg3 | fdB BcB | dBB B2 :|","d2ef | cAA2 | G2AB | AFF2 |\
+d2d/d/e | cAA2 | cBAG | F2F2 :|","|: d | gab bag | fdf b2f | cde edc | AFF F2 F/F/ |
+DFB dBd | fdf b2g | fdB cBc | dBB B2 :|","A2d2f2a2| g2b2e2c2| A2d2 (agfe)| d2A2F2A2|\
+A2d2f2a2| g2b2e2c2| A2d2 (agfe)| d4 d4:|","|: de | f2B2 B2d2 c2B2 | g2c2 cde2 d2f2 | gaga B2A2 g2f2 | e2f2 f3=e f2ga |
+b2e2 d2b2 abag | fgfe d2g2 fgfe | dedc BcdB cBAG | F2B2 B3A",B,音乐续写
+149,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:155
+M:6/8
+L:1/8
+K:C
+G|E>FG ABc|dBA G2F|E>FG ABc|e2d c2S:|
+|:G|E>DC EGE|D>ED D2 C/D/|EGE D>CD|ECA G2F2|
+E>FG A>Bc|d>BA G2F|E>FG ABc|e2d c2:|
+|:G|E>FG ABc|dBA G2F|E>FG ABc|e2d c2:|","G|E>DC E<GE|[M:9/8]D>ED D3 C2D|[M:6/8]E<GG E3|D3 C2D|
+[M:9/8]EC>C A3 G2F|[M:6/8]E>FG ABc|d<BA G2F|E>FG ABc|e2d c2:|]","(EF) | GGGF GE C>c | cBGE F2 (EF) | GGGF GABG | Gccc c3 || G | Gfed cB G>F |
+Gfec d3G | cccB c>d ec | BGFE F3 E/F/ | GGGF GABG | Gccc c2 ||","|:(Bc)|dg~g2 dg~g2|dg~g2 edcB|Aa({b}a)g fedc|Bdef gfge|dBGG GBdB|(3ABG (3
+FGE DcBA|GBdg ecAF|G2G2G2:|","d|g2 d B2 A|BAB G2 d|gab a2 g|^f=ef d2 =f|b2 f d2 c| dcd B2 F|GAB FBA|B3B,2:|
+|:d|=Bcd def|ede c2B|ABc cde|dcd B2 A|GAB Bcd|cde d2g|^f2 g BcA|G3-G2:|",A,音乐续写
+150,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:156
+M:4/4
+L:1/8
+K:D
+d2 fd AGFA|BEE2 BAFA|d2fd AGFG|E3F GABc|
+d2fd AGFA|BEE2 BAFG|A2FA DAFD|1 EDEF D4:|2 EDEF D3g||","|:{^fg}a3g ^f2f2|g2 {b}ag/a/ b2 z2|{e=f}g3f e2e2|f2 {a}gf/g/ a2 z2|
+{de}f3e d2^c2|d2 {f}ed/e/ f2 {a}gf/g/|a2 bg f2e2|d2 d'>d' d'2 z2!D.C.!:|]","[1 b2b2 d'baf | a2a2 (ba)(fe)|d3 b afef |d2B2B2 :|\
+[2 b2d'b a2ba | f2af egfe |d3 b afef |d2B2B2 |]","|:A| FAdf | eAgA | fadf | e/d/c/B/ AA |!
+FAdf | eAgA | faAc | d3 ?","fdd2 fdge|fdAd fgaf|efgf g3f|efga bgeg|
+fdd2 edcA|dcdB AGFG|A2FA DAFD|EDEF D4:||",D,音乐续写
+151,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:157
+M:6/8
+L:1/8
+K:Dmix
+(3A/B/c/|dcA AGE|AEG/E/ DFG|GEE cEE|GAB c2e|
+dcA AGE|AEG/E/ DEA|GEE cEE|GEE D2:|","|:B/c/|d2d ecA|d2d ecA|GEE cEE|GAB c2e|
+d2d ecA|def/d/ ecA|GEE cEE|GEE D2:|]","|:A|dAd {de}f>ed|cde f2 (e/d/)|c>=BA GE(c/A/)|GEC C2A|
+dA(d/e/) f>ed|cde f2 e/d/|c>=BA G<EG|AFD D2:|]","DD D| G/2G/2 G G/2G/2 GG dB G| A2 D2 D2 DD| A/2A/2 A A/2A/2 AA Bc d|\
+B2 G2 G2 AB| cc cc ce dc| BB BB Bd cA| G4 F4| G4 z2||","A2A>^G ABcA|B2B>^A BcdB|c2ec BdBG|AGFED4|
+D2EF G>ABG|E2FG A>BcA|B2ABc2BA|G2F2G4:||",A,音乐续写
+152,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 158
+M: 4/4
+L: 1/8
+K: Dmaj
+DCDE =FEFA|^A=A^Ad cdeg|=fdge afed|ced_B A2 AG|
+FG (3AGF GABA|^GBed cba=g|(3fga fd Bgec|d2 dc d2:|","FEFD A2 D=C|^A=A^AG D2 G=A|^A=A^AG E=C=CA|AG=FA =C2 (3CDE|
+=FEFD A2 ^FG|AGFA G2 AG|(3FGA FD BGEC|D2 DC D2:|","(3(d/2e/2f/2)|g2f (efg)|(a3/2g/2f/2e/2) d2d|e(dc/2B/2) c(de/2f/2)|g2a Hb2a|
+g(fe/2d/2) (c/2d/2e).f|egB A2D|G2A BcA|G3G2|]","|:{^fg}a3g ^f2f2|g2 {b}ag/a/ b2 z2|{e=f}g3f e2e2|f2 {a}gf/g/ a2 z2|
+{de}f3e d2^c2|d2 {f}ed/e/ f2 {a}gf/g/|a2 bg f2e2|d2 d'>d' d'2 z2!D.C.!:|]","|: f2f2 a2^gf | e2d2 f4 | f2ef g2{ag}eg | b2a2 a4 |
+f2f2 a2^gf | e2d2 f4 | f2ef g2{ag}eg | f2d2 d4 :|",A,音乐续写
+153,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:159
+M:4/4
+L:1/8
+K:D
+A|defe defd|A2 aa gf e2|defe defd|e2 AA gf e2|
+defe defd|e2 aa gf e2|defd efge|f2d2d2:|","dBd ege|dBd c2A|dBG EFG|ABG FED|
+dBd ege|dBd c2 A|dBG DEF|G3 G3:|","|:c/d/|efef efga|fddf edcd|edcA Bcde|defg a2 gf|
+eded efga|fddf edcd|edcA Bcde|d2d2d2:|]","fdd2 fdge|fdAd fgaf|efgf g3f|efga bgeg|
+fdd2 edcA|dcdB AGFG|A2FA DAFD|EDEF D4:||","G2G GDG | A2D DGA | BcB AGF | G2G G2D |\
+G2G GDG | A2D DGA | BcB AGF | G3- G2 |]",B,音乐续写
+154,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 160
+M: 2/4
+L: 1/16
+K: D
+A2 |(AF3) A2B2 | (d3((3e/d/c/)de) f3e | (dB3) c2(e>f) | d4 z2 ||
+| A2 | A2F2 A2B2 | (d3((3e/d/c/)de) f2Ha2 | B3d c2(ef) | d4 z2 |]","|:[E2A2]-|[EA]-[FA]AB A3[ce]-|[e2e2][c2e2]- [ce]BA2| [Be]-[c3e3] [ce][ee][ce][Be]|A2 [F2A2]-[FA][E2A2]-|
+[EA]-[FA]AB A3[ce]-|[e2e2][c2e2]- [c2e2]AB| cBAF EGBG|[A3A3][AA]- [A2A2]:|","""J""\
+|: B2 B^d =cB dcB | AB B^d =cB BF{E}F | B2 B^d =cB dcB |1 AB B^d =cB B2B :|2 AB B^d =cB .Bz2 |]","|| (de) | f2e2 d2B2 | A2F2 E2F2 | (B2((3c/B/A/)Bc) .d2(de) | Hf4 e2 ||
+| A2 | d2c2 B2d2 | g2e2 Ha2e2 | f2d2 B2d2 | (""~""A3B cdeg) | fd3 z2 |]","|:B,2-^D2|B/>^c/ (3d/c/B/ e/>f/ (3g/f/e/|=c2B2|A/c/B/A/ B/G/E|
+B,2- ^D2|B/>^c/ (3^d/c/B/ e/>f/ (3g/f/e/|f/bB/ e/B/G/E/|B,/^DF/ Ez:|]",C,音乐续写
+155,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:161
+M:6/8
+L:1/8
+K:G
+d3 BdB|GBd gdB|d3 BdB|A2Bc2e|d3 BdB|GBd gdB|cac BgB|A2Bc2e:|","|: d | gab bag | fdf b2f | cde edc | AFF F2 F/F/ |
+DFB dBd | fdf b2g | fdB cBc | dBB B2 :|","gag gdB|gag gbg|gag gdB|A2B c2e|gbg ac'a|gbg fgf|g>fe d>cB|A2Bc2e:|
+dBG G2B|dBG Bdg|dBG G2B|A2Bc2e|dBG GBd|g>fe d>cB|cac BgB|A2Bc2e:|","f|a3-a2g|f3-f2f|gag fgf|e3-e2f|
+a3-a2g|f3-f2f|gfe dec|d3-d2:||","z2dde2dB | d2B2A2A2 | d2BBd2d2 | G3AB2A2- | A2z6 |
+z6E2 | B2EGz4 | z2B4gB | BdBAGAE2- | E2z6",B,音乐续写
+156,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:162
+M:6/8
+L:1/8
+K:D","""_Allegro"" ""*""e2|gedB ccce|gedB A3e|gedB ccce|dcBA G2:|
+|: GA|B2 BG|c2 cA|B2 BG A3d|BBBG ccce|dcBA G2 :|","(3cdc Bc AGEG|(3ccc Bc AAAB|(3ccc Bc AcGE|(3DDE FG AA (3GAB|
+ceBc AGEG|(3ccc Bc AAAc|BddB (3AAG EC|DDEF Gd (3cBA:|","(cd) e4 f2 e2c2 | (de) (fg) f2d2 (f/g/a3) | (cd)e2 ABc2 B2A2 | E2G2 B2d2 cB AG |
+F2B2 (cd)e2 (c3B/c/) | d3e f2B2 c2A2 | d6 f2 e2d2 |]","A|dff egg|faa gbb|agf agf|eee e2A|dff egg|faa gbb|agf gfe|ddd d2:|
+|:a|aff gee|fdd eAA|aff fed|eee e2A|AFd dAf|fdb a2g|fed Adc|ddd d2:||",D,音乐续写
+157,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:163
+M:6/8
+L:1/8
+Q:3/8=120
+K:G major
+d3 BdB|GBd gdB|d3 BdB|A2B c2e|!
+d3 BdB|GBd gdB|cac BgB|A2B c2e:|!
+|:gag gdB|gag gc'a|gag gdB|A2B c2e|!
+gbg ac'a|gfe dcB|cac BgB|A2B c2e:|!","c/2 c3/2- c z B/2- G3/2 F2| F4 z2| B2| B3 BE zE-F| F3 GA z B,3/2- C/2|\
+C2 z D E2 E2| E2 z4||","agf e2d/c/ | cBG F>FF | BBB Hg2f/e/ | dB{d}c B3 ""^slow""|\
+!p!Hd3 cBA | A2G HF3 !f!| Hb2B Bcd | d2c B2 |]","|:dBG G2B|dBG Bdg|dBG G2B|A2B c2e|!
+dBG GBd|g>fe d>cB|cac BgB|A2B c2e:|","fg/f/ ed|^c4::ad da|bG Gb|gc cg|aF Fa|
+ad da|a^c ca|ad da|a^c ca|f2e2|d4:|",C,音乐续写
+158,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:164
+L:1/8
+M:6/8
+K:F
+d|:c3 AcA|FAc fcA|c3 AcA|G2A B2d|c3 AcA|FAc fcA|BgB AfA|G2A B2d:|
+|:fgf fcA|fgf fag|fgf fcA|G2A B2d|faf gbg|faf ege|fed cBA|G2A B2d:|","|:cAF FAF|cAF Acf|cAF FAF|G2A B2d|cAF FAc|fed cBA|BgB AfA|G2A B2d:|
+|:fgf fcA|fgf fag|fgf fcA|G2A B2d|faf gbg|faf ege|fdf cAF|G2A B2d:|","aa/g/ff/e/| ddAA | aa/g/ff/e/ |
+ddAA |DD/D/DF | DD/D/Df/g/ | ad/e/ff/g/ | ad/e/ff/g/ | a g/f/ Te>d | d4 :|","|: BB Bc | d2 dc/2B/2 | AF/2A/2 dF | E3 F/2E/2 |\
+DF FA | Af f/2e/2d/2B/2 | Ad e>c |1 d4 :|2 d3 z |","CEAc | ecae | cAEC | DB,B,E |\
+CEAc | ecae | cAEG | A2 :|",A,音乐续写
+159,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:165
+M:6/8
+L:1/8
+Q:3/8=100
+K:D
+d2A d2A|def ecA|B2d A2F|GEE E3|
+d2A d2A|def ecA|B2d A2G|FDD D3 :|
+|: FDD AFF|dAA fdd|FDD AFF|GEE E3|
+FDD AFF|dAA fdd|Bcd A2G FDD D3 :|","|:B,2-^D2|B/>^c/ (3d/c/B/ e/>f/ (3g/f/e/|=c2B2|A/c/B/A/ B/G/E|
+B,2- ^D2|B/>^c/ (3^d/c/B/ e/>f/ (3g/f/e/|f/bB/ e/B/G/E/|B,/^DF/ Ez:|]","|: fed ecA|fed ecA|Bcd A2F|GEE E3|
+fed ecA|fed ecA|B2d A2G|FDD D3 :|","Bc | d2 g2 f2 | c4 AB | c2 e2 d2 | B4 Bc | B2 A2 B2 | c4 cd | e2 d2 F2 | G4 :|
+|: GA | B2 G2 GA | B2 G2 GA | B2 d2 c2 | A4 FG | A2 F2 FG | A2 F2 FG | A2 c2 G2 | G4 :|","|:A|dAd {de}f>ed|cde f2 (e/d/)|c>=BA GE(c/A/)|GEC C2A|
+dA(d/e/) f>ed|cde f2 e/d/|c>=BA G<EG|AFD D2:|]",B,音乐续写
+160,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 166
+L: 1/8
+M: 4/4
+K: D
+fage d3 B|AD (3FED EFGB|AGAB c3 d|edcd efge|
+fage d3 B|AD (3FED EFGB|AGAB c3 d|edcd efge||","{^c'}d'2{^c'}d'2 bgTg>f | ea/b/ (c'/b/).a/.g/ fdgb |\
+(d'b).g.d (bg).d.B | ecAF {F}G2 G2:|","D2DD D2F2 | D2DD D2fg | a2de f2fg | a2de f2fg |\
+a2gf Te3d | d8 :|","dddd | eeee | dcBA | gadd :| \
+dddd | eeee | |1 fdfa | gadd :|2 dcBA | GA DD |]","f2 df afdf|f2 df efge|f2 df afdf|edcd efge|
+f2 df afdf|f2 df efge|f2 df dfdf|edcd efge||",D,音乐续写
+161,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:167
+M:6/8
+L:1/8
+Q:3/8=120
+K:D","ABA A2G|F2E D3 |ABA AFA|B3 d3|dcB ABG|FGE D3 |def ecA|B3 d3:|
+d2e fgf|e2d c2A|d2e fgf|e3 A3|d2e fgf|e2d cBc|dcB AFA|B3 d3:|","b4a2c2 | b8 | b2c2b2a2 | f8 |
+f4b4 | b4f4 | f4f2a2 | b2c2b2a2 | f2b2a3f | e8","|:f2d2 d^cdf|e2A2 A2de|f2d2 d^cdf|e2a2 ^g2a2|
+f2d2 d^cdf|e2A2 A2de|f2a2 g2e2|1 fgfe d2de:|2 fgfe d2d2||","[f3F3] [f3F3] | [f3F3] [f3F3] | [f3F3] [f3F3] | C3 c3 ||\
+[f3F3] [f3F3] | [f3F3] [f3F3] | B3 F3 | C3 c3 :|",A,音乐续写
+162,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:170
+Q:1/4=100
+M:3/4
+L:1/8
+K:D
+d2dddd | d4A2 | def2e2 | dcded2 |
+D2DDDD | A2GFED | CDE2E2 | A,6 :|
+|:A2AAAA | A2GFED | B2BBBB | B4 A/B/c/d/ |
+e2eeee | edcde2 | d2c2B2 | A6 |
+Addddd | Bddddd | Addddd | B2ABG2 |","Beeeee | ceeeee | Beeeee | c2BcA2 |
+fagfge | f2efd2 | e2A2c2 | d6 :|","|:(Bc)|dg~g2 dg~g2|dg~g2 edcB|Aa({b}a)g fedc|Bdef gfge|dBGG GBdB|(3ABG (3
+FGE DcBA|GBdg ecAF|G2G2G2:|","dbd cac|B2f fec|ABc cde|efd cBA|
+FBc d2e|fef b2a|faf ecA|BcB B3||","(a3/4b/4)|(c'3/2b/2a) (bag)|(d3/4e/4).g.g g2(a3/4b/4)|(c'3/2b/2a) (bag)|(ea)(a3/4b/4) a2(A3/4B/4)|
+A2(c/2B/2c/2d/2e/2^f/2) (g3/2=f/2e)|(e/2d/2c/2B/2) (3(g/2a/2b/2) G2(A3/4B/4)|.c(d/2c/2)(B/2A/2) Be A3/4G/4|(EA)(A3/4B/4) A2|]",A,音乐续写
+163,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:169
+M:2/4
+L:1/8
+K:Bb
+d/c/|BB BF/E/|D/F/B/c/ d/c/B|A/B/c/d/ e/d/c/A/|B/b/b/b/ g/f/d/c/|
+BB BF/E/|D/F/B/c/ d/c/B|A/B/c/d/ e/d/c/A/|B/b/f/d/ B:|
+|:B/d/|f/B/B/B/ g/B/B/B/|a/B/B/B/ b/B/B/B/|a/B/B/B/ g/B/B/B/|B/d/f/b/ g/f/d/e/|
+f/B/B/B/ g/B/B/B/|a/B/B/B/ b/B/B/B/|a/B/B/B/ g/B/B/B/|B/bb/ B:|","e3F | AF FA | Bd FB | D4 | DF Bd | f3B | d3F | 
+BD FB | Ae FA | E4 | EF Ac | f3A | e3F | ""rit.""fe cA | !fermata!(B4 | B2)z2 |]","A c/ A/ G A/ G/ F D | 
+F4F z |]","|:B/B/|B/fB/ g/B/f/B/|A/B/A/G/ F/D/F/A/|f/B/B/B/ g/B/B/B/|A/G/F/E/ D/B,/D/F/|
+f/B/B/B/ g/B/B/B/|A/B/A/G/ F/D/F/A/|f/B/B/B/|g/f/g/a/|b/g/f/d/ B:|]","E E/2E/2 GB e2 BB| g3/2 f/2 e2 a3/2 g/2 f2| b3/2 b/2 bb g2 fe| a3/2 a/2 ag fe|\
+gf| e2 e3/2 e/2 e z z||",C,音乐续写
+164,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:170
+M:6/8
+L:1/8
+K:Eb
+E/E/|E2G G2B|B2e e2g|f=ef dfa|c'b=a b2 E/E/|
+E2G G2B|B2e e2g|f=ef aBd|fee e2:|","G2B2d2 | G2c2e2 | G2B2d2 | b4a2 |\
+g2e2c2 | B2(dc)(BA) | G2B2A2 | ""^D.C.""G4 |]","fg/f/ ed|^c4::ad da|bG Gb|gc cg|aF Fa|
+ad da|a^c ca|ad da|a^c ca|f2e2|d4:|","|:f|f2 f f=ef|b2f d2d|f2e c2=A|B2d f2f|
+f2f f=ef|b2f d2d|fec =AGA|cBB B2!D.C.!:|","D2DD D2F2 | D2DD D2fg | a2de f2fg | a2de f2fg |\
+a2gf Te3d | d8 :|",C,音乐续写
+165,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:171
+M:4/4
+L:1/8
+K:Bb
+F2|B2 Bc B2 FE|DFBc d2 cB|AFcF dFcF|B2 bf gfdc|
+B2BB B2FE|DFBc d2 cB|AFcF dFcF|Bbfd B2:|","|:FE|DFBF dFBF|DFBF dFBF|EFcF eFcF|EFcF eFcF|
+DFBF dFBF|EFcF eFcF|EFcA ecAc|BABc B2:|]","|:g3/2a/2|b3/2g/2f3/2g/2 e3/2g/2d3/2B/2|c3/2B/2A3/2G/2 F3/2G/2A3/2B/2|B3/2G/2B3/2d/2 e3/2c/2e3/2g/2|a3/2g/2f3/2e/2 d2B3/2A/2|
+.G(gfg) .e(gfg)|.d(gfg) .b(gfg)|d3/2g/2f3/2e/2 d3/2c/2B3/2A/2|G2G2G2:|","DD D| G/2G/2 G G/2G/2 GG dB G| A2 D2 D2 DD| A/2A/2 A A/2A/2 AA Bc d|\
+B2 G2 G2 AB| cc cc ce dc| BB BB Bd cA| G4 F4| G4 z2||","A|dff egg|faa gbb|agf agf|eee e2A|dff egg|faa gbb|agf gfe|ddd d2:|
+|:a|aff gee|fdd eAA|aff fed|eee e2A|AFd dAf|fdb a2g|fed Adc|ddd d2:||",A,音乐续写
+166,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 172
+M: 4/4
+L: 1/8
+K: G
+B>c \
+| d>cB>d c>AF>A | G>FG>A G2 A>B | c>BA>B c>BA>G | F>GE>F D2 B>c |
+| d>cB>d c>AF>A | G>gf>a g2 d>e | f>dB>d c>AF>A | G>FG>A G2 :|
+|: B>c \","F2GAF2D2 | F2GAF2D2 | B2d2^c2e2 | dcde d2=c2 |\
+B2(cd)B2G2 | c2de d4 | c2B2A2G2 | FGAF G4 :|","| d>Bb>g d>BG>B | d>cA>B G2 A>B | c>Aa>g f>ed>c | B>dc>e d2 B>c |
+| d>Bb>g d>BG>B | d>gf>a d2 d>e | f>dB>d c>AF>A | G>FG>A G2 :|","|: d | gab bag | fdf b2f | cde edc | AFF F2 F/F/ |
+DFB dBd | fdf b2g | fdB cBc | dBB B2 :|","[K:D] f>(e d>A) F>A |""Em"" AB/A/ G2 E>A |""A7"" A>B (G>E) A>G |""D"" GA/G/ (F>D) F>d | 
+f>e d>A F>A | ""Em"" AB/A/ G2 E>A |""A7"" A>B (G>E) A>G |1""D"" GA/G/ F3 d""^Stämförslag B.O."" :|2,8""D"" GA/G/ F3 |]",B,音乐续写
+167,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:173
+M: 6/8
+L: 1/8
+K: F
+V: 1 staves=2
+|:\
+Tc3 AcA | FAc fcA | Tc3 AcA | TG2A TB2d ||\
+Tc3 AcA | FAc fcA | BgB AfA | TG2A TB2d ::\
+Tf>gf fcA | fgf fag | Tf>gf fcA | TG2A TB2d ||
+faf gbg | faf ege | Tf>ed Tc>BA | TG2A TB2d ::\
+cAF TF2A | cAF Acf | cAF TF2A | TG2A TB2d ||\
+cAF FAc | Tf>ed cBA | BgB AfA | TG2A TB2d :|
+Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+f3 f3 | f3 f3 | f3 f3 | c'3 c3 || f3 f3 | f3 f3 | e3 f3 | c'3 c3 ::
+f3 f3 | f3 f3 | f3 f3 | c'3 c3 || f3 e3 | f3 c3 | b3 a2f | c3 c3 ::","c>de e>fg|gfe dcB|A>BA F>ED|d3d2B|
+c>de e>fg|gfe dcB|A>BA F>EF|G3G2||","|:FE|DFBF dFBF|DFBF dFBF|EFcF eFcF|EFcF eFcF|
+DFBF dFBF|EFcF eFcF|EFcA ecAc|BABc B2:|]","D D/D/ D F|D D/D/ D f/g/|a d/e/ f f/g/|!
+a d/e/ f f/g/|a g/f/ e>d|d4|]","[f3F3] [f3F3] | [f3F3] [f3F3] | [f3F3] [f3F3] | C3 c3 ||\
+[f3F3] [f3F3] | [f3F3] [f3F3] | B3 F3 | C3 c3 :|",D,音乐续写
+168,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:174
+M:C
+L:1/8
+R:Slow Strathspey
+K:Eb
+B,|E3F ~G>FGB|c2 F>G (GF) EC|E3F (GB) ~F>G|E4 B,4|
+~A3 B G>FGB|c2 F>G (GF)EC|E2 e>c (B<G)~F>G|1 E4 B3:|2 E4 B,4||","~e3f (ef)ge|(fe)fg {g}f2 ec|~B>c~ef (ef)gf|{d}e4 B2 ef|
+(gfe)c (ecB)G|(AG)FE {G}F2 EC|~e>fec B<G~F>G|1 E4 B,4:|2 E4 B3||","|:AB/c/ dd|cd E2|Ec BA|FE FA|
+Ac dd|cd E2|Ec BA|FE D2:|","[d3a4]e .f2[d2a2=c'2] | [d3g3b3][ea] H[f2a2]g2 | f2b2 e2a2 | zDFA d2 :||: [G2g2] | !f![F6f6] [G2g2] | [F4f4] [D2d2][F2f2] |
+[G3g3][Ff] [G2g2]z2 | zAce Ha2 [a2e'2g'2] | [a4d'4f'4] [g4d'4] | [f4d'4] ([gd4]f)(ed) | [g3A8]f g2a2 | zDFA d2 :|","E>EE4|de/d/^c3d|e4B>^c|dBB2A^G|A6|z4G>A|
+B>BB2c>B|A>dd3B/A/|G4A>G|F>EE3E|E6|z6|",A,音乐续写
+169,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:175
+M:6/8
+L:1/8
+Q:3/8=110
+K:G
+(B/c/)|dBG dBG|E3cde|dcB ABG|F3D2B/c/|
+dBG dBG|Eed efg|ecB AGF|E2FG2 :|","e3g d<BA>G| E2A2 A>cB>A|\
+G3A B>AB>d| e3f {a}g2fe| d>edB c>BA>G| E2G2 G2:|","|:(B/c/)|dBG G2(c/d/)|ecA A2(B/c/)|dcB AcG|F3D3|
+dBG G2(c/d/)|ecA A2g|fed ed^c|d3-d2:|","|:B,2-^D2|B/>^c/ (3d/c/B/ e/>f/ (3g/f/e/|=c2B2|A/c/B/A/ B/G/E|
+B,2- ^D2|B/>^c/ (3^d/c/B/ e/>f/ (3g/f/e/|f/bB/ e/B/G/E/|B,/^DF/ Ez:|]","|: d2g f/g/af | e/f/ge d/e/fd | B2f fdB | BcB fdB |
+d2g f/g/af | e/f/ge d/e/fd | A2e ecA | ABA ecA :|]",B,音乐续写
+170,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 176
+M: 6/8
+L: 1/8
+K: Dmaj
+d2B|:AFD DFA|AFA B2d|AFD DFA|fed B2d|
+AFD DFA|AFA B2A|def gfe|1 fdc d2B:|2 fdc d2f||","z B|e2 (e>f) g2 (f>e)|(b>a)(ga) {g}f2 e^d|eBef g2 fe|(b>a)(ga) {g}f2 AB|
+(cBAG) F2 (G>A)|(BGFE) {e}^d2 ef|(ge)(f^d) (eB) (A/c/B/A/)|G2 (TF2 {EGF}E2)||","|:(F>D)|(B,>D)F>B (d>B)A>B|(C>F)A>c e>c~c2|(d>f)b>a (g>f)e>d|(3cdc (3BAG (3FGF (3EDC|
+(B,>D)F>B (d>B)A>B|(C>F)A>c ec~c2|(d>f)b>f (g>e)c>A|c2B2 B2:|]","afd dcd|ecA AFA|fed dcd|efd efg|
+aba g2e|fed cBA|Bcd efg|1 fdc d2f:|2 fdc d3||","ABA A2G|F2E D3 |ABA AFA|B3 d3|dcB ABG|FGE D3 |def ecA|B3 d3:|
+d2e fgf|e2d c2A|d2e fgf|e3 A3|d2e fgf|e2d cBc|dcB AFA|B3 d3:|",C,音乐续写
+171,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:177
+M:C
+L:1/8
+K:Em
+(G>F)|E2 (B>c) B2 AB|(cBAG) F2 (G>F)|E2 (e>f) g2 (f>e)|(^d>efd) B2 (AB)|
+(cBAG) F2 (G>A)|(BGFE) {e}^d2 ef|(ge)(f^d) (eB) (A/c/B/A/)|G2 (TF2 {EGF}E2)||","GBd g3|ede gdB|GBd gdB|AGA AGE|1 GBd g3|ede gdB|
+G2 B AGA|BGF G3:|2 g3 f3|edB AGE|G2 B AGA|BGF G3|","z B|e2 (e>f) g2 (f>e)|(b>a)(ga) {g}f2 e^d|eBef g2 fe|(b>a)(ga) {g}f2 AB|
+(cBAG) F2 (G>A)|(BGFE) {e}^d2 ef|(ge)(f^d) (eB) (A/c/B/A/)|G2 (TF2 {EGF}E2)||","|:(F>D)|(B,>D)F>B (d>B)A>B|(C>F)A>c e>c~c2|(d>f)b>a (g>f)e>d|(3cdc (3BAG (3FGF (3EDC|
+(B,>D)F>B (d>B)A>B|(C>F)A>c ec~c2|(d>f)b>f (g>e)c>A|c2B2 B2:|]","d|g2 d B2 A|BAB G2 d|gab a2 g|^f=ef d2 =f|b2 f d2 c| dcd B2 F|GAB FBA|B3B,2:|
+|:d|=Bcd def|ede c2B|ABc cde|dcd B2 A|GAB Bcd|cde d2g|^f2 g BcA|G3-G2:|",B,音乐续写
+172,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 178
+M: 2/4
+L: 1/16
+K: G
+(ge)|dBGG GBdB|(3ABG (3FGE DcBA|GFGG GBdB|BAAA A2(ge)|dBGG GBdB|(3ABG (3F
+GE DcBA|GBdg ecAF|G2G2G2:|","dBAF|G>ABd|A>GFE|D2 DE|F2 FD|G>FGE|
+F2 FD|E2 zA|F>FFD|G>GGB|AGFE|D3||","|:(Bc)|dg~g2 dg~g2|dg~g2 edcB|Aa({b}a)g fedc|Bdef gfge|dBGG GBdB|(3ABG (3
+FGE DcBA|GBdg ecAF|G2G2G2:|","z|vgag ged|""^4""ecc cde|aba age|edd (d2e)|\
+gag ged|""^4""ecc cde|fed fed|""^4""ecA A2:|","A>F|d2- dA d>e fd|e2 d/e/f e2 dB|AB de de g/f/e|d2 A2 F2- FA|
+B>G dA F2 A/G/F|BA GF E2 G/F/E|D2 d2 A>B AG|F2- FE D2||",B,音乐续写
+173,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 179
+M: 6/8
+L: 1/8
+K: Bb
+d/e/ |\
+fdd ecc | cBB c2d/e/ | fdd ecc | dBB B2d/e/ |\
+fdd ecc | dBB cde | fbd fed | {c}cBc B2d |\
+ddd HgHd d | ddd HgHd d |
+cAB cAB | cAB c<fHb |\","""Chorus""A>B c>A|c3A|G>A GE|G3 E/D/|
+CE GG/c/|ee/f/ e/d/c/A/|GB d>c|(c2c)||","|:FE|DFBF dFBF|DFBF dFBF|EFcF eFcF|EFcF eFcF|
+DFBF dFBF|EFcF eFcF|EFcA ecAc|BABc B2:|]","agf e2d/c/ | cBG F>FF | BBB Hg2f/e/ | dB{d}c B3 ""^slow""|\
+!p!Hd3 cBA | A2G HF3 !f!| Hb2B Bcd | d2c B2 |]","f4 f>e f<a|b2 d>e f4|A2 d2 d4|g2 f2 e4|
+f4 f>e f<a|b2 a>b a4|d4 d>c d<A|d2 d2 e4||",C,音乐续写
+174,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:180
+M:6/8
+L:1/8
+Q:3/8=100
+K:Bb
+B/A/ | BFD B,2B/A/ | BFD B,2 E/D/ | EGE DFD | CDC C2 :|","|: A |Bcd Bcd | Bcd G3 | cde cde |cec {B}A2A |
+def def | def bag | fdB FBA | B2BB2 :|","[gd][gd]ed [gd][gd]ed | [gd][gd]ed ""^^""[g2d2]d2 |\
+[gd][g3d3] gaga | g4- g2 :|","bg2e- | ec2(A | G)B2G | ((3FGA) FD |\
+GB2G | FA df | {f}e2dc | d2d :|","|:G|A/G/F/E/ DD|A/G/F/E/ DE/F/|GG AA|B/c/B/A/ B2|
+A/G/F/E/ DD|A/G/F/E/ DE/F/|GG AF|G3:|",A,音乐续写
+175,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 181
+M: 2/4
+L: 1/8
+K: Bb
+|: ""_Brisk""\
+F>GB>c | d2b>g | f>dB>d | c/c/c c2 | F>GB>c | d2b>g | f>dc>d | B/B/B B2 :: bdfd | Bfdb |
+fdBd | c/c/c c2 | bdfd | Bfdb | fdcd | B/B/B B2 :: F2Bd | fBdf | (g/a/b) fd | c/c/cc2 |
+F2Bd | fBdf | (g/a/b) fd | B/B/B B2 :: (g/a/b) fd | Bfdf | (g/a/b) fd | c/c/c c2 | gbfg | dfTgf |
+g/a/b fd | B/B/B B2 :: d2TcB | G2B2 | F>GB>d | c/c/c c2 | d2TcB | G2B2 | Fbfd | B/B/B B2 ::
+baTgf | dfTgf | BfTgf | bdTc2 | baTgf | dfTgf | gbfd | (TcB)B2 :: B2FB | dBfd |
+bdbd | c/c/c c2 | B2FB | dBfd | ecfd | B/B/B B2 :: b2fd | bdbd | b2fd | c/c/c c2 |","e/d/cA/A/ | f/e/dc/A/ | GfB | c>z G/G/ | ecG/E/ | FdG/G/ | 
+f/e/dG/F/ | EcG/G/ | e/d/cA/A/ | f/e/dc/A/ | G/B/ d/f/B | !fermata!c2z |]","E2E2A2A2 | G3Gc4 |
+B2eBdcBA | G2F2E2z2","ABc d2 :: a | afa afa | geg geg | fag fed | ced cBA | afa afa | geg geg |
+fed cde | dAF D2 :|","b2fd | Bfdb | _ecfd | B/B/B B2 :: (B/c/d) dd | (c/d/_e) .e.e | (d/_e/f) .f.f | (A/B/c) .c.c | (B/c/d) .d.d | (c/d/_e) .e.e |
+dbfd | B/B/B B2 :: (g/a/b) .b.b | (a/g/f) .f.f | (e/f/g) .g.g | (f/_e/d) .d.d | (c/d/_e) .e.e | dbfd | _ecfd | B/B/B B2 :|",D,音乐续写
+176,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:182
+M: 2/4
+L: 1/16
+K: Eb
+| G3GF2F2 | E2E2A4 |
+G3BBAcA | G4F2z2 |
+G3GF2F2 | E2E2A4 |
+G3BBAcA | G4F2z2 |
+B3FF2G2 | ABcAG2F2 |
+G3GG2=A2 | BcdcB2z2 |","|:B4B2d2|d2c2B2A2|A4A2c2|c4B4|
+A2B2c2d2|e2f2g2e2|d2c2B2A2|G4G4:|","E2E2A2A2 | G3Gc4 |
+B2eBdcBA | G2F2E2z2","afd dcd|ecA AFA|fed dcd|efd efg|
+aba g2e|fed cBA|Bcd efg|1 fdc d2f:|2 fdc d3||","|:d2BG DGBd|gdfd edBd|e2cA FAce|aege fage|
+d2BG DGBd|gdfd edBd|cded cAAG|1 FGAF GABc:|2 FGAF GDB,D||",B,音乐续写
+177,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:183
+M: 6/8
+L: 1/8
+K: Bb
+d/e/ |\
+fdd ecc | cBB c2d/e/ | fdd ecc | dBB B2d/e/ |\
+fdd ecc | dBB cde | fbd fed | {c}cBc B2d |\
+ddd HgHd d | ddd HgHd d |
+cAB cAB | cAB c<fHb |\","agf e2d/c/ | cBG F>FF | BBB Hg2f/e/ | dB{d}c B3 ""^slow""|\
+!p!Hd3 cBA | A2G HF3 !f!| Hb2B Bcd | d2c B2 |]","c|B>d dg |e2 dc |B>G GB |AF Dc|B>d d<g|e2 dc |B>G AF |G3:|
+z|B2 G>B|c2 A>c|B2 G>B|AF D2|B2 G>B|c2 A>c|B>G A>F|G3:|","|:D2-|DEGE BcdB|eBdB eg3|(_B=B2)A BAGE|GEBB AGED|
+EGGA BcdB|eB[dg]B eg3|(_B=B2)B AGEG|(_B=B2)AG-G2:|","[gd][gd]ed [gd][gd]ed | [gd][gd]ed ""^^""[g2d2]d2 |\
+[gd][g3d3] gaga | g4- g2 :|",A,音乐续写
+178,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:184
+M: 2/4
+L: 1/8
+K: F
+|:\
+FAcf | cAGF | EGcB | {B}A2GF |\
+a2fc | d2ef | cAAF | G2G2 :|
+|:\","d2ef | cAA2 | G2AB | AFF2 |\
+d2d/d/e | cAA2 | cBAG | F2F2 :|","A,| D2 FD E2 GF| D6 z D| F2 FF F2 EG| F4 z2 FG| AB AF D2 FA| GG EC A,2 B,C|\
+D2 FA G2 EC| D2 FG A2 FG|A-d AFE-G EC| D6 z2|","d/2 g f/2 ed| e3- e| e e/2e/2 ge| d B/2B/2 d3/2 G/2| B/2 d B/2 AG|\
+BG E2| GG GG| Gg e2| e2 G/2- G G/2| AA G2|","|:d|fga agf|f3Bcd|efe ege|d3c2A|
+dcB AGF|BAG FED|FGA cec|""d2 in MS""d3d2:|",A,音乐续写
+179,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:185
+M:2/4
+L:1/8
+K:G
+B d/2d/2 dd| d e/2e/2 G2| BB A2| BB A2| B d/2d/2 dd| d e/2e/2 G2|\","|:A|dAd {de}f>ed|cde f2 (e/d/)|c>=BA GE(c/A/)|GEC C2A|
+dA(d/e/) f>ed|cde f2 e/d/|c>=BA G<EG|AFD D2:|]","d/2 g f/2 ed| e3- e| e e/2e/2 ge| d B/2B/2 d3/2 G/2| B/2 d B/2 AG|\
+BG E2| GG GG| Gg e2| e2 G/2- G G/2| AA G2|","BBB def|edB AFD|BBB def|edB e2c|
+BBB def|edB AFD|EDE BAF|FED E3|","afd dcd|ecA AFA|fed dcd|efd efg|
+aba g2e|fed cBA|Bcd efg|1 fdc d2f:|2 fdc d3||",B,音乐续写
+180,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:186
+M:4/4
+L:1/8
+K:E
+G-A| B3 AG z F/2- G3/2| A3 GB z F2| G3 F E2 D2| E3 z z2|B-c| =d2d-AB-cd-e|\
+e4 B2 B3/2 c/2| =d2 d4 z B/2F/2| F z z4| F3/2 F/2| G2 G2B-c =d2| e4 A2 B2|\","c/2 c3/2- c z B/2- G3/2 F2| F4 z2| B2| B3 BE zE-F| F3 GA z B,3/2- C/2|\
+C2 z D E2 E2| E2 z4||","bfd BFD | B,DF Bdf | c'fd Bcd | c=ef _ecA |\
+dBA GEC | A,CF Acf | ecA FGA | Bdc ""^D.C.""B2 |]","(e | a/g/f/e/) (f/e/d/c/) (d/e/f/g/) (a/e/c/A/) | (d/e/f/e/) (d/c/B/A/) (c2 {d/c/}B) e | (a/g/f/e/) (f/e/d/c/) (d/e/f/g/) (a/e/c/A/) | (d/c/B/A/) cB B2 A e |
+a/.A/.f/.A/ .e/.A/.c/.A/ (.e/.f/.g/.a/) (.e/.c/.B/.A/) | (f/g/a/e/) d/c/B/A/ (c2 {d/c/}B)E | E/D/C/E/ F/A/G/B/ A/e/a/c'/ e'A | (d/c/B/A/) {E}[Ec] [F/d/][E/c/] {c}[D2B2][CA] ||","ge fd ge | ae eg fa | fA G2 A2 | F2 D4 ||
+de/2d/2 cd/2c/2 A2 | Ac c^G Ac | F2 =G2 A2 | D2 D/2E/2F ED|]",A,音乐续写
+181,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:187
+M:4/4
+L:1/8
+K:D","B3A | G6F2(3G2A2B2 | D2E2F4
+B2A2 | G4e2d2c2B2 | G8","A,| D2 FD E2 GF| D6 z D| F2 FF F2 EG| F4 z2 FG| AB AF D2 FA| GG EC A,2 B,C|\
+D2 FA G2 EC| D2 FG A2 FG|A-d AFE-G EC| D6 z2|","|:FE|DFBF dFBF|DFBF dFBF|EFcF eFcF|EFcF eFcF|
+DFBF dFBF|EFcF eFcF|EFcA ecAc|BABc B2:|]","d4 B2|g4 B2|d2 c2 B2|A4 d2|
+f2 e2 d2|c2 B2 A2|G6|1 G4 B2:|2 G4||",B,音乐续写
+182,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 188
+M: 3/8
+L: 1/16
+K: G
+dc | B2B2A2 | G2 zgfe | d2d2c2 | B4dc | B2B2A2 | G2g4 | g2f2e2 | d2 |]
+fg | a2d2d2 | b2d2d2 | d2c'2b2 | b2a2f2 | g2f2e2 | d2c'2b2 | {b/}a2g2f2 | g4 |]","|:d2 de dGBd|ecfd g2 ge|d2 de d2 Bd|cBAG A2 Bc|
+d2 de dGBd|ecfd g2 ge|dbag dcBd|1 cAFA G2 Bc:|2 cAFA G4||","CEAc | ecae | cAEC | DB,B,E |\
+CEAc | ecae | cAEG | A2 :|","Bc | d2B2G2 | g2f2e2 | e2d2d2 | d4Bd | d2c2c2 | c4Ac | c2B2B2 | B4Bc |
+d2B2G2 | g2f2e2 | e2d2d2 | d4Bd | d2c2c2 | c2A2F2 | G2g2g2 | g4 |]","GGA BcB|c-BA- AA/2A/2A/2A/2G/2|
+^FFG ABA|B-AG- G3||",C,音乐续写
+183,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:189
+M:2/4
+L:1/8
+K:G
+d/c/|BDBD|B/A/B/c/ dB/d/|cEcE|c/B/c/d/ e/d/d/c/|
+BdBd B/A/B/c/ dc/B/|G/B/c/^c/ d/e/^e/f/|g<a g:|","|:g|b3-g|b3-g|gg a/g/-g|c3f|
+aa a/b/a/g/|f>g f/e/d|d/d/e/f/ g/f/g/a/ g:|]","g2 G2 Bd|g2 G2 Bd|g2 G2 g2|ed cB AG|\
+c2 dc BA|B2 cB AG|A3B d2|e4 d2:|","|: f2f2 a2^gf | e2d2 f4 | f2ef g2{ag}eg | b2a2 a4 |
+f2f2 a2^gf | e2d2 f4 | f2ef g2{ag}eg | f2d2 d4 :|","D3/2 F/2 F2 z F/2F/2| D3/2 G/2 G2 z A| B3/2- c/2 d2 z c| B3/2 B/2 B3 B|\
+cd f2 z f|g/2-f/2-e/2-d/2 e2 d3/2 c/2| B3/2- A/2 G3||",A,音乐续写
+184,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:190
+M:6/8
+L:1/8
+Q:3/8=90
+K:D
+A|def edc|d3A2F|GAB ABc|dAFD2A|
+def edc|d3A2F|GAB ABc|""d2 in MS""d3d2:|","c|B>d dg |e2 dc |B>G GB |AF Dc|B>d d<g|e2 dc |B>G AF |G3:|
+z|B2 G>B|c2 A>c|B2 G>B|AF D2|B2 G>B|c2 A>c|B>G A>F|G3:|","|:d|fga agf|f3Bcd|efe ege|d3c2A|
+dcB AGF|BAG FED|FGA cec|""d2 in MS""d3d2:|","GGA BcB|c-BA- AA/2A/2A/2A/2G/2|
+^FFG ABA|B-AG- G3||","[1 b2b2 d'baf | a2a2 (ba)(fe)|d3 b afef |d2B2B2 :|\
+[2 b2d'b a2ba | f2af egfe |d3 b afef |d2B2B2 |]",B,音乐续写
+185,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:191
+M:9/8
+L:1/8
+K:A","d | c2A AcA ecA | cec aec fga | c2A AcA ecA | BcB gdB Bcd :|
+|: cec aec aec | cec aec fga | cec aec aec | BcB fdB Bcd :|","E2E2A2A2 | G3Gc4 |
+B2eBdcBA | G2F2E2z2","d4B2 | g4ed | c2cdec | d4 :|
+|:D2 | C2DFAc | B,2DGBd | c2c2c2| d4D2|C2DFAc|B,2DGBd|d2e2f2|g4 :|","|:A|AABB ccdd|ccBB|e2 cE|AABB|ccdd|ccBB|A3 :|
+|: f/g/|aaaa|a2 fd|g2 ec|defg|aaaa |a2 fd|g2 ec|d3 :|",A,音乐续写
+186,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:192
+M:2/4
+L:1/8
+K:Emin
+E2- E/G/B/e/|^d/^c/B/c/ d/f/b|c'/ac'/ b/g/e|f/^ce/ ^d/c/B|
+E2- E/G/B/e/|^d/^c/B/c/ d/f/b|f=c c/B/c/A/|B/e/^d/f/ ez:|","AAAFAAAd | FFFED4 | dddBAAAF | FAFED4 |
+A3Bd2f2 | e2d2A4 | F3EF2A2 | D8","Adc ABc|dee dcA|~G3 cGE|GEA DEG|
+GAA DAD|AGE A2c|AGE cGE|DED D3|","Bc | d2 g2 f2 | c4 AB | c2 e2 d2 | B4 Bc | B2 A2 B2 | c4 cd | e2 d2 F2 | G4 :|
+|: GA | B2 G2 GA | B2 G2 GA | B2 d2 c2 | A4 FG | A2 F2 FG | A2 F2 FG | A2 c2 G2 | G4 :|","|:B,2-^D2|B/>^c/ (3d/c/B/ e/>f/ (3g/f/e/|=c2B2|A/c/B/A/ B/G/E|
+B,2- ^D2|B/>^c/ (3^d/c/B/ e/>f/ (3g/f/e/|f/bB/ e/B/G/E/|B,/^DF/ Ez:|]",D,音乐续写
+187,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:193
+M:C
+L:1/8
+K:Bb
+(3FGA)|BFGA Bcde|(f>b)a>g (g>f)e>d|(e>d)b>d (d>c)a>c|(c>B)g>B (A>F)G>A|
+BFGA Bcde|(f>b)a>g (g>f)e>d|(e>d)b>d (d>c)a>c|c2B2 B2:|","agf e2d/c/ | cBG F>FF | BBB Hg2f/e/ | dB{d}c B3 ""^slow""|\
+!p!Hd3 cBA | A2G HF3 !f!| Hb2B Bcd | d2c B2 |]","Bd^cd DGBd|^cdcd DFA=c|BFGA Bcc^d|^cAFAd2dc|
+Bd^cd DGBd|^cdcd DFA=c|Bcde gdBG|EAFDG2||","dBAF|G>ABd|A>GFE|D2 DE|F2 FD|G>FGE|
+F2 FD|E2 zA|F>FFD|G>GGB|AGFE|D3||","|:(F>D)|(B,>D)F>B (d>B)A>B|(C>F)A>c e>c~c2|(d>f)b>a (g>f)e>d|(3cdc (3BAG (3FGF (3EDC|
+(B,>D)F>B (d>B)A>B|(C>F)A>c ec~c2|(d>f)b>f (g>e)c>A|c2B2 B2:|]",D,音乐续写
+188,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:194
+L:1/8
+M:6/4
+K:Bmin
+F|B3c d2 [D4F4] [d2f2]|e2d2c2 d B3F2|B3c d2 [D4F4] (FE)|E2F2 [F2^A2] [D4B4]:|","(B>c)|d4 (cB) e4 (dc)|(f3 gf^e) f2 d2 (B>c)|d4 cB e4 (dc)|f3 (gf^e) f4|
+a4 (fd) g4 (ec)|f4 dB c2 ^A2 F2|f3 e d2 e2d2c2|(c2f2) [F2^A2] [D4B4]||","c|B>d dg |e2 dc |B>G GB |AF Dc|B>d d<g|e2 dc |B>G AF |G3:|
+z|B2 G>B|c2 A>c|B2 G>B|AF D2|B2 G>B|c2 A>c|B>G A>F|G3:|","|: d2g f/g/af | e/f/ge d/e/fd | B2f fdB | BcB fdB |
+d2g f/g/af | e/f/ge d/e/fd | A2e ecA | ABA ecA :|]","A|dff egg|faa gbb|agf agf|eee e2A|dff egg|faa gbb|agf gfe|ddd d2:|
+|:a|aff gee|fdd eAA|aff fed|eee e2A|AFd dAf|fdb a2g|fed Adc|ddd d2:||",A,音乐续写
+189,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:195
+M:4/4
+L:1/8
+K:G
+G2G>A BGAB|E2A>G GFED|G2G>A BGAB|cBAG AGFE|
+D2G>A BGAB|E2A>G GFED|G2BG EFGE|DAFDG4:||","A2A>^G ABcA|B2B>^A BcdB|c2ec BdBG|AGFED4|
+D2EF G>ABG|E2FG A>BcA|B2ABc2BA|G2F2G4:||","(G3A) B2 | c6 | (c3B) G2 | (AB) c4- | c4 E2 | (F2G4) | (F3E) C2 | E6 |
+(C3DE2) | (F4G2) | (F3E) C2 | B2 c4- | c4 (GE) | (F4G2) | (F3E) C2 | C6 ||","|:c/d/|efef efga|fddf edcd|edcA Bcde|defg a2 gf|
+eded efga|fddf edcd|edcA Bcde|d2d2d2:|]","a2d|d'/d'/ zg|a2 g/a/|ggg|g2 g/d/|g2 b/a/|b2 b/a/|b2b/a/|
+d'2 b/g/|d'2 b/g/|d'd'd'|!fermata!d'2d|g<bg|a2 g/a/|ggg|g2||",A,音乐续写
+190,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X: 196
+M: 3/2
+L: 1/8
+K: D
+|:\
+FG A4 B2 A4 | EFGA B2G2 c2E2 | FG A4 d2 c4 | d2AG F2c2 d2D2 :| defg f2d2 f4 |","A2A>^G ABcA|B2B>^A BcdB|c2ec BdBG|AGFED4|
+D2EF G>ABG|E2FG A>BcA|B2ABc2BA|G2F2G4:||","(cd) e4 f2 e2c2 | (de) (fg) f2d2 (f/g/a3) | (cd)e2 ABc2 B2A2 | E2G2 B2d2 cB AG |
+F2B2 (cd)e2 (c3B/c/) | d3e f2B2 c2A2 | d6 f2 e2d2 |]","A2A>^G ABcA|B2B>^A BcdB|c2ec BdBG|AGFED4|
+D2EF G>ABG|E2FG A>BcA|B2ABc2BA|G2F2G4:||","A|c2 d|cAF |c2d|cAF|cAF |cAF|d>cB/A/|G2
+C|F2 F|G>FG|AcA|GFG|A>GF|FDC|CD F |F2|]",B,音乐续写
+191,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:197
+M:3/4
+L:1/8
+Q:""Moderato""
+K:C
+G2|(c2d2)F2|(F2E2)C2|E2G2 (cB)|c4 G2|
+(c2d2) F2|(F2E2) C2|E2G2 (cB)|[E4c4]||","Beeeee | ceeeee | Beeeee | c2BcA2 |
+fagfge | f2efd2 | e2A2c2 | d6 :|","|:d2BG DGBd|gdfd edBd|e2cA FAce|aege fage|
+d2BG DGBd|gdfd edBd|cded cAAG|1 FGAF GABc:|2 FGAF GDB,D||","G2|c2e2g2|f2e2d2|c2c2G2|[c4e4] (fe)|
+(d2c2)F2|(F2E2)C2|(E2G2) (cB)|[E4c4]||","|:F2 A2 A2 e2 d2 c2|B3 c BAGF G2 E2|F2 A2 A2 e2 d2 c2|B2 A2 G2 F2 E4|
+F2 A2 A2 e2 d2 c2|B2 e2 f2 ef g2 fg|a4 f2 ed e2 c2|1 B2 AG A4 A2 G2:|2 B2 AG A8||",C,音乐续写
+192,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:198
+Q:120
+L:1/8
+M:2/4
+K:F
+C | F3/2 F/ F A | G7/4 F/4 Gz/ A/ | F/ F3/2 A c | d3f |
+| c3/2 A/ A F | G3/2 F/ G/ z/ A/ | F3/2 D/ (DC) | F3 ||","A2 | B2B BAG | A2 A A3 | G2G GAB | A2F D3 | B2B BAG | A2A A3 | GAG FEF
+| G6 :|","DD D| G/2G/2 G G/2G/2 GG dB G| A2 D2 D2 DD| A/2A/2 A A/2A/2 AA Bc d|\
+B2 G2 G2 AB| cc cc ce dc| BB BB Bd cA| G4 F4| G4 z2||","""Chorus""f/ | c/A3/2 (A3/2F/) | G3/2 F/ Gz/A/ | (c/A3/2) (A3/2c/) |
+| d3z/ f/ | c A A F | G3/2 F/ G z/A/ | (F/D3/2) (D3/2C/) | F3 |]","ABA A2G|F2E D3 |ABA AFA|B3 d3|dcB ABG|FGE D3 |def ecA|B3 d3:|
+d2e fgf|e2d c2A|d2e fgf|e3 A3|d2e fgf|e2d cBc|dcB AFA|B3 d3:|",C,音乐续写
+193,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:199
+Q:120
+L:1/8
+M:2/4
+K:F
+C | F3/2 F/ F A | G7/4 F/4 Gz/ A/ | F/ F3/2 A c | d3f |
+| c3/2 A/ A F | G3/2 F/ G/ z/ A/ | F3/2 D/ (DC) | F3 ||","""Chorus""f/ | c/A3/2 (A3/2F/) | G3/2 F/ Gz/A/ | (c/A3/2) (A3/2c/) |
+| d3z/ f/ | c A A F | G3/2 F/ G z/A/ | (F/D3/2) (D3/2C/) | F3 |]","|:f/g/|aaaa|a2 fd|g2ec|defg|
+aaaa|a2 fd|g2 ec|d3:|]","|:fA BA|fA BA|d2 e>f|ed BA|fA BA| fA BA|d2 e>f| ed d2:|
+|:fa f>e| ed BA|d2 e>f| ed BA|fa f>e| ed BA|d2 e>f |ed d2:|","z2dde2dB | d2B2A2A2 | d2BBd2d2 | G3AB2A2- | A2z6 |
+z6E2 | B2EGz4 | z2B4gB | BdBAGAE2- | E2z6",A,音乐续写
+194,"请根据输入的旋律选择最匹配的旋律续写片段：
+
+X:200
+M: 2/4
+L: 1/16
+K: G
+(3(DEF) |\
+.G2.A2.B2.c2 | d^cde (dB)G2 |\
+ge3 gd3 | ge3 gd3 (3(DEF) |\
+.G2.A2.B2.c2 | d^cde (dB)G2 |
+AB^cd e3g | fde^c d2 (3(DEF) |\
+.G2.A2.B2.c2 | d^cde (dB)G2 |\
+ge3 gd3 | ge3 gd2d |
+[gd][gd][ed]d [gd][gd][ed]d | [gd][gd][ed]d [g2d2]d2 |\
+gg3 gaga | g4- g2d2 ::\
+[gd][gd]ed [gd][gd]ed | [gd][gd]ed [g2d2]d2 |
+[gd][gd]ed [gd][g2d2][gd] | a3b aged |\","[gd][gd]ed [gd][gd]ed | [gd][gd]ed ""^^""[g2d2]d2 |\
+[gd][g3d3] gaga | g4- g2 :|","|:D2-|DEGE BcdB|eBdB eg3|(_B=B2)A BAGE|GEBB AGED|
+EGGA BcdB|eB[dg]B eg3|(_B=B2)B AGEG|(_B=B2)AG-G2:|","CEAc | ecae | cAEC | DB,B,E |\
+CEAc | ecae | cAEG | A2 :|","f2ff f2 (fg)|Tf4 z2 (fg)|a2 ag f2 fe|d2d2A2A2|abag fgfe|d2d2A2A2|
+D2 DD D2F2|D2 DD D2 fg|a2 de f2 fg|a2 df e2 fg|a2 gf Te3d |d6:|]",A,音乐续写
