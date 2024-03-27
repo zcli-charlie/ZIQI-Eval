@@ -121,7 +121,7 @@ cd ZIQI-Eval/src
 ```
 @misc{li2023ziqieval,
       title={ZIQI-Eval: A Library and Information Science Benchmark for Large Language Models}, 
-      author={Jiajia Li and Lu Yang and Mingni Tang and Cong Chen and Zuchao Li* and Ping Wang* and Hai Zhao},
+      author={XXXXX},
       year={2024},
       eprint={xxx},
       archivePrefix={xxxx},
